@@ -1041,6 +1041,104 @@
         </p>
       </e>
     </pardef>
+    <pardef n="brie/dis__n">
+      <e>
+        <p>
+          <l>dis</l>
+          <r>dis<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ža</l>
+          <r>dis<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ža</l>
+          <r>dis<s n="n"/><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dim</l>
+          <r>dis<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>di</l>
+          <r>dis<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>di</l>
+          <r>dis<s n="n"/><s n="m"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dī</l>
+          <r>dis<s n="n"/><s n="m"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>di</l>
+          <r>dis<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ži</l>
+          <r>dis<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>žu</l>
+          <r>dis<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>žiem</l>
+          <r>dis<s n="n"/><s n="m"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>žiem</l>
+          <r>dis<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>žus</l>
+          <r>dis<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>žiem</l>
+          <r>dis<s n="n"/><s n="m"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>žos</l>
+          <r>dis<s n="n"/><s n="m"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ži</l>
+          <r>dis<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="tirg/us__n">
       <e>
         <p>
@@ -1551,6 +1649,7 @@
     <e lm="skapis"><i>skap</i><par n="skap/is__n"/></e>
     <e lm="ritenis"><i>rite</i><par n="rite/nis__n"/></e>
     <e lm="lācis"><i>lā</i><par n="lā/cis__n"/></e>
+    <e lm="briedis"><i>brie</i><par n="brie/dis__n"/></e>
     <e lm="tirgus"><i>tirg</i><par n="tirg/us__n"/></e>
     <e lm="sieva"><i>siev</i><par n="siev/a__n"/></e>
     <e lm="planēta"><i>planēt</i><par n="siev/a__n"/></e>
