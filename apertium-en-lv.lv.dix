@@ -1439,6 +1439,56 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Latvij/a__np">
+      <e>
+        <p>
+          <l>a</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>as</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>as</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ai</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ā</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="up/e__n">
       <e>
         <p>
@@ -1744,6 +1794,7 @@
     <e lm="vīrs"><i>vīr</i><par n="vīr/s__n"/></e>
     <e lm="sods"><i>sod</i><par n="vīr/s__n"/></e>
     <e lm="purpurs"><i>purpur</i><par n="vīr/s__n"/></e>
+    <e lm="hlorofilss"><i>hlorofil</i><par n="vīr/s__n"/></e>
     <e lm="skapis"><i>skap</i><par n="skap/is__n"/></e>
     <e lm="ritenis"><i>rite</i><par n="rite/nis__n"/></e>
     <e lm="lācis"><i>lā</i><par n="lā/cis__n"/></e>
@@ -1766,9 +1817,23 @@
     <e lm="priekšāda"><i>priekšād</i><par n="siev/a__n"/></e>
     <e lm="lūpa"><i>lūp</i><par n="siev/a__n"/></e>
     <e lm="runa"><i>run</i><par n="siev/a__n"/></e>
+    <e lm="aka"><i>ak</i><par n="siev/a__n"/></e>
+    <e lm="astrofizika"><i>astrofizik</i><par n="siev/a__n"/></e>
+    <e lm="fizika"><i>fizik</i><par n="siev/a__n"/></e>
+    <e lm="galaktika"><i>galaktik</i><par n="siev/a__n"/></e>
+    <e lm="galvaspilsēta"><i>galvaspilsēt</i><par n="siev/a__n"/></e>
+    <e lm="pilsēta"><i>pilsēt</i><par n="siev/a__n"/></e>
+    <e lm="bārda"><i>bārd</i><par n="siev/a__n"/></e>
     <e lm="upe"><i>up</i><par n="up/e__n"/></e>
     <e lm="nakts"><i>nakt</i><par n="nakt/s__n"/></e>
+
     <e lm="Bagdāde"><i>Bagdād</i><par n="Bagdād/e__np"/></e>
+    <e lm="Latvija"><i>Latvij</i><par n="Latvij/a__np"/></e>
+    <e lm="Polija"><i>Polij</i><par n="Latvij/a__np"/></e>
+    <e lm="Ungārija"><i>Ungārij</i><par n="Latvij/a__np"/></e>
+    <e lm="Austrālija"><i>Austrālij</i><par n="Latvij/a__np"/></e>
+    <e lm="Aļaska"><i>Aļask</i><par n="Latvij/a__np"/></e>
+    <e lm="Afganistāna"><i>Afganistān</i><par n="Latvij/a__np"/></e>
 
     <e lm="valoda"><i>valod</i><par n="siev/a__n"/></e>
     <e lm="itāļu valoda"><i>itāļu<b/>valod</i><par n="siev/a__n"/></e>
