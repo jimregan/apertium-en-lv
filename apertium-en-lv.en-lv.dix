@@ -47,6 +47,8 @@
   <e><p><l>purple<s n="n"/></l><r>purpurs<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>wheel<s n="n"/></l><r>ritenis<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>clock<s n="n"/></l><r>pulkstenis<s n="n"/><s n="m"/></r></p></e>
+  <e><p><l>cricket<s n="n"/></l><r>circenis<s n="n"/><s n="m"/></r></p></e>
+  <e><p><l>maggot<s n="n"/></l><r>cirmenis<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>bear<s n="n"/></l><r>lācis<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>deer<s n="n"/></l><r>briedis<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>angel<s n="n"/></l><r>eņģelis<s n="n"/><s n="m"/></r></p></e>
@@ -66,6 +68,10 @@
   <e><p><l>money<s n="n"/></l><r>nauda<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>marijuana<s n="n"/></l><r>marihuāna<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>speech<s n="n"/></l><r>runa<s n="n"/><s n="f"/></r></p></e>
+  <e><p><l>oil<s n="n"/></l><r>eļļa<s n="n"/><s n="f"/></r></p></e>
+  <e><p><l>meat<s n="n"/></l><r>gaļa<s n="n"/><s n="f"/></r></p></e>
+  <e><p><l>head<s n="n"/></l><r>galva<s n="n"/><s n="f"/></r></p></e>
+  <e><p><l>marten<s n="n"/></l><r>cauna<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>well<s n="n"/></l><r>aka<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>astrophysics<s n="n"/></l><r>astrofizika<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>physics<s n="n"/></l><r>fizika<s n="n"/><s n="f"/></r></p></e>
@@ -74,6 +80,8 @@
   <e><p><l>capital<b/>city<s n="n"/></l><r>galvaspilsēta<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>city<s n="n"/></l><r>pilsēta<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>beard<s n="n"/></l><r>bārda<s n="n"/><s n="f"/></r></p></e>
+  <e><p><l>price<s n="n"/></l><r>cena<s n="n"/><s n="f"/></r></p></e>
+  <e><p><l>pig<s n="n"/></l><r>cūka<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>atomic<b/>number<s n="n"/></l><r>atomskaitlis<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>iron<s n="n"/></l><r>dzelzs<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>beer<s n="n"/></l><r>alus<s n="n"/><s n="m"/></r></p></e>

@@ -560,93 +560,93 @@
       <e>
         <p>
           <l>esmu</l>
-          <r>būt<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
+          <r>būt<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>esi</l>
-          <r>būt<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/><s n="mf"/></r>
+          <r>būt<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ir</l>
-          <r>būt<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sp"/><s n="mf"/></r>
+          <r>būt<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sp"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>esam</l>
-          <r>būt<s n="vbser"/><s n="pres"/><s n="p1"/><s n="pl"/><s n="mf"/></r>
+          <r>būt<s n="vbser"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>esat</l>
-          <r>būt<s n="vbser"/><s n="pres"/><s n="p2"/><s n="pl"/><s n="mf"/></r>
+          <r>būt<s n="vbser"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <!-- Past -->
       <e>
         <p>
           <l>biju</l>
-          <r>būt<s n="vbser"/><s n="past"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
+          <r>būt<s n="vbser"/><s n="past"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>biji</l>
-          <r>būt<s n="vbser"/><s n="past"/><s n="p2"/><s n="sg"/><s n="mf"/></r>
+          <r>būt<s n="vbser"/><s n="past"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>bija</l>
-          <r>būt<s n="vbser"/><s n="past"/><s n="p3"/><s n="sp"/><s n="mf"/></r>
+          <r>būt<s n="vbser"/><s n="past"/><s n="p3"/><s n="sp"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>bijām</l>
-          <r>būt<s n="vbser"/><s n="past"/><s n="p1"/><s n="pl"/><s n="mf"/></r>
+          <r>būt<s n="vbser"/><s n="past"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>bijāt</l>
-          <r>būt<s n="vbser"/><s n="past"/><s n="p2"/><s n="pl"/><s n="mf"/></r>
+          <r>būt<s n="vbser"/><s n="past"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <!-- Future -->
       <e>
         <p>
           <l>būšu</l>
-          <r>būt<s n="vbser"/><s n="fut"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
+          <r>būt<s n="vbser"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>būsi</l>
-          <r>būt<s n="vbser"/><s n="fut"/><s n="p2"/><s n="sg"/><s n="mf"/></r>
+          <r>būt<s n="vbser"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>būs</l>
-          <r>būt<s n="vbser"/><s n="fut"/><s n="p3"/><s n="sp"/><s n="mf"/></r>
+          <r>būt<s n="vbser"/><s n="fut"/><s n="p3"/><s n="sp"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>būsim</l>
-          <r>būt<s n="vbser"/><s n="fut"/><s n="p1"/><s n="pl"/><s n="mf"/></r>
+          <r>būt<s n="vbser"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>būsit</l>
-          <r>būt<s n="vbser"/><s n="fut"/><s n="p2"/><s n="pl"/><s n="mf"/></r>
+          <r>būt<s n="vbser"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
     </pardef>
@@ -1801,6 +1801,8 @@
     <e lm="skapis"><i>skap</i><par n="skap/is__n"/></e>
     <e lm="ritenis"><i>rite</i><par n="rite/nis__n"/></e>
     <e lm="pulkstenis"><i>pulkste</i><par n="rite/nis__n"/></e>
+    <e lm="circenis"><i>circe</i><par n="rite/nis__n"/></e>
+    <e lm="cirmenis"><i>cirme</i><par n="rite/nis__n"/></e>
     <e lm="lācis"><i>lā</i><par n="lā/cis__n"/></e>
     <e lm="briedis"><i>brie</i><par n="brie/dis__n"/></e>
     <e lm="āpsis"><i>āp</i><par n="āp/sis__n"/></e>
@@ -1810,6 +1812,10 @@
     <e lm="planēta"><i>planēt</i><par n="siev/a__n"/></e>
     <e lm="mala"><i>mal</i><par n="siev/a__n"/></e>
     <e lm="policija"><i>policij</i><par n="siev/a__n"/></e>
+    <e lm="eļļa"><i>eļļ</i><par n="siev/a__n"/></e>
+    <e lm="gaļa"><i>gaļ</i><par n="siev/a__n"/></e>
+    <e lm="galva"><i>galv</i><par n="siev/a__n"/></e>
+    <e lm="cauna"><i>caun</i><par n="siev/a__n"/></e>
     <e lm="problēma"><i>problēm</i><par n="siev/a__n"/></e>
     <e lm="pārtika"><i>pārtik</i><par n="siev/a__n"/></e>
     <e lm="prostitūcija"><i>prostitūcij</i><par n="siev/a__n"/></e>
@@ -1823,6 +1829,8 @@
     <e lm="lūpa"><i>lūp</i><par n="siev/a__n"/></e>
     <e lm="runa"><i>run</i><par n="siev/a__n"/></e>
     <e lm="aka"><i>ak</i><par n="siev/a__n"/></e>
+    <e lm="cena"><i>cen</i><par n="siev/a__n"/></e>
+    <e lm="cūka"><i>cūk</i><par n="siev/a__n"/></e>
     <e lm="astrofizika"><i>astrofizik</i><par n="siev/a__n"/></e>
     <e lm="fizika"><i>fizik</i><par n="siev/a__n"/></e>
     <e lm="galaktika"><i>galaktik</i><par n="siev/a__n"/></e>
