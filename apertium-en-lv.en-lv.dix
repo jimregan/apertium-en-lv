@@ -1,4 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<alphabet/>
+<sdefs>
+  <sdef n="n"/>
+  <sdef n="ant"/>
+  <sdef n="m"/>
+  <sdef n="f"/>
+  <sdef n="np"/>
+  <sdef n="ant"/>
+  <sdef n="top"/>
+  <sdef n="det"/>
+  <sdef n="itg"/>
+  <sdef n="sg"/>
+  <sdef n="pl"/>
+  <sdef n="sp"/>
+  <sdef n="adj"/>
+  <sdef n="adv"/>
+  <sdef n="vbser"/>
+  <sdef n="pr"/>
+</sdefs>
+<pardefs/>
 <section id="main" type="standard">
   <!-- Proper names: Men -->
   <!-- in Latvia, the general policy is to translate *all* proper names -->
