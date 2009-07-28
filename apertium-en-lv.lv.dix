@@ -38,6 +38,9 @@
     <sdef n="inf"/>
     <sdef n="np"/>
     <sdef n="top"/>
+    <sdef n="emph"/>
+    <sdef n="det"/>
+    <sdef n="itg"/>
   </sdefs>
   
   <pardefs>
@@ -1797,6 +1800,7 @@
     <e lm="hlorofilss"><i>hlorofil</i><par n="vīr/s__n"/></e>
     <e lm="skapis"><i>skap</i><par n="skap/is__n"/></e>
     <e lm="ritenis"><i>rite</i><par n="rite/nis__n"/></e>
+    <e lm="pulkstenis"><i>pulkste</i><par n="rite/nis__n"/></e>
     <e lm="lācis"><i>lā</i><par n="lā/cis__n"/></e>
     <e lm="briedis"><i>brie</i><par n="brie/dis__n"/></e>
     <e lm="āpsis"><i>āp</i><par n="āp/sis__n"/></e>
@@ -1807,6 +1811,7 @@
     <e lm="mala"><i>mal</i><par n="siev/a__n"/></e>
     <e lm="policija"><i>policij</i><par n="siev/a__n"/></e>
     <e lm="problēma"><i>problēm</i><par n="siev/a__n"/></e>
+    <e lm="pārtika"><i>pārtik</i><par n="siev/a__n"/></e>
     <e lm="prostitūcija"><i>prostitūcij</i><par n="siev/a__n"/></e>
     <e lm="reliģija"><i>reliģij</i><par n="siev/a__n"/></e>
     <e lm="kultūra"><i>kultūr</i><par n="siev/a__n"/></e>

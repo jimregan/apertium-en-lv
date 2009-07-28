@@ -1,10 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
 <alphabet/>
 <sdefs>
   <sdef n="n"/>
   <sdef n="ant"/>
   <sdef n="m"/>
   <sdef n="f"/>
+  <sdef n="mf"/>
   <sdef n="np"/>
   <sdef n="ant"/>
   <sdef n="top"/>
@@ -44,6 +46,7 @@
   <e><p><l>punishment<s n="n"/></l><r>sods<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>purple<s n="n"/></l><r>purpurs<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>wheel<s n="n"/></l><r>ritenis<s n="n"/><s n="m"/></r></p></e>
+  <e><p><l>clock<s n="n"/></l><r>pulkstenis<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>bear<s n="n"/></l><r>lācis<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>deer<s n="n"/></l><r>briedis<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>angel<s n="n"/></l><r>eņģelis<s n="n"/><s n="m"/></r></p></e>
@@ -67,6 +70,7 @@
   <e><p><l>astrophysics<s n="n"/></l><r>astrofizika<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>physics<s n="n"/></l><r>fizika<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>galaxy<s n="n"/></l><r>galaktika<s n="n"/><s n="f"/></r></p></e>
+  <e><p><l>food<s n="n"/></l><r>pārtika<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>capital<b/>city<s n="n"/></l><r>galvaspilsēta<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>city<s n="n"/></l><r>pilsēta<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>beard<s n="n"/></l><r>bārda<s n="n"/><s n="f"/></r></p></e>
@@ -81,3 +85,4 @@
   <e><p><l>English<b/>language<s n="n"/></l><r>angļu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>Latvian<b/>language<s n="n"/></l><r>latviešu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
 </section>
+</dictionary>
