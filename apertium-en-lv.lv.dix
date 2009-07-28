@@ -1797,7 +1797,12 @@
     <e lm="vīrs"><i>vīr</i><par n="vīr/s__n"/></e>
     <e lm="sods"><i>sod</i><par n="vīr/s__n"/></e>
     <e lm="purpurs"><i>purpur</i><par n="vīr/s__n"/></e>
-    <e lm="hlorofilss"><i>hlorofil</i><par n="vīr/s__n"/></e>
+    <e lm="hlorofils"><i>hlorofil</i><par n="vīr/s__n"/></e>
+    <e lm="lietvārds"><i>lietvārd</i><par n="vīr/s__n"/></e>
+    <e lm="filtrs"><i>filtr</i><par n="vīr/s__n"/></e>
+    <e lm="dators"><i>dator</i><par n="vīr/s__n"/></e>
+    <e lm="kompjūters"><i>kompjūter</i><par n="vīr/s__n"/></e>
+    <e lm="dēmons"><i>dēmon</i><par n="vīr/s__n"/></e>
     <e lm="skapis"><i>skap</i><par n="skap/is__n"/></e>
     <e lm="ritenis"><i>rite</i><par n="rite/nis__n"/></e>
     <e lm="pulkstenis"><i>pulkste</i><par n="rite/nis__n"/></e>
@@ -1837,7 +1842,10 @@
     <e lm="galvaspilsēta"><i>galvaspilsēt</i><par n="siev/a__n"/></e>
     <e lm="pilsēta"><i>pilsēt</i><par n="siev/a__n"/></e>
     <e lm="bārda"><i>bārd</i><par n="siev/a__n"/></e>
+    <e lm="dioskorėja"><i>dioskorėj</i><par n="siev/a__n"/></e>
+    <e lm="literatūra"><i>literatūr</i><par n="siev/a__n"/></e>
     <e lm="upe"><i>up</i><par n="up/e__n"/></e>
+    <e lm="dvēsele"><i>dvēsel</i><par n="up/e__n"/></e>
     <e lm="nakts"><i>nakt</i><par n="nakt/s__n"/></e>
 
     <e lm="Bagdāde"><i>Bagdād</i><par n="Bagdād/e__np"/></e>

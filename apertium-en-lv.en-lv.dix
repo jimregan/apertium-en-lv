@@ -82,11 +82,19 @@
   <e><p><l>beard<s n="n"/></l><r>bārda<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>price<s n="n"/></l><r>cena<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>pig<s n="n"/></l><r>cūka<s n="n"/><s n="f"/></r></p></e>
+  <e><p><l>soul<s n="n"/></l><r>dvēsele<s n="n"/><s n="f"/></r></p></e>
+  <e><p><l>yam<s n="n"/></l><r>dioskorėja<s n="n"/><s n="f"/></r></p></e>
+  <e><p><l>literature<s n="n"/></l><r>literatūra<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>atomic<b/>number<s n="n"/></l><r>atomskaitlis<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>iron<s n="n"/></l><r>dzelzs<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>beer<s n="n"/></l><r>alus<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>chlorophyll<s n="n"/></l><r>hlorofils<s n="n"/><s n="m"/></r></p></e>
+  <e><p><l>noun<s n="n"/></l><r>lietvārds<s n="n"/><s n="m"/></r></p></e>
+  <e><p><l>filter<s n="n"/></l><r>filtrs<s n="n"/><s n="m"/></r></p></e>
+  <e><p><l>demon<s n="n"/></l><r>dēmons<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>resurrection<s n="n"/></l><r>augšāmcelšanās<s n="n"/><s n="m"/></r></p></e>
+  <e><p><l>computer<s n="n"/></l><r>kompjūters<s n="n"/><s n="m"/></r></p></e>
+  <e r="RL"><p><l>computer<s n="n"/></l><r>dators<s n="n"/><s n="m"/></r></p></e>
 
   <e><p><l>language<s n="n"/></l><r>valoda<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>Italian<b/>language<s n="n"/></l><r>itāļu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
