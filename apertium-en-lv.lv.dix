@@ -1661,8 +1661,12 @@
     <e lm="kultūra"><i>kultūr</i><par n="siev/a__n"/></e>
     <e lm="lidosta"><i>lidost</i><par n="siev/a__n"/></e>
     <e lm="priekšāda"><i>priekšād</i><par n="siev/a__n"/></e>
+    <e lm="lūpa"><i>lūp</i><par n="siev/a__n"/></e>
     <e lm="upe"><i>up</i><par n="up/e__n"/></e>
     <e lm="nakts"><i>nakt</i><par n="nakt/s__n"/></e>
     <e lm="Bagdāde"><i>Bagdād</i><par n="Bagdād/e__np"/></e>
+
+    <e lm="valoda"><i>valod</i><par n="siev/a__n"/></e>
+    <e lm="itāļu valoda"><i>itāļu<b/>valod</i><par n="siev/a__n"/></e>
   </section>
 </dictionary>
