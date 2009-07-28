@@ -27,7 +27,7 @@
     <sdef n="mf"/>
     <sdef n="vbser"/>
     <sdef n="vblex"/>
-    <sdef n="pres"     c="Tagadne"/>
+    <sdef n="pri"     c="Tagadne"/>
     <sdef n="past"     c="Pagātne"/>
     <sdef n="fut"      c="Nākotne"/>
     <sdef n="p1"/>
@@ -560,31 +560,31 @@
       <e>
         <p>
           <l>esmu</l>
-          <r>būt<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>būt<s n="vbser"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>esi</l>
-          <r>būt<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>būt<s n="vbser"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ir</l>
-          <r>būt<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sp"/></r>
+          <r>būt<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>esam</l>
-          <r>būt<s n="vbser"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>būt<s n="vbser"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>esat</l>
-          <r>būt<s n="vbser"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>būt<s n="vbser"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <!-- Past -->
@@ -650,7 +650,110 @@
         </p>
       </e>
     </pardef>
-
+    <pardef n="mīl/ēt__vblex">
+      <e>
+        <p>
+          <l>ēšu</l>
+          <r>ēt<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēsim</l>
+          <r>ēt<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēsi</l>
+          <r>ēt<s n="vblex"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēsiet</l>
+          <r>ēt<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēsit</l>
+          <r>ēt<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēs</l>
+          <r>ēt<s n="vblex"/><s n="fut"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēt</l>
+          <r>ēt<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēju</l>
+          <r>ēt<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ējām</l>
+          <r>ēt<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēji</l>
+          <r>ēt<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ējāt</l>
+          <r>ēt<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēja</l>
+          <r>ēt<s n="vblex"/><s n="past"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>ēt<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>am</l>
+          <r>ēt<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ēt<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>at</l>
+          <r>ēt<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>ēt<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="vīr/s__n">
       <e>
@@ -1863,5 +1966,8 @@
     <e lm="itāļu valoda"><i>itāļu<b/>valod</i><par n="siev/a__n"/></e>
     <e lm="angļu valoda"><i>angļu<b/>valod</i><par n="siev/a__n"/></e>
     <e lm="latviešu valoda"><i>latviešu<b/>valod</i><par n="siev/a__n"/></e>
+
+    <e lm="mīlēt"><i>mīl</i><par n="mīl/ēt__vblex"/></e>
+
   </section>
 </dictionary>

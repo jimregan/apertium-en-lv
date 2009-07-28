@@ -18,6 +18,7 @@
   <sdef n="adj"/>
   <sdef n="adv"/>
   <sdef n="vbser"/>
+  <sdef n="vblex"/>
   <sdef n="pr"/>
 </sdefs>
 <pardefs/>
@@ -101,5 +102,7 @@
   <e><p><l>Italian<b/>language<s n="n"/></l><r>itāļu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>English<b/>language<s n="n"/></l><r>angļu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>Latvian<b/>language<s n="n"/></l><r>latviešu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
+
+  <e><p><l>love<s n="vblex"/></l><r>mīlēt<s n="vblex"/></r></p></e>
 </section>
 </dictionary>
