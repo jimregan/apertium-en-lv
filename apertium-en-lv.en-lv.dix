@@ -23,6 +23,7 @@
   <e><p><l>bear<s n="n"/></l><r>lācis<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>deer<s n="n"/></l><r>briedis<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>angel<s n="n"/></l><r>eņģelis<s n="n"/><s n="m"/></r></p></e>
+  <e><p><l>badger<s n="n"/></l><r>āpsis<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>religion<s n="n"/></l><r>reliģija<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>prostitution<s n="n"/></l><r>prostitūcija<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>problem<s n="n"/></l><r>problēma<s n="n"/><s n="f"/></r></p></e>
@@ -44,4 +45,5 @@
 
   <e><p><l>language<s n="n"/></l><r>valoda<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>Italian<b/>language<s n="n"/></l><r>itāļu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
+  <e><p><l>English<b/>language<s n="n"/></l><r>angļu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
 </section>
