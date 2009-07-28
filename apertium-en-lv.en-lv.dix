@@ -36,6 +36,8 @@
   <e><p><l>Hungary<s n="np"/><s n="top"/></l><r>Ungārija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
   <e><p><l>Poland<s n="np"/><s n="top"/></l><r>Polija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
   <e><p><l>Latvia<s n="np"/><s n="top"/></l><r>Latvija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+  <e><p><l>Warsaw<s n="np"/><s n="top"/></l><r>Varšava<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+  <e><p><l>Riga<s n="np"/><s n="top"/></l><r>Rīga<s n="np"/><s n="top"/><s n="f"/></r></p></e>
   <!-- nouns -->
   <e><p><l>Afrikaans<s n="n"/></l><r>Afrikandu<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>bison<s n="n"/></l><r>bizons<s n="n"/><s n="m"/></r></p></e>
@@ -77,4 +79,5 @@
   <e><p><l>language<s n="n"/></l><r>valoda<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>Italian<b/>language<s n="n"/></l><r>itāļu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>English<b/>language<s n="n"/></l><r>angļu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
+  <e><p><l>Latvian<b/>language<s n="n"/></l><r>latviešu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
 </section>

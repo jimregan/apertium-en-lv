@@ -1834,9 +1834,12 @@
     <e lm="Austrālija"><i>Austrālij</i><par n="Latvij/a__np"/></e>
     <e lm="Aļaska"><i>Aļask</i><par n="Latvij/a__np"/></e>
     <e lm="Afganistāna"><i>Afganistān</i><par n="Latvij/a__np"/></e>
+    <e lm="Rīga"><i>Rīg</i><par n="Latvij/a__np"/></e>
+    <e lm="Varšava"><i>Varšav</i><par n="Latvij/a__np"/></e>
 
     <e lm="valoda"><i>valod</i><par n="siev/a__n"/></e>
     <e lm="itāļu valoda"><i>itāļu<b/>valod</i><par n="siev/a__n"/></e>
     <e lm="angļu valoda"><i>angļu<b/>valod</i><par n="siev/a__n"/></e>
+    <e lm="latviešu valoda"><i>latviešu<b/>valod</i><par n="siev/a__n"/></e>
   </section>
 </dictionary>
