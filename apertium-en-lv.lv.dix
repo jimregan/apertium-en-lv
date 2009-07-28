@@ -675,7 +675,7 @@
           <r>ēt<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>ēsit</l>
           <r>ēt<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
@@ -751,6 +751,24 @@
         <p>
           <l></l>
           <r>ēt<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ēt<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēsim</l>
+          <r>ēt<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iet</l>
+          <r>ēt<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
     </pardef>
