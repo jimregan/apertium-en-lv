@@ -239,6 +239,13 @@
     <e><p><l>Vienna<s n="np"/><s n="top"/></l><r>Vīne<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Zemgale<s n="np"/><s n="top"/></l><r>Zemgale<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>New<b/>Zealand<s n="np"/><s n="top"/></l><r>Jaunzēlande<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Vidzeme<s n="np"/><s n="top"/></l><r>Vidzeme<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Berlin<s n="np"/><s n="top"/></l><r>Berlīne<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Bremen<s n="np"/><s n="top"/></l><r>Brēmene<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Bhutan<s n="np"/><s n="top"/></l><r>Butāna<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Antarctica<s n="np"/><s n="top"/></l><r>Antarktīda<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Dobele<s n="np"/><s n="top"/></l><r>Dobele<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Kazan<s n="np"/><s n="top"/></l><r>Kazaņa<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <!-- nouns -->
     <e><p><l>Afrikaans<s n="n"/></l><r>Afrikandu<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bison<s n="n"/></l><r>bizons<s n="n"/><s n="m"/></r></p></e>
