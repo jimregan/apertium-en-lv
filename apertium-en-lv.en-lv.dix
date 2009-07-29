@@ -55,6 +55,7 @@
   <e><p><l>and<s n="cnjcoo"/></l><r>un<s n="cnjcoo"/></r></p></e>
   <e><p><l>nor<s n="cnjcoo"/></l><r>nedz<s n="cnjcoo"/></r></p></e>
   <e><p><l>also<s n="cnjcoo"/></l><r>arī<s n="cnjcoo"/></r></p></e>
+  <e><p><l>but<s n="cnjcoo"/></l><r>bet<s n="cnjcoo"/></r></p></e>
   <!-- Adverbs -->
   <e><p><l>very<s n="preadv"/></l><r>ļoti<s n="preadv"/></r></p></e>
   <e><p><l>not<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
@@ -470,5 +471,6 @@
   <e><p><l>Latvian<b/>language<s n="n"/></l><r>latviešu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
 
   <e><p><l>love<s n="vblex"/></l><r>mīlēt<s n="vblex"/></r></p></e>
+  <e><p><l>get<s n="vblex"/></l><r>tikt<s n="vblex"/></r></p></e>
 </section>
 </dictionary>

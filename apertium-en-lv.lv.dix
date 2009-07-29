@@ -817,6 +817,140 @@
         </p>
       </e>
     </pardef>
+    <pardef n="t/ik__vblex">
+      <e>
+        <p>
+          <l>ikšu</l>
+          <r>ik<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iksim</l>
+          <r>ik<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iksi</l>
+          <r>ik<s n="vblex"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iksiet</l>
+          <r>ik<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iksit</l>
+          <r>ik<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iks</l>
+          <r>ik<s n="vblex"/><s n="fut"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ikt</l>
+          <r>ik<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iku</l>
+          <r>ik<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ikām</l>
+          <r>ik<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ikt</l>
+          <r>ik<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ikāt</l>
+          <r>ik<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ika</l>
+          <r>ik<s n="vblex"/><s n="past"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>īku</l>
+          <r>ik<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ieku</l>
+          <r>ik<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>īkam</l>
+          <r>ik<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iekam</l>
+          <r>ik<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iec</l>
+          <r>ik<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>īc</l>
+          <r>ik<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>īkat</l>
+          <r>ik<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iekat</l>
+          <r>ik<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>īk</l>
+          <r>ik<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iek</l>
+          <r>ik<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="vīr/s__n">
       <e>
@@ -1933,6 +2067,7 @@
     <e lm="jeb"><i>jeb</i><par n="un__cnjcoo"/></e>
     <e lm="arī"><i>arī</i><par n="un__cnjcoo"/></e>
     <e lm="nedz"><i>nedz</i><par n="un__cnjcoo"/></e>
+    <e lm="bet"><i>bet</i><par n="un__cnjcoo"/></e>
     <!-- Prepositions -->
     <e lm="aiz"><i>aiz</i><par n="ap__pr"/></e>
     <e lm="ap"><i>ap</i><par n="ap__pr"/></e>
@@ -2390,6 +2525,6 @@
     <e lm="latviešu valoda"><i>latviešu<b/>valod</i><par n="siev/a__n"/></e>
 
     <e lm="mīlēt"><i>mīl</i><par n="mīl/ēt__vblex"/></e>
-
+    <e lm="tikt"><i>t</i><par n="t/ik__vblex"/></e>
   </section>
 </dictionary>
