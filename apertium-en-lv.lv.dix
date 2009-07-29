@@ -48,6 +48,8 @@
     <sdef n="cnjadv"/>
     <sdef n="cnjcoo"/>
     <sdef n="preadv"/>
+    <sdef n="num"/>
+    <sdef n="indecl"/>
   </sdefs>
   
   <pardefs>

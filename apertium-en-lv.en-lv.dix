@@ -26,6 +26,8 @@
   <sdef n="cnjcoo"/>
   <sdef n="adv"/>
   <sdef n="preadv"/>
+    <sdef n="num"/>
+    <sdef n="indecl"/>
 </sdefs>
 <pardefs/>
 <section id="main" type="standard">
