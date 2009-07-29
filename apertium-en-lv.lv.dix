@@ -2370,6 +2370,105 @@
         </p>
       </e>
     </pardef>
+    <pardef n="dvēse/le__n">
+      <e>
+        <p>
+          <r>le</r>l
+          <r>le<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>les</r>l
+          <r>le<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>les</r>l
+          <r>le<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>lei</r>l
+          <r>le<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>li</r>l
+          <r>le<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>li</r>l
+          <r>le<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>lē</r>l
+          <r>le<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>le</r>l
+          <r>le<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>les</r>l
+          <r>le<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>ļu</r>l
+          <r>le<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>lēm</r>l
+          <r>le<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>lēm</r>l
+          <r>le<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>les</r>l
+          <r>le<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>lēm</r>l
+          <r>le<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>lēs</r>l
+          <r>le<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>les</r>l
+          <r>le<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="nakt/s__n">
       <e>
         <p>
@@ -2873,7 +2972,7 @@
     <e lm="dioskorėja"><i>dioskorėj</i><par n="siev/a__n"/></e>
     <e lm="literatūra"><i>literatūr</i><par n="siev/a__n"/></e>
     <e lm="upe"><i>up</i><par n="up/e__n"/></e>
-    <e lm="dvēsele"><i>dvēsel</i><par n="up/e__n"/></e>
+    <e lm="dvēsele"><i>dvēse</i><par n="dvēse/le__n"/></e>
     <e lm="skābe"><i>skāb</i><par n="up/e__n"/></e>
     <e lm="nakts"><i>nakt</i><par n="nakt/s__n"/></e>
 
