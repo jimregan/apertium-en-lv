@@ -5298,6 +5298,27 @@
     <e lm="Daugavgrīva"><i>Daugavgrīv</i><par n="Latvij/a__np"/></e>
     <e lm="Jersika"><i>Jersik</i><par n="Latvij/a__np"/></e>
     <e lm="Jelgava"><i>Jelgav</i><par n="Latvij/a__np"/></e>
+    <e lm="Viļņa"><i>Viļņ</i><par n="Latvij/a__np"/></e>
+    <e lm="Kanāda"><i>Kanād</i><par n="Latvij/a__np"/></e>
+    <e lm="Gauja"><i>Gauj</i><par n="Latvij/a__np"/></e>
+    <e lm="Bosnija"><i>Bosnij</i><par n="Latvij/a__np"/></e>
+    <e lm="Argentīna"><i>Argentīn</i><par n="Latvij/a__np"/></e>
+    <e lm="Austrumeiropa"><i>Austrumeirop</i><par n="Latvij/a__np"/></e>
+    <e lm="Kembridža"><i>Kembridž</i><par n="Latvij/a__np"/></e>
+    <e lm="Kazahstāna"><i>Kazahstān</i><par n="Latvij/a__np"/></e>
+    <e lm="Kijeva"><i>Kijev</i><par n="Latvij/a__np"/></e>
+    <e lm="Kipra"><i>Kipr</i><par n="Latvij/a__np"/></e>
+    <e lm="Londona"><i>London</i><par n="Latvij/a__np"/></e>
+    <e lm="Oksforda"><i>Oksford</i><par n="Latvij/a__np"/></e>
+    <e lm="Roma"><i>Rom</i><par n="Latvij/a__np"/></e>
+    <e lm="Stambula"><i>Stambul</i><par n="Latvij/a__np"/></e>
+    <e lm="Ukraina"><i>Ukrain</i><par n="Latvij/a__np"/></e>
+    <e lm="Ziemeļamerika"><i>Ziemeļamerik</i><par n="Latvij/a__np"/></e>
+    <e lm="Ziemeļāfrika"><i>Ziemeļāfrik</i><par n="Latvij/a__np"/></e>
+    <e lm="Ziemeļjūra"><i>Ziemeļjūr</i><par n="Latvij/a__np"/></e>
+    <e lm="Vīne"><i>Vīn</i><par n="Bagdād/e__np"/></e>
+    <e lm="Zemgale"><i>Zemgal</i><par n="Bagdād/e__np"/></e>
+    <e lm="Jaunzēlande"><i>Jaunzēland</i><par n="Bagdād/e__np"/></e>
 
     <e lm="mīlēt"><par n="ne__pref"/><i>mīl</i><par n="mīl/ēt__vblex"/></e>
     <e lm="tikt"><par n="ne__pref"/><i>t</i><par n="t/ik__vblex"/></e>
@@ -5305,7 +5326,10 @@
     
     <e lm="Boeing"><i>Boeing</i><par n="Boeing__np"/></e>
     <e lm="Ford"><i>Ford</i><par n="Boeing__np"/></e>
+    <e lm="Skonto"><i>Skonto</i><par n="Boeing__np"/></e>
     <e lm="Hugo"><i>Hugo</i><par n="Hugo__np"/></e>
     <e lm="Galileo"><i>Galileo</i><par n="Hugo__np"/></e>
+    <e lm="Leonardo"><i>Leonardo</i><par n="Hugo__np"/></e>
+    <e lm="Oto"><i>Oto</i><par n="Hugo__np"/></e>
   </section>
 </dictionary>

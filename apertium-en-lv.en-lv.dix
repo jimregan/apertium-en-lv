@@ -218,6 +218,27 @@
     <e><p><l>Daugavgrīva<s n="np"/><s n="top"/></l><r>Daugavgrīva<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Jersika<s n="np"/><s n="top"/></l><r>Jersika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Jelgava<s n="np"/><s n="top"/></l><r>Jelgava<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Vilnius<s n="np"/><s n="top"/></l><r>Viļņa<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Canada<s n="np"/><s n="top"/></l><r>Kanāda<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Gauja<s n="np"/><s n="top"/></l><r>Gauja<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Bosnia<s n="np"/><s n="top"/></l><r>Bosnija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Argentina<s n="np"/><s n="top"/></l><r>Argentīna<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Eastern<b/>Europe<s n="np"/><s n="top"/></l><r>Austrumeiropa<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Cambridge<s n="np"/><s n="top"/></l><r>Kembridža<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Kazakhstan<s n="np"/><s n="top"/></l><r>Kazahstāna<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Kiev<s n="np"/><s n="top"/></l><r>Kijeva<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Cyprus<s n="np"/><s n="top"/></l><r>Kipra<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>London<s n="np"/><s n="top"/></l><r>Londona<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Oxford<s n="np"/><s n="top"/></l><r>Oksforda<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Rome<s n="np"/><s n="top"/></l><r>Roma<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Istambul<s n="np"/><s n="top"/></l><r>Stambula<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Ukraine<s n="np"/><s n="top"/></l><r>Ukraina<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>North<b/>America<s n="np"/><s n="top"/></l><r>Ziemeļamerika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>North<b/>Africa<s n="np"/><s n="top"/></l><r>Ziemeļāfrika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>North<b/>Sea<s n="np"/><s n="top"/></l><r>Ziemeļjūra<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Vienna<s n="np"/><s n="top"/></l><r>Vīne<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Zemgale<s n="np"/><s n="top"/></l><r>Zemgale<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>New<b/>Zealand<s n="np"/><s n="top"/></l><r>Jaunzēlande<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <!-- nouns -->
     <e><p><l>Afrikaans<s n="n"/></l><r>Afrikandu<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bison<s n="n"/></l><r>bizons<s n="n"/><s n="m"/></r></p></e>
