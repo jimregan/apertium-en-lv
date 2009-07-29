@@ -502,5 +502,45 @@
   
     <e><p><l>love<s n="vblex"/></l><r>mīlēt<s n="vblex"/></r></p></e>
     <e><p><l>get<s n="vblex"/></l><r>tikt<s n="vblex"/></r></p></e>
+    
+    <e><p><l>one<s n="num"/></l><r>viens<s n="num"/></r></p></e>
+    <e><p><l>ten<s n="num"/></l><r>desmit<s n="num"/></r></p></e>
+    <e><p><l>twenty<s n="num"/></l><r>divdesmit<s n="num"/></r></p></e>
+    <e><p><l>thirty<s n="num"/></l><r>trīsdesmit<s n="num"/></r></p></e>
+    <e><p><l>forty<s n="num"/></l><r>četrdesmit<s n="num"/></r></p></e>
+    <e><p><l>fifty<s n="num"/></l><r>piecdesmit<s n="num"/></r></p></e>
+    <e><p><l>sixty<s n="num"/></l><r>sešdesmit<s n="num"/></r></p></e>
+    <e><p><l>seventy<s n="num"/></l><r>septiņdesmit<s n="num"/></r></p></e>
+    <e><p><l>eighty<s n="num"/></l><r>astoņdesmit<s n="num"/></r></p></e>
+    <e><p><l>ninety<s n="num"/></l><r>deviņdesmit<s n="num"/></r></p></e>
+    <e><p><l>eleven<s n="num"/></l><r>vienpadsmit<s n="num"/></r></p></e>
+    <e><p><l>twelve<s n="num"/></l><r>divpadsmit<s n="num"/></r></p></e>
+    <e><p><l>thirteen<s n="num"/></l><r>trīspadsmit<s n="num"/></r></p></e>
+    <e><p><l>fourteen<s n="num"/></l><r>četrpadsmit<s n="num"/></r></p></e>
+    <e><p><l>fifteen<s n="num"/></l><r>piecpadsmit<s n="num"/></r></p></e>
+    <e><p><l>sixteen<s n="num"/></l><r>sešpadsmit<s n="num"/></r></p></e>
+    <e><p><l>seventeen<s n="num"/></l><r>septiņpadsmit<s n="num"/></r></p></e>
+    <e><p><l>eighteen<s n="num"/></l><r>astoņpadsmit<s n="num"/></r></p></e>
+    <e><p><l>nineteen<s n="num"/></l><r>deviņpadsmit<s n="num"/></r></p></e>
+    <e><p><l>hundred<s n="num"/></l><r>simt<s n="num"/></r></p></e>
+    <e r="LR"><p><l>one<b/>hundred<s n="num"/></l><r>simt<s n="num"/></r></p></e>
+    <e><p><l>two<b/>hundred<s n="num"/></l><r>divsimt<s n="num"/></r></p></e>
+    <e><p><l>three<b/>hundred<s n="num"/></l><r>trīssimt<s n="num"/></r></p></e>
+    <e><p><l>four<b/>hundred<s n="num"/></l><r>četrsimt<s n="num"/></r></p></e>
+    <e><p><l>five<b/>hundred<s n="num"/></l><r>piecsimt<s n="num"/></r></p></e>
+    <e><p><l>six<b/>hundred<s n="num"/></l><r>sešsimt<s n="num"/></r></p></e>
+    <e><p><l>seven<b/>hundred<s n="num"/></l><r>septiņsimt<s n="num"/></r></p></e>
+    <e><p><l>eight<b/>hundred<s n="num"/></l><r>astoņsimt<s n="num"/></r></p></e>
+    <e><p><l>nine<b/>hundred<s n="num"/></l><r>deviņsimt<s n="num"/></r></p></e>
+    <e><p><l>thousand<s n="num"/></l><r>tūkstoš<s n="num"/></r></p></e>
+    <e r="LR"><p><l>one<b/>thousand<s n="num"/></l><r>tūkstoš<s n="num"/></r></p></e>
+    <e><p><l>two<b/>thousand<s n="num"/></l><r>divtūkstoš<s n="num"/></r></p></e>
+    <e><p><l>three<b/>thousand<s n="num"/></l><r>trīstūkstoš<s n="num"/></r></p></e>
+    <e><p><l>four<b/>thousand<s n="num"/></l><r>četrtūkstoš<s n="num"/></r></p></e>
+    <e><p><l>five<b/>thousand<s n="num"/></l><r>piectūkstoš<s n="num"/></r></p></e>
+    <e><p><l>six<b/>thousand<s n="num"/></l><r>seštūkstoš<s n="num"/></r></p></e>
+    <e><p><l>seven<b/>thousand<s n="num"/></l><r>septiņtūkstoš<s n="num"/></r></p></e>
+    <e><p><l>eight<b/>thousand<s n="num"/></l><r>astoņtūkstoš<s n="num"/></r></p></e>
+    <e><p><l>nine<b/>thousand<s n="num"/></l><r>deviņtūkstoš<s n="num"/></r></p></e>
 </section>
 </dictionary>

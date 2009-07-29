@@ -4295,6 +4295,170 @@
         </p>
       </e>
     </pardef>
+
+    <pardef n="vien/s__num">
+      <e>
+        <p>
+          <l>a</l>
+          <r>s<s n="num"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>am</l>
+          <r>s<s n="num"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>s<s n="num"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ā</l>
+          <r>s<s n="num"/><s n="m"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>s</l>
+          <r>s<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>s<s n="num"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iem</l>
+          <r>s<s n="num"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>us</l>
+          <r>s<s n="num"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>os</l>
+          <r>s<s n="num"/><s n="m"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>s<s n="num"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>as</l>
+          <r>s<s n="num"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ai</l>
+          <r>s<s n="num"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>s<s n="num"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ā</l>
+          <r>s<s n="num"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>s<s n="num"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>s<s n="num"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ām</l>
+          <r>s<s n="num"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>as</l>
+          <r>s<s n="num"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ās</l>
+          <r>s<s n="num"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>as</l>
+          <r>s<s n="num"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="desmit__num">
+      <e r="LR">
+        <p>
+          <l>iem</l>
+          <r><s n="num"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>os</l>
+          <r><s n="num"/><s n="m"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ām</l>
+          <r><s n="num"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ās</l>
+          <r><s n="num"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="num"/><s n="pl"/><s n="indecl"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="tūkstoš__num">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="num"/><s n="pl"/><s n="indecl"/></r>
+        </p>
+      </e>
+    </pardef>
+
   </pardefs>
   <section id="main" type="standard">
     <e><par n="prpers__prn"/></e>
@@ -4305,6 +4469,43 @@
     <e><par n="šis__det"/></e>
     <e><i>vis</i><par n="vis/s__det"/></e>
     <e><par n="/būt__vbser"/></e>
+    <!-- Numbers -->
+    <e lm="viens"><i>vien</i><par n="vien/s__num"/></e>
+    <e lm="desmit"><i>desmit</i><par n="desmit__num"/></e>
+    <e lm="divdesmit"><i>divdesmit</i><par n="desmit__num"/></e>
+    <e lm="trīsdesmit"><i>trīsdesmit</i><par n="desmit__num"/></e>
+    <e lm="četrdesmit"><i>četrdesmit</i><par n="desmit__num"/></e>
+    <e lm="piecdesmit"><i>piecdesmit</i><par n="desmit__num"/></e>
+    <e lm="sešdesmit"><i>sešdesmit</i><par n="desmit__num"/></e>
+    <e lm="septiņdesmit"><i>septiņdesmit</i><par n="desmit__num"/></e>
+    <e lm="astoņdesmit"><i>astoņdesmit</i><par n="desmit__num"/></e>
+    <e lm="deviņdesmit"><i>deviņdesmit</i><par n="desmit__num"/></e>
+    <e lm="tūkstoš"><i>tūkstoš</i><par n="tūkstoš__num"/></e>
+    <e lm="divstoš"><i>divtūkstoš</i><par n="tūkstoš__num"/></e>
+    <e lm="trīstūkstoš"><i>trīstūkstoš</i><par n="tūkstoš__num"/></e>
+    <e lm="četrtūkstoš"><i>četrtūkstoš</i><par n="tūkstoš__num"/></e>
+    <e lm="piectūkstoš"><i>piectūkstoš</i><par n="tūkstoš__num"/></e>
+    <e lm="seštūkstoš"><i>seštūkstoš</i><par n="tūkstoš__num"/></e>
+    <e lm="septiņtūkstoš"><i>septiņtūkstoš</i><par n="tūkstoš__num"/></e>
+    <e lm="astoņtūkstoš"><i>astoņtūkstoš</i><par n="tūkstoš__num"/></e>
+    <e lm="deviņtūkstoš"><i>deviņtūkstoš</i><par n="tūkstoš__num"/></e>
+    <e lm="divsimt"><i>divsimt</i><par n="tūkstoš__num"/></e>
+    <e lm="trīssimt"><i>trīssimt</i><par n="tūkstoš__num"/></e>
+    <e lm="četrsimt"><i>četrsimt</i><par n="tūkstoš__num"/></e>
+    <e lm="piecsimt"><i>piecsimt</i><par n="tūkstoš__num"/></e>
+    <e lm="sešsimt"><i>sešsimt</i><par n="tūkstoš__num"/></e>
+    <e lm="septiņsimt"><i>septiņsimt</i><par n="tūkstoš__num"/></e>
+    <e lm="astoņsimt"><i>astoņsimt</i><par n="tūkstoš__num"/></e>
+    <e lm="deviņsimt"><i>deviņsimt</i><par n="tūkstoš__num"/></e>
+    <e lm="vienpadsmit"><i>vienpadsmit</i><par n="tūkstoš__num"/></e>
+    <e lm="divpadsmit"><i>divpadsmit</i><par n="tūkstoš__num"/></e>
+    <e lm="trīspadsmit"><i>trīspadsmit</i><par n="tūkstoš__num"/></e>
+    <e lm="četrpadsmit"><i>četrpadsmit</i><par n="tūkstoš__num"/></e>
+    <e lm="piecpadsmit"><i>piecpadsmit</i><par n="tūkstoš__num"/></e>
+    <e lm="sešpadsmit"><i>sešpadsmit</i><par n="tūkstoš__num"/></e>
+    <e lm="septiņpadsmit"><i>septiņpadsmit</i><par n="tūkstoš__num"/></e>
+    <e lm="astoņpadsmit"><i>astoņpadsmit</i><par n="tūkstoš__num"/></e>
+    <e lm="deviņpadsmit"><i>deviņpadsmit</i><par n="tūkstoš__num"/></e>
     <!-- Subordinating conjunctions -->
     <e lm="lai"><i>lai</i><par n="lai__cnjsub"/></e>
     <e lm="iekams"><i>iekams</i><par n="lai__cnjsub"/></e>
