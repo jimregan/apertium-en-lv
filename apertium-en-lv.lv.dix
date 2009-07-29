@@ -4705,6 +4705,14 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Hugo__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="ant"/><s n="m"/><s n="indecl"/></r>
+        </p>
+      </e>
+    </pardef>
 
   </pardefs>
   <section id="main" type="standard">
@@ -5279,5 +5287,8 @@
     <e lm="varēt"><par n="ne__pref"/><i>var</i><par n="var/ēt__vbmod"/></e>
     
     <e lm="Boeing"><i>Boeing</i><par n="Boeing__np"/></e>
+    <e lm="Ford"><i>Ford</i><par n="Boeing__np"/></e>
+    <e lm="Hugo"><i>Hugo</i><par n="Hugo__np"/></e>
+    <e lm="Galileo"><i>Galileo</i><par n="Hugo__np"/></e>
   </section>
 </dictionary>
