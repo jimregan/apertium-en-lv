@@ -4697,6 +4697,14 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Boeing__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="al"/><s n="m"/><s n="indecl"/></r>
+        </p>
+      </e>
+    </pardef>
 
   </pardefs>
   <section id="main" type="standard">
@@ -5269,5 +5277,7 @@
     <e lm="mīlēt"><par n="ne__pref"/><i>mīl</i><par n="mīl/ēt__vblex"/></e>
     <e lm="tikt"><par n="ne__pref"/><i>t</i><par n="t/ik__vblex"/></e>
     <e lm="varēt"><par n="ne__pref"/><i>var</i><par n="var/ēt__vbmod"/></e>
+    
+    <e lm="Boeing"><i>Boeing</i><par n="Boeing__np"/></e>
   </section>
 </dictionary>
