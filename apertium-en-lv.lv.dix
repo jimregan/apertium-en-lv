@@ -2620,6 +2620,104 @@
         </p>
       </e>
     </pardef>
+    <pardef n="ast/e__n">
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>es</l>
+          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>es</l>
+          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ei</l>
+          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ē</l>
+          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>es</l>
+          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēm</l>
+          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēm</l>
+          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>es</l>
+          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēm</l>
+          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēs</l>
+          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>es</l>
+          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="dvēse/le__n">
       <e>
         <p>
@@ -2718,7 +2816,7 @@
         </p>
       </e>
     </pardef>
-    <pardef n="/ce__n">
+    <pardef n="mēr/ce__n">
       <e>
         <p>
           <r>ce</r>
@@ -3208,7 +3306,111 @@
         </p>
       </e>
     </pardef>
-    <pardef n="/te__n">
+    <pardef n="mā/te__n">
+      <e>
+        <p>
+          <r>te</r>
+          <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>tes</r>
+          <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>tes</r>
+          <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>tei</r>
+          <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>ti</r>
+          <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>ti</r>
+          <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>tē</r>
+          <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>te</r>
+          <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <r>t</r>
+          <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>tes</r>
+          <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>šu</r>
+          <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>tēm</r>
+          <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>tēm</r>
+          <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>tes</r>
+          <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>tēm</r>
+          <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>tēs</r>
+          <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <r>tes</r>
+          <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="bi/te__n">
       <e>
         <p>
           <r>te</r>
@@ -3404,7 +3606,7 @@
         </p>
       </e>
     </pardef>
-    <pardef n="/zne__n">
+    <pardef n="zvaig/zne__n">
       <e>
         <p>
           <r>zne</r>
@@ -4209,6 +4411,8 @@
     <e lm="skaitlis"><i>skait</i><par n="skait/lis__n"/></e>
     <e lm="atomskaitlis"><i>atomskait</i><par n="skait/lis__n"/></e>
     <e lm="karalis"><i>kara</i><par n="skait/lis__n"/></e>
+    <e lm="eņģelis"><i>eņģe</i><par n="skait/lis__n"/></e>
+    <e lm="dzimumloceklis"><i>dzimumlocek</i><par n="skait/lis__n"/></e>
     <e lm="tirgus"><i>tirg</i><par n="tirg/us__n"/></e>
     <e lm="alus"><i>al</i><par n="tirg/us__n"/></e>
     <e lm="sieva"><i>siev</i><par n="siev/a__n"/></e>
@@ -4453,8 +4657,16 @@
     <e lm="dioskorėja"><i>dioskorėj</i><par n="siev/a__n"/></e>
     <e lm="literatūra"><i>literatūr</i><par n="siev/a__n"/></e>
     <e lm="upe"><i>up</i><par n="up/e__n"/></e>
+    <e lm="aste"><i>ast</i><par n="ast/e__n"/></e>
     <e lm="apse"><i>ap</i><par n="ap/se__n"/></e>
     <e lm="elle"><i>e</i><par n="e/lle__n"/></e>
+    <e lm="māte"><i>mā</i><par n="mā/te__n"/></e>
+    <e lm="bite"><i>bi</i><par n="bi/te__n"/></e>
+    <e lm="zvaigzne"><i>zvaig</i><par n="zvaig/zne__n"/></e>
+    <e lm="mērce"><i>mēr</i><par n="mēr/ce__n"/></e>
+    <e lm="mērce salātiem"><i>mēr</i><par n="mēr/ce__n"/><p><l><b/>salātiem</l><r><g><b/>salātiem</g></r></p></e>
+    <e lm="tomātu mērce"><i>tomātu<b/>mēr</i><par n="mēr/ce__n"/></e>
+    <e lm="salātu mērce"><i>salātu<b/>mēr</i><par n="mēr/ce__n"/></e>
     <e lm="dvēsele"><i>dvēse</i><par n="dvēse/le__n"/></e>
     <e lm="skābe"><i>skāb</i><par n="up/e__n"/></e>
     <e lm="nakts"><i>nak</i><par n="nak/ts__n"/></e>
