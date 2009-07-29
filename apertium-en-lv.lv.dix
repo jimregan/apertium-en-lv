@@ -27,6 +27,7 @@
     <sdef n="mf"/>
     <sdef n="vbser"/>
     <sdef n="vblex"/>
+    <sdef n="vbmod"/>
     <sdef n="pri"     c="Tagadne"/>
     <sdef n="past"     c="Pagātne"/>
     <sdef n="fut"      c="Nākotne"/>
@@ -102,6 +103,20 @@
         <p>
           <l>vis</l>
           <r>vis<s n="sup"/><j/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="ne__pref">
+      <e>
+        <p>
+          <l></l>
+          <r></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ne</l>
+          <r>ne<s n="adv"/><j/></r>
         </p>
       </e>
     </pardef>
@@ -821,6 +836,110 @@
         <p>
           <l>būsit</l>
           <r>būt<s n="vbser"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="var/ēt__vbmod">
+      <e>
+        <p>
+          <l>ēšu</l>
+          <r>ēt<s n="vbmod"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēsim</l>
+          <r>ēt<s n="vbmod"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēsi</l>
+          <r>ēt<s n="vbmod"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēsiet</l>
+          <r>ēt<s n="vbmod"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ēt</l>
+          <r>ēt<s n="vbmod"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēs</l>
+          <r>ēt<s n="vbmod"/><s n="fut"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēt</l>
+          <r>ēt<s n="vbmod"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēju</l>
+          <r>ēt<s n="vbmod"/><s n="past"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ējām</l>
+          <r>ēt<s n="vbmod"/><s n="past"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēji</l>
+          <r>ēt<s n="vbmod"/><s n="past"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ējāt</l>
+          <r>ēt<s n="vbmod"/><s n="past"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēja</l>
+          <r>ēt<s n="vbmod"/><s n="past"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>ēt<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>am</l>
+          <r>ēt<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ēt<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>at</l>
+          <r>ēt<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>ēt<s n="vbmod"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
         </p>
       </e>
     </pardef>
@@ -2755,7 +2874,8 @@
     <e lm="angļu valoda"><i>angļu<b/>valod</i><par n="siev/a__n"/></e>
     <e lm="latviešu valoda"><i>latviešu<b/>valod</i><par n="siev/a__n"/></e>
 
-    <e lm="mīlēt"><i>mīl</i><par n="mīl/ēt__vblex"/></e>
-    <e lm="tikt"><i>t</i><par n="t/ik__vblex"/></e>
+    <e lm="mīlēt"><par n="ne__pref"/><i>mīl</i><par n="mīl/ēt__vblex"/></e>
+    <e lm="tikt"><par n="ne__pref"/><i>t</i><par n="t/ik__vblex"/></e>
+    <e lm="varēt"><par n="ne__pref"/><i>var</i><par n="var/ēt__vbmod"/></e>
   </section>
 </dictionary>
