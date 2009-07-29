@@ -2914,7 +2914,7 @@
         </p>
       </e>
     </pardef>
-    <pardef n="/de__n">
+    <pardef n="ķē/de__n">
       <e>
         <p>
           <r>de</r>
@@ -3110,7 +3110,7 @@
         </p>
       </e>
     </pardef>
-    <pardef n="/ne__n">
+    <pardef n="sē/ne__n">
       <e>
         <p>
           <r>ne</r>
@@ -4412,6 +4412,7 @@
     <e lm="atomskaitlis"><i>atomskait</i><par n="skait/lis__n"/></e>
     <e lm="karalis"><i>kara</i><par n="skait/lis__n"/></e>
     <e lm="eņģelis"><i>eņģe</i><par n="skait/lis__n"/></e>
+    <e lm="ērglis"><i>ērg</i><par n="skait/lis__n"/></e>
     <e lm="dzimumloceklis"><i>dzimumlocek</i><par n="skait/lis__n"/></e>
     <e lm="tirgus"><i>tirg</i><par n="tirg/us__n"/></e>
     <e lm="alus"><i>al</i><par n="tirg/us__n"/></e>
@@ -4658,6 +4659,9 @@
     <e lm="literatūra"><i>literatūr</i><par n="siev/a__n"/></e>
     <e lm="upe"><i>up</i><par n="up/e__n"/></e>
     <e lm="aste"><i>ast</i><par n="ast/e__n"/></e>
+    <e lm="ķēde"><i>ķē</i><par n="ķē/de__n"/></e>
+    <e lm="varde"><i>var</i><par n="ķē/de__n"/></e>
+    <e lm="vāvere"><i>vāver</i><par n="ast/e__n"/></e>
     <e lm="apse"><i>ap</i><par n="ap/se__n"/></e>
     <e lm="elle"><i>e</i><par n="e/lle__n"/></e>
     <e lm="māte"><i>mā</i><par n="mā/te__n"/></e>
@@ -4668,7 +4672,12 @@
     <e lm="tomātu mērce"><i>tomātu<b/>mēr</i><par n="mēr/ce__n"/></e>
     <e lm="salātu mērce"><i>salātu<b/>mēr</i><par n="mēr/ce__n"/></e>
     <e lm="dvēsele"><i>dvēse</i><par n="dvēse/le__n"/></e>
+    <e lm="ābele"><i>ābe</i><par n="dvēse/le__n"/></e>
+    <e lm="zāle"><i>zā</i><par n="dvēse/le__n"/></e>
+    <e lm="vabole"><i>vabo</i><par n="dvēse/le__n"/></e>
+    <e lm="vēstule"><i>vēstu</i><par n="dvēse/le__n"/></e>
     <e lm="skābe"><i>skāb</i><par n="up/e__n"/></e>
+    <e lm="sēne"><i>sē</i><par n="sē/ne__n"/></e>
     <e lm="nakts"><i>nak</i><par n="nak/ts__n"/></e>
     <e lm="ļaudis"><i>ļau</i><par n="ļau/dis__n"/></e>
 
