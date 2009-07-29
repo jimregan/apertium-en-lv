@@ -1966,6 +1966,7 @@
     <!-- Adverbs -->
     <e lm="ļoti"><i>ļoti</i><par n="ļoti__preadv"/></e>
     <e lm="kur"><i>kur</i><par n="kur__adv"/></e>
+    <e lm="vai"><i>vai</i><par n="kur__adv"/></e>
     <e lm="ārā"><i>ārā</i><par n="ārā__adv"/></e>
     <e lm="šeit"><i>šeit</i><par n="ārā__adv"/></e>
     <e lm="apakšā"><i>apakšā</i><par n="ārā__adv"/></e>
