@@ -31,6 +31,18 @@
   <e><p><l>Andrew<s n="np"/><s n="ant"/><s n="m"/></l><r>Andris<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
   ..but let's ignore that, shall we? -->
   <e><p><l>what<s n="det"/><s n="itg"/><s n="sp"/></l><r>kas<s n="det"/><s n="itg"/><s n="sp"/><s n="mf"/></r></p></e>
+  <!-- Prepositions -->
+  <e><p><l>under<s n="pr"/></l><r>zem<s n="pr"/></r></p></e>
+  <e><p><l>without<s n="pr"/></l><r>bez<s n="pr"/></r></p></e>
+  <e><p><l>above<s n="pr"/></l><r>virs<s n="pr"/></r></p></e>
+  <e><p><l>after<s n="pr"/></l><r>pēc<s n="pr"/></r></p></e>
+  <e><p><l>around<s n="pr"/></l><r>ap<s n="pr"/></r></p></e>
+  <e><p><l>between<s n="pr"/></l><r>starp<s n="pr"/></r></p></e>
+  <e><p><l>along<s n="pr"/></l><r>pa<s n="pr"/></r></p></e>
+  <e><p><l>with<s n="pr"/></l><r>ar<s n="pr"/></r></p></e>
+  <e><p><l>until<s n="pr"/></l><r>līdz<s n="pr"/></r></p></e>
+  <e><p><l>behind<s n="pr"/></l><r>aiz<s n="pr"/></r></p></e>
+  <e><p><l>underneath<s n="pr"/></l><r>apakš<s n="pr"/></r></p></e>
   <!-- Proper names: Places -->
   <e><p><l>Afghanistan<s n="np"/><s n="top"/></l><r>Afganistāna<s n="np"/><s n="top"/><s n="f"/></r></p></e>
   <e><p><l>Alaska<s n="np"/><s n="top"/></l><r>Aļaska<s n="np"/><s n="top"/><s n="f"/></r></p></e>
