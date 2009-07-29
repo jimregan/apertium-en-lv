@@ -42,10 +42,28 @@
     <sdef n="det"/>
     <sdef n="itg"/>
     <sdef n="imp"/>
+    <sdef n="cnjsub"/>
+    <sdef n="cnjadv"/>
   </sdefs>
   
   <pardefs>
   
+    <pardef n="lai__cnjsub">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="cnjsub"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="kamēr__cnjadv">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="cnjadv"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="ap__pr">
       <e>
         <p>
@@ -1867,6 +1885,23 @@
     <e><par n="emphprn__prn"/></e>
     <e><par n="kas__det"/></e>
     <e><par n="/būt__vbser"/></e>
+    <!-- Subordinating conjunctions -->
+    <e lm="lai"><i>lai</i><par n="lai__cnjsub"/></e>
+    <e lm="iekams"><i>iekams</i><par n="lai__cnjsub"/></e>
+    <e lm="ja"><i>ja</i><par n="lai__cnjsub"/></e>
+    <e lm="jo"><i>jo</i><par n="lai__cnjsub"/></e>
+    <e lm="ka"><i>ka</i><par n="lai__cnjsub"/></e>
+    <e lm="kamēr"><i>kamēr</i><par n="kamēr__cnjadv"/></e>
+    <e lm="tā kā"><i>tā<b/>kā</i><par n="kamēr__cnjadv"/></e>
+    <e lm="tiklīdz"><i>tiklīdz</i><par n="kamēr__cnjadv"/></e>
+    <e lm="kolīdz"><i>kolīdz</i><par n="kamēr__cnjadv"/></e>
+    <e lm="kaut arī"><i>kaut<b/>arī</i><par n="kamēr__cnjadv"/></e>
+    <e lm="kopš"><i>kopš</i><par n="kamēr__cnjadv"/></e>
+    <e lm="tādēļ ka"><i>tādēļ<b/>ka</i><par n="kamēr__cnjadv"/></e>
+    <e lm="tāpēc ka"><i>tāpēc<b/>ka</i><par n="kamēr__cnjadv"/></e>
+    <e lm="pirms"><i>pirms</i><par n="kamēr__cnjadv"/></e>
+    <e lm="lai gan"><i>lai<b/>gan</i><par n="kamēr__cnjadv"/></e>
+    <e lm="līdzko"><i>līdzko</i><par n="kamēr__cnjadv"/></e>
     <!-- Prepositions -->
     <e lm="aiz"><i>aiz</i><par n="ap__pr"/></e>
     <e lm="ap"><i>ap</i><par n="ap__pr"/></e>
