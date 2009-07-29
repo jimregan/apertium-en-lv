@@ -1925,6 +1925,7 @@
     <e lm="kompjūters"><i>kompjūter</i><par n="vīr/s__n"/></e>
     <e lm="kaktuss"><i>kaktus</i><par n="vīr/s__n"/></e>
     <e lm="dēmons"><i>dēmon</i><par n="vīr/s__n"/></e>
+    <e lm="logs"><i>log</i><par n="vīr/s__n"/></e>
     <e lm="skapis"><i>skap</i><par n="skap/is__n"/></e>
     <e lm="ritenis"><i>rite</i><par n="rite/nis__n"/></e>
     <e lm="pulkstenis"><i>pulkste</i><par n="rite/nis__n"/></e>
@@ -1958,6 +1959,8 @@
     <e lm="aka"><i>ak</i><par n="siev/a__n"/></e>
     <e lm="cena"><i>cen</i><par n="siev/a__n"/></e>
     <e lm="cūka"><i>cūk</i><par n="siev/a__n"/></e>
+    <e lm="Vikipēdija"><i>Vikipēdij</i><par n="siev/a__n"/></e>
+    <e lm="Eirovīzija"><i>Eirovīzij</i><par n="siev/a__n"/></e>
     <e lm="astrofizika"><i>astrofizik</i><par n="siev/a__n"/></e>
     <e lm="fizika"><i>fizik</i><par n="siev/a__n"/></e>
     <e lm="galaktika"><i>galaktik</i><par n="siev/a__n"/></e>
@@ -1968,6 +1971,7 @@
     <e lm="literatūra"><i>literatūr</i><par n="siev/a__n"/></e>
     <e lm="upe"><i>up</i><par n="up/e__n"/></e>
     <e lm="dvēsele"><i>dvēsel</i><par n="up/e__n"/></e>
+    <e lm="skābe"><i>skāb</i><par n="up/e__n"/></e>
     <e lm="nakts"><i>nakt</i><par n="nakt/s__n"/></e>
 
     <e lm="Bagdāde"><i>Bagdād</i><par n="Bagdād/e__np"/></e>
@@ -1979,7 +1983,126 @@
     <e lm="Afganistāna"><i>Afganistān</i><par n="Latvij/a__np"/></e>
     <e lm="Rīga"><i>Rīg</i><par n="Latvij/a__np"/></e>
     <e lm="Varšava"><i>Varšav</i><par n="Latvij/a__np"/></e>
-
+    <e lm="Abesīnija"><i>Abesīnij</i><par n="Latvij/a__np"/></e>
+    <e lm="Abhāzija"><i>Abhāzij</i><par n="Latvij/a__np"/></e>
+    <e lm="Albānija"><i>Albānij</i><par n="Latvij/a__np"/></e>
+    <e lm="Aleksandrija"><i>Aleksandrij</i><par n="Latvij/a__np"/></e>
+    <e lm="Alžīrija"><i>Alžīrij</i><par n="Latvij/a__np"/></e>
+    <e lm="Anglija"><i>Anglij</i><par n="Latvij/a__np"/></e>
+    <e lm="Armēnija"><i>Armēnij</i><par n="Latvij/a__np"/></e>
+    <e lm="Arābija"><i>Arābij</i><par n="Latvij/a__np"/></e>
+    <e lm="Aspazija"><i>Aspazij</i><par n="Latvij/a__np"/></e>
+    <e lm="Asīrija"><i>Asīrij</i><par n="Latvij/a__np"/></e>
+    <e lm="Augštaitija"><i>Augštaitij</i><par n="Latvij/a__np"/></e>
+    <e lm="Austrija"><i>Austrij</i><par n="Latvij/a__np"/></e>
+    <e lm="Austroungārija"><i>Austroungārij</i><par n="Latvij/a__np"/></e>
+    <e lm="Austrumsibīrija"><i>Austrumsibīrij</i><par n="Latvij/a__np"/></e>
+    <e lm="Austrumvācija"><i>Austrumvācij</i><par n="Latvij/a__np"/></e>
+    <e lm="Austrumāzija"><i>Austrumāzij</i><par n="Latvij/a__np"/></e>
+    <e lm="Austrālāzija"><i>Austrālāzij</i><par n="Latvij/a__np"/></e>
+    <e lm="Babilonija"><i>Babilonij</i><par n="Latvij/a__np"/></e>
+    <e lm="Baltija"><i>Baltij</i><par n="Latvij/a__np"/></e>
+    <e lm="Baltkrievija"><i>Baltkrievij</i><par n="Latvij/a__np"/></e>
+    <e lm="Bavārija"><i>Bavārij</i><par n="Latvij/a__np"/></e>
+    <e lm="Besarābija"><i>Besarābij</i><par n="Latvij/a__np"/></e>
+    <e lm="Beļģija"><i>Beļģij</i><par n="Latvij/a__np"/></e>
+    <e lm="Bizantija"><i>Bizantij</i><par n="Latvij/a__np"/></e>
+    <e lm="Bohēmija"><i>Bohēmij</i><par n="Latvij/a__np"/></e>
+    <e lm="Bolīvija"><i>Bolīvij</i><par n="Latvij/a__np"/></e>
+    <e lm="Brazīlija"><i>Brazīlij</i><par n="Latvij/a__np"/></e>
+    <e lm="Britānija"><i>Britānij</i><par n="Latvij/a__np"/></e>
+    <e lm="Bulgārija"><i>Bulgārij</i><par n="Latvij/a__np"/></e>
+    <e lm="Centrālāzija"><i>Centrālāzij</i><par n="Latvij/a__np"/></e>
+    <e lm="Dienvidslāvija"><i>Dienvidslāvij</i><par n="Latvij/a__np"/></e>
+    <e lm="Dienvidāzija"><i>Dienvidāzij</i><par n="Latvij/a__np"/></e>
+    <e lm="Dānija"><i>Dānij</i><par n="Latvij/a__np"/></e>
+    <e lm="Džordžija"><i>Džordžij</i><par n="Latvij/a__np"/></e>
+    <e lm="Eirāzija"><i>Eirāzij</i><par n="Latvij/a__np"/></e>
+    <e lm="Etiopija"><i>Etiopij</i><par n="Latvij/a__np"/></e>
+    <e lm="Feniķija"><i>Feniķij</i><par n="Latvij/a__np"/></e>
+    <e lm="Filadelfija"><i>Filadelfij</i><par n="Latvij/a__np"/></e>
+    <e lm="Francija"><i>Francij</i><par n="Latvij/a__np"/></e>
+    <e lm="Gambija"><i>Gambij</i><par n="Latvij/a__np"/></e>
+    <e lm="Grieķija"><i>Grieķij</i><par n="Latvij/a__np"/></e>
+    <e lm="Groznija"><i>Groznij</i><par n="Latvij/a__np"/></e>
+    <e lm="Gruzija"><i>Gruzij</i><par n="Latvij/a__np"/></e>
+    <e lm="Horvātija"><i>Horvātij</i><par n="Latvij/a__np"/></e>
+    <e lm="Igaunija"><i>Igaunij</i><par n="Latvij/a__np"/></e>
+    <e lm="Indija"><i>Indij</i><par n="Latvij/a__np"/></e>
+    <e lm="Indonēzija"><i>Indonēzij</i><par n="Latvij/a__np"/></e>
+    <e lm="Itālija"><i>Itālij</i><par n="Latvij/a__np"/></e>
+    <e lm="Jaunkaledonija"><i>Jaunkaledonij</i><par n="Latvij/a__np"/></e>
+    <e lm="Jordānija"><i>Jordānij</i><par n="Latvij/a__np"/></e>
+    <e lm="Kalifornija"><i>Kalifornij</i><par n="Latvij/a__np"/></e>
+    <e lm="Kambrija"><i>Kambrij</i><par n="Latvij/a__np"/></e>
+    <e lm="Karēlija"><i>Karēlij</i><par n="Latvij/a__np"/></e>
+    <e lm="Katalonija"><i>Katalonij</i><par n="Latvij/a__np"/></e>
+    <e lm="Kazahija"><i>Kazahij</i><par n="Latvij/a__np"/></e>
+    <e lm="Kenija"><i>Kenij</i><par n="Latvij/a__np"/></e>
+    <e lm="Kirgīzija"><i>Kirgīzij</i><par n="Latvij/a__np"/></e>
+    <e lm="Kolumbija"><i>Kolumbij</i><par n="Latvij/a__np"/></e>
+    <e lm="Krievija"><i>Krievij</i><par n="Latvij/a__np"/></e>
+    <e lm="Lejassaksija"><i>Lejassaksij</i><par n="Latvij/a__np"/></e>
+    <e lm="Libērija"><i>Libērij</i><par n="Latvij/a__np"/></e>
+    <e lm="Lielbritānija"><i>Lielbritānij</i><par n="Latvij/a__np"/></e>
+    <e lm="Livonija"><i>Livonij</i><par n="Latvij/a__np"/></e>
+    <e lm="Lombardija"><i>Lombardij</i><par n="Latvij/a__np"/></e>
+    <e lm="Lībija"><i>Lībij</i><par n="Latvij/a__np"/></e>
+    <e lm="Malaizija"><i>Malaizij</i><par n="Latvij/a__np"/></e>
+    <e lm="Mauritānija"><i>Mauritānij</i><par n="Latvij/a__np"/></e>
+    <e lm="Maurīcija"><i>Maurīcij</i><par n="Latvij/a__np"/></e>
+    <e lm="Mazāzija"><i>Mazāzij</i><par n="Latvij/a__np"/></e>
+    <e lm="Maķedonija"><i>Maķedonij</i><par n="Latvij/a__np"/></e>
+    <e lm="Mezopotāmija"><i>Mezopotāmij</i><par n="Latvij/a__np"/></e>
+    <e lm="Moldāvija"><i>Moldāvij</i><par n="Latvij/a__np"/></e>
+    <e lm="Mongolija"><i>Mongolij</i><par n="Latvij/a__np"/></e>
+    <e lm="Namībija"><i>Namībij</i><par n="Latvij/a__np"/></e>
+    <e lm="Nigērija"><i>Nigērij</i><par n="Latvij/a__np"/></e>
+    <e lm="Nikosija"><i>Nikosij</i><par n="Latvij/a__np"/></e>
+    <e lm="Norvēģija"><i>Norvēģij</i><par n="Latvij/a__np"/></e>
+    <e lm="Okeānija"><i>Okeānij</i><par n="Latvij/a__np"/></e>
+    <e lm="Pensilvānija"><i>Pensilvānij</i><par n="Latvij/a__np"/></e>
+    <e lm="Persija"><i>Persij</i><par n="Latvij/a__np"/></e>
+    <e lm="Polinēzija"><i>Polinēzij</i><par n="Latvij/a__np"/></e>
+    <e lm="Prūsija"><i>Prūsij</i><par n="Latvij/a__np"/></e>
+    <e lm="Rietumvirdžīnija"><i>Rietumvirdžīnij</i><par n="Latvij/a__np"/></e>
+    <e lm="Rietumvācija"><i>Rietumvācij</i><par n="Latvij/a__np"/></e>
+    <e lm="Rumānija"><i>Rumānij</i><par n="Latvij/a__np"/></e>
+    <e lm="Sardīnija"><i>Sardīnij</i><par n="Latvij/a__np"/></e>
+    <e lm="Serbija"><i>Serbij</i><par n="Latvij/a__np"/></e>
+    <e lm="Sibīrija"><i>Sibīrij</i><par n="Latvij/a__np"/></e>
+    <e lm="Sicīlija"><i>Sicīlij</i><par n="Latvij/a__np"/></e>
+    <e lm="Sitija"><i>Sitij</i><par n="Latvij/a__np"/></e>
+    <e lm="Londonas Sitija"><i>Londonas<b/>Sitij</i><par n="Latvij/a__np"/></e>
+    <e lm="Skandināvija"><i>Skandināvij</i><par n="Latvij/a__np"/></e>
+    <e lm="Skotija"><i>Skotij</i><par n="Latvij/a__np"/></e>
+    <e lm="Slovākija"><i>Slovākij</i><par n="Latvij/a__np"/></e>
+    <e lm="Slovēnija"><i>Slovēnij</i><par n="Latvij/a__np"/></e>
+    <e lm="Sofija"><i>Sofij</i><par n="Latvij/a__np"/></e>
+    <e lm="Somija"><i>Somij</i><par n="Latvij/a__np"/></e>
+    <e lm="Somālija"><i>Somālij</i><par n="Latvij/a__np"/></e>
+    <e lm="Spānija"><i>Spānij</i><par n="Latvij/a__np"/></e>
+    <e lm="Sēlija"><i>Sēlij</i><par n="Latvij/a__np"/></e>
+    <e lm="Sīrija"><i>Sīrij</i><par n="Latvij/a__np"/></e>
+    <e lm="Tadžikija"><i>Tadžikij</i><par n="Latvij/a__np"/></e>
+    <e lm="Tanzānija"><i>Tanzānij</i><par n="Latvij/a__np"/></e>
+    <e lm="Tasmānija"><i>Tasmānij</i><par n="Latvij/a__np"/></e>
+    <e lm="Tokija"><i>Tokij</i><par n="Latvij/a__np"/></e>
+    <e lm="Tunisija"><i>Tunisij</i><par n="Latvij/a__np"/></e>
+    <e lm="Turcija"><i>Turcij</i><par n="Latvij/a__np"/></e>
+    <e lm="Turkmēnija"><i>Turkmēnij</i><par n="Latvij/a__np"/></e>
+    <e lm="Uzbekija"><i>Uzbekij</i><par n="Latvij/a__np"/></e>
+    <e lm="Venēcija"><i>Venēcij</i><par n="Latvij/a__np"/></e>
+    <e lm="Vidusāzija"><i>Vidusāzij</i><par n="Latvij/a__np"/></e>
+    <e lm="Virdžīnija"><i>Virdžīnij</i><par n="Latvij/a__np"/></e>
+    <e lm="Vācija"><i>Vācij</i><par n="Latvij/a__np"/></e>
+    <e lm="Zambija"><i>Zambij</i><par n="Latvij/a__np"/></e>
+    <e lm="Ziemeļīrija"><i>Ziemeļīrij</i><par n="Latvij/a__np"/></e>
+    <e lm="Zviedrija"><i>Zviedrij</i><par n="Latvij/a__np"/></e>
+    <e lm="Āzija"><i>Āzij</i><par n="Latvij/a__np"/></e>
+    <e lm="Čehija"><i>Čehij</i><par n="Latvij/a__np"/></e>
+    <e lm="Čečenija"><i>Čečenij</i><par n="Latvij/a__np"/></e>
+    <e lm="Īrija"><i>Īrij</i><par n="Latvij/a__np"/></e>
     <e lm="valoda"><i>valod</i><par n="siev/a__n"/></e>
     <e lm="itāļu valoda"><i>itāļu<b/>valod</i><par n="siev/a__n"/></e>
     <e lm="angļu valoda"><i>angļu<b/>valod</i><par n="siev/a__n"/></e>

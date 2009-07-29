@@ -75,7 +75,7 @@
     <e><p><l>South<b/>Asia<s n="np"/><s n="top"/></l><r>Dienvidāzija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Denmark<s n="np"/><s n="top"/></l><r>Dānija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>Georgia<s n="np"/><s n="top"/></l><r>Džordžija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e><p><l>Eurovision<s n="np"/><s n="al"/></l><r>Eirovīzija<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+    <e><p><l>Eurovision<s n="n"/></l><r>Eirovīzija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Eurasia<s n="np"/><s n="top"/></l><r>Eirāzija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Ethiopia<s n="np"/><s n="top"/></l><r>Etiopija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Phoenicia<s n="np"/><s n="top"/></l><r>Feniķija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -153,7 +153,7 @@
     <e><p><l>Uzbekistan<s n="np"/><s n="top"/></l><r>Uzbekija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Venice<s n="np"/><s n="top"/></l><r>Venēcija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Central<b/>Asia<s n="np"/><s n="top"/></l><r>Vidusāzija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e><p><l>Wikipedia<s n="np"/><s n="top"/></l><r>Vikipēdija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Wikipedia<s n="n"/></l><r>Vikipēdija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Virginia<s n="np"/><s n="top"/></l><r>Virdžīnija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Germany<s n="np"/><s n="top"/></l><r>Vācija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Zambia<s n="np"/><s n="top"/></l><r>Zambija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
