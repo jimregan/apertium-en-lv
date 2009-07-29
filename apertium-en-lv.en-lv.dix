@@ -504,6 +504,17 @@
     <e><p><l>get<s n="vblex"/></l><r>tikt<s n="vblex"/></r></p></e>
     
     <e><p><l>one<s n="num"/></l><r>viens<s n="num"/></r></p></e>
+    <e><p><l>one<b/>and<b/>a<b/>half<s n="num"/></l><r>pusotra<s n="num"/></r></p></e>
+    <e><p><l>one<b/>and<b/>a<b/>third<s n="num"/></l><r>pustreša<s n="num"/></r></p></e>
+    <e><p><l>one<b/>and<b/>a<b/>quarter<s n="num"/></l><r>pusceturta<s n="num"/></r></p></e>
+    <e><p><l>two<s n="num"/></l><r>devi<s n="num"/></r></p></e>
+    <e><p><l>three<s n="num"/></l><r>trīs<s n="num"/></r></p></e>
+    <e><p><l>four<s n="num"/></l><r>četri<s n="num"/></r></p></e>
+    <e><p><l>five<s n="num"/></l><r>pieci<s n="num"/></r></p></e>
+    <e><p><l>six<s n="num"/></l><r>seši<s n="num"/></r></p></e>
+    <e><p><l>seven<s n="num"/></l><r>septiņi<s n="num"/></r></p></e>
+    <e><p><l>eight<s n="num"/></l><r>astoņi<s n="num"/></r></p></e>
+    <e><p><l>nine<s n="num"/></l><r>deviņi<s n="num"/></r></p></e>
     <e><p><l>ten<s n="num"/></l><r>desmit<s n="num"/></r></p></e>
     <e><p><l>twenty<s n="num"/></l><r>divdesmit<s n="num"/></r></p></e>
     <e><p><l>thirty<s n="num"/></l><r>trīsdesmit<s n="num"/></r></p></e>
