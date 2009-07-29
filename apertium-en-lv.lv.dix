@@ -749,6 +749,158 @@
         </p>
       </e>
     </pardef>
+    <pardef n="šis__det">
+      <e>
+        <p>
+          <l>šis</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="sg"/><s n="m"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>šī</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="sg"/><s n="f"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>šīs</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="sg"/><s n="m"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>šās</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="sg"/><s n="f"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>šī</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="sg"/><s n="m"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>šā</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="sg"/><s n="f"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>šam</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="sg"/><s n="m"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>šai</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="sg"/><s n="f"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>šo</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="sg"/><s n="m"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>šo</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="sg"/><s n="f"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>šinī</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="sg"/><s n="m"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>šajā</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="sg"/><s n="f"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>šai</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="sg"/><s n="mf"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>šie</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="pl"/><s n="m"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>šīs</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="pl"/><s n="f"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>šo</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="pl"/><s n="m"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>šo</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="pl"/><s n="f"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>šiem</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="pl"/><s n="m"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>šīm</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="pl"/><s n="f"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>šos</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="pl"/><s n="m"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>šīs</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="pl"/><s n="f"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>šais</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="pl"/><s n="m"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>šajās</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="pl"/><s n="f"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>šinīs</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="pl"/><s n="mf"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>šajos</l>
+          <r>šis<s n="det"/><s n="ind"/><s n="pl"/><s n="m"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="vis/s__det">
       <e>
         <p>
@@ -3800,6 +3952,7 @@
     <e><par n="emphprn__prn"/></e>
     <e><par n="kas__det"/></e>
     <e><par n="tas__det"/></e>
+    <e><par n="šis__det"/></e>
     <e><i>vis</i><par n="vis/s__det"/></e>
     <e><par n="/būt__vbser"/></e>
     <!-- Subordinating conjunctions -->

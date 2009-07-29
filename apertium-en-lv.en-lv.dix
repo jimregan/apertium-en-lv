@@ -35,7 +35,6 @@
     <e><p><l>Alexander<s n="np"/><s n="ant"/><s n="m"/></l><r>Aleksanders<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Andrew<s n="np"/><s n="ant"/><s n="m"/></l><r>Andris<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     ..but let's ignore that, shall we? -->
-    <e><p><l>what<s n="det"/><s n="itg"/><s n="sp"/></l><r>kas<s n="det"/><s n="itg"/><s n="sp"/><s n="mf"/></r></p></e>
     <!-- Prepositions -->
     <e><p><l>under<s n="pr"/></l><r>zem<s n="pr"/></r></p></e>
     <e><p><l>without<s n="pr"/></l><r>bez<s n="pr"/></r></p></e>
@@ -64,6 +63,9 @@
     <e><p><l>outside<s n="adv"/></l><r>ārā<s n="adv"/></r></p></e>
     <e><p><l>yet<s n="adv"/></l><r>jau<s n="adv"/></r></p></e>
     <e><p><l>where<s n="adv"/><s n="itg"/></l><r>kur<s n="adv"/><s n="itg"/></r></p></e>
+    <!-- det -->
+    <e><p><l>this<s n="det"/><s n="dem"/></l><r>šis<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>what<s n="det"/><s n="itg"/><s n="sp"/></l><r>kas<s n="det"/><s n="itg"/><s n="sp"/><s n="mf"/></r></p></e>
     <!-- Proper names: Places -->
     <e><p><l>Afghanistan<s n="np"/><s n="top"/></l><r>Afganistāna<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Alaska<s n="np"/><s n="top"/></l><r>Aļaska<s n="np"/><s n="top"/><s n="f"/></r></p></e>
