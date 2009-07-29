@@ -41,6 +41,7 @@
     <sdef n="emph"/>
     <sdef n="det"/>
     <sdef n="itg"/>
+    <sdef n="ind"/>
     <sdef n="imp"/>
     <sdef n="cnjsub"/>
     <sdef n="cnjadv"/>
@@ -590,6 +591,134 @@
         <p>
           <l>ko</l>
           <r>kas<s n="det"/><s n="itg"/><s n="sp"/><s n="mf"/><s n="acc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="tas__det">
+      <e>
+        <p>
+          <l>tas</l>
+          <r>tas<s n="det"/><s n="ind"/><s n="sg"/><s n="mf"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR" c="Feminine?">
+        <p>
+          <l>tā</l>
+          <r>tas<s n="det"/><s n="ind"/><s n="sg"/><s n="mf"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tā</l>
+          <r>tas<s n="det"/><s n="ind"/><s n="sg"/><s n="mf"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR" c="Feminine?">
+        <p>
+          <l>tās</l>
+          <r>tas<s n="det"/><s n="ind"/><s n="sg"/><s n="mf"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tam</l>
+          <r>tas<s n="det"/><s n="ind"/><s n="sg"/><s n="mf"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>tai</l>
+          <r>tas<s n="det"/><s n="ind"/><s n="sg"/><s n="mf"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>to</l>
+          <r>tas<s n="det"/><s n="ind"/><s n="sg"/><s n="mf"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tanī</l>
+          <r>tas<s n="det"/><s n="ind"/><s n="sg"/><s n="mf"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>tajā</l>
+          <r>tas<s n="det"/><s n="ind"/><s n="sg"/><s n="mf"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>tai</l>
+          <r>tas<s n="det"/><s n="ind"/><s n="sg"/><s n="mf"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tie</l>
+          <r>tas<s n="det"/><s n="ind"/><s n="pl"/><s n="mf"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR" c="Feminine?">
+        <p>
+          <l>tās</l>
+          <r>tas<s n="det"/><s n="ind"/><s n="pl"/><s n="mf"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>to</l>
+          <r>tas<s n="det"/><s n="ind"/><s n="pl"/><s n="mf"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tām</l>
+          <r>tas<s n="det"/><s n="ind"/><s n="pl"/><s n="mf"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>tiem</l>
+          <r>tas<s n="det"/><s n="ind"/><s n="pl"/><s n="mf"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tās</l>
+          <r>tas<s n="det"/><s n="ind"/><s n="pl"/><s n="mf"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>tos</l>
+          <r>tas<s n="det"/><s n="ind"/><s n="pl"/><s n="mf"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tais</l>
+          <r>tas<s n="det"/><s n="ind"/><s n="pl"/><s n="mf"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>tajās</l>
+          <r>tas<s n="det"/><s n="ind"/><s n="pl"/><s n="mf"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>tanīs</l>
+          <r>tas<s n="det"/><s n="ind"/><s n="pl"/><s n="mf"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>tajos</l>
+          <r>tas<s n="det"/><s n="ind"/><s n="pl"/><s n="mf"/><s n="loc"/></r>
         </p>
       </e>
     </pardef>
@@ -2142,6 +2271,7 @@
     <e><par n="refprn__prn"/></e>
     <e><par n="emphprn__prn"/></e>
     <e><par n="kas__det"/></e>
+    <e><par n="tas__det"/></e>
     <e><par n="/būt__vbser"/></e>
     <!-- Subordinating conjunctions -->
     <e lm="lai"><i>lai</i><par n="lai__cnjsub"/></e>
