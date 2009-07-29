@@ -3797,101 +3797,101 @@
       </e>
     </pardef>
 
-    <pardef n="nakt/s__n">
+    <pardef n="nak/ts__n">
       <e>
         <p>
-          <l>s</l>
-          <r>s<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+          <l>ts</l>
+          <r>ts<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>s</l>
-          <r>s<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+          <l>ts</l>
+          <r>ts<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>s</l>
-          <r>s<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
+          <l>ts</l>
+          <r>ts<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ij</l>
-          <r>s<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+          <l>tij</l>
+          <r>ts<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>i</l>
-          <r>s<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+          <l>ti</l>
+          <r>ts<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>i</l>
-          <r>s<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+          <l>ti</l>
+          <r>ts<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ī</l>
-          <r>s<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+          <l>tī</l>
+          <r>ts<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>s</l>
-          <r>s<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+          <l>ts</l>
+          <r>ts<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>is</l>
-          <r>s<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+          <l>tis</l>
+          <r>ts<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>šu</l>
-          <r>s<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+          <r>ts<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>īm</l>
-          <r>s<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
+          <l>tīm</l>
+          <r>ts<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>īm</l>
-          <r>s<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+          <l>tīm</l>
+          <r>ts<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>is</l>
-          <r>s<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+          <l>tis</l>
+          <r>ts<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>īm</l>
-          <r>s<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+          <l>tīm</l>
+          <r>ts<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>īs</l>
-          <r>s<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+          <l>tīs</l>
+          <r>ts<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>is</l>
-          <r>s<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+          <l>tis</l>
+          <r>ts<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
     </pardef>
@@ -4306,7 +4306,7 @@
     <e lm="elle"><i>e</i><par n="e/lle__n"/></e>
     <e lm="dvēsele"><i>dvēse</i><par n="dvēse/le__n"/></e>
     <e lm="skābe"><i>skāb</i><par n="up/e__n"/></e>
-    <e lm="nakts"><i>nakt</i><par n="nakt/s__n"/></e>
+    <e lm="nakts"><i>nak</i><par n="nak/ts__n"/></e>
 
     <e lm="Bagdāde"><i>Bagdād</i><par n="Bagdād/e__np"/></e>
     <e lm="Latvija"><i>Latvij</i><par n="Latvij/a__np"/></e>
