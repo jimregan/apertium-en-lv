@@ -22,6 +22,7 @@
   <sdef n="pr"/>
   <sdef n="cnjadv"/>
   <sdef n="cnjsub"/>
+  <sdef n="cnjcoo"/>
   <sdef n="adv"/>
   <sdef n="preadv"/>
 </sdefs>
@@ -49,8 +50,14 @@
   <e><p><l>underneath<s n="pr"/></l><r>apakš<s n="pr"/></r></p></e>
   <e><p><l>on<s n="pr"/></l><r>uz<s n="pr"/><s n="gen"/></r></p></e>
   <e><p><l>to<s n="pr"/></l><r>uz<s n="pr"/><s n="acc"/></r></p></e>
+  <!-- Conjunctions -->
+  <e><p><l>or<s n="cnjcoo"/></l><r>jeb<s n="cnjcoo"/></r></p></e>
+  <e><p><l>and<s n="cnjcoo"/></l><r>un<s n="cnjcoo"/></r></p></e>
+  <e><p><l>nor<s n="cnjcoo"/></l><r>nedz<s n="cnjcoo"/></r></p></e>
+  <e><p><l>also<s n="cnjcoo"/></l><r>arī<s n="cnjcoo"/></r></p></e>
   <!-- Adverbs -->
   <e><p><l>very<s n="preadv"/></l><r>ļoti<s n="preadv"/></r></p></e>
+  <e><p><l>not<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
   <e><p><l>here<s n="adv"/></l><r>šeit<s n="adv"/></r></p></e>
   <e><p><l>outside<s n="adv"/></l><r>ārā<s n="adv"/></r></p></e>
   <e><p><l>where<s n="adv"/><s n="itg"/></l><r>kur<s n="adv"/><s n="itg"/></r></p></e>
