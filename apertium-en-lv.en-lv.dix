@@ -1,36 +1,36 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-<alphabet/>
-<sdefs>
-  <sdef n="n"/>
-  <sdef n="ant"/>
-  <sdef n="m"/>
-  <sdef n="f"/>
-  <sdef n="mf"/>
-  <sdef n="np"/>
-  <sdef n="ant"/>
-  <sdef n="top"/>
-  <sdef n="det"/>
-  <sdef n="dem"/>
-  <sdef n="itg"/>
-  <sdef n="sg"/>
-  <sdef n="pl"/>
-  <sdef n="sp"/>
-  <sdef n="adj"/>
-  <sdef n="adv"/>
-  <sdef n="vbser"/>
-  <sdef n="vblex"/>
-  <sdef n="pr"/>
-  <sdef n="cnjadv"/>
-  <sdef n="cnjsub"/>
-  <sdef n="cnjcoo"/>
-  <sdef n="adv"/>
-  <sdef n="preadv"/>
+  <alphabet/>
+  <sdefs>
+    <sdef n="n"/>
+    <sdef n="ant"/>
+    <sdef n="m"/>
+    <sdef n="f"/>
+    <sdef n="mf"/>
+    <sdef n="np"/>
+    <sdef n="ant"/>
+    <sdef n="top"/>
+    <sdef n="det"/>
+    <sdef n="dem"/>
+    <sdef n="itg"/>
+    <sdef n="sg"/>
+    <sdef n="pl"/>
+    <sdef n="sp"/>
+    <sdef n="adj"/>
+    <sdef n="adv"/>
+    <sdef n="vbser"/>
+    <sdef n="vblex"/>
+    <sdef n="pr"/>
+    <sdef n="cnjadv"/>
+    <sdef n="cnjsub"/>
+    <sdef n="cnjcoo"/>
+    <sdef n="adv"/>
+    <sdef n="preadv"/>
     <sdef n="num"/>
     <sdef n="indecl"/>
-</sdefs>
-<pardefs/>
-<section id="main" type="standard">
+  </sdefs>
+  <pardefs/>
+  <section id="main" type="standard">
     <!-- Proper names: Men -->
     <!-- in Latvia, the general policy is to translate *all* proper names -->
     <!--
@@ -555,5 +555,5 @@
     <e><p><l>seven<b/>thousand<s n="num"/></l><r>septiņtūkstoš<s n="num"/></r></p></e>
     <e><p><l>eight<b/>thousand<s n="num"/></l><r>astoņtūkstoš<s n="num"/></r></p></e>
     <e><p><l>nine<b/>thousand<s n="num"/></l><r>deviņtūkstoš<s n="num"/></r></p></e>
-</section>
+  </section>
 </dictionary>

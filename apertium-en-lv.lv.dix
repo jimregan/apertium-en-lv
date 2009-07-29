@@ -3017,97 +3017,97 @@
     <pardef n="/ze__n">
       <e>
         <p>
-          <r>ze</r>
+          <l>ze</l>
           <r>ze<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zes</r>
+          <l>zes</l>
           <r>ze<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zes</r>
+          <l>zes</l>
           <r>ze<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zei</r>
+          <l>zei</l>
           <r>ze<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zi</r>
+          <l>zi</l>
           <r>ze<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zi</r>
+          <l>zi</l>
           <r>ze<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zē</r>
+          <l>zē</l>
           <r>ze<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>ze</r>
+          <l>ze</l>
           <r>ze<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zes</r>
+          <l>zes</l>
           <r>ze<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>žu</r>
+          <l>žu</l>
           <r>ze<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zēm</r>
+          <l>zēm</l>
           <r>ze<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zēm</r>
+          <l>zēm</l>
           <r>ze<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zes</r>
+          <l>zes</l>
           <r>ze<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zēm</r>
+          <l>zēm</l>
           <r>ze<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zēs</r>
+          <l>zēs</l>
           <r>ze<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zes</r>
+          <l>zes</l>
           <r>ze<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
@@ -3115,97 +3115,97 @@
     <pardef n="sē/ne__n">
       <e>
         <p>
-          <r>ne</r>
+          <l>ne</l>
           <r>ne<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>nes</r>
+          <l>nes</l>
           <r>ne<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>nes</r>
+          <l>nes</l>
           <r>ne<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>nei</r>
+          <l>nei</l>
           <r>ne<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>ni</r>
+          <l>ni</l>
           <r>ne<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>ni</r>
+          <l>ni</l>
           <r>ne<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>nē</r>
+          <l>nē</l>
           <r>ne<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>ne</r>
+          <l>ne</l>
           <r>ne<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>nes</r>
+          <l>nes</l>
           <r>ne<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>ņu</r>
+          <l>ņu</l>
           <r>ne<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>nēm</r>
+          <l>nēm</l>
           <r>ne<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>nēm</r>
+          <l>nēm</l>
           <r>ne<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>nes</r>
+          <l>nes</l>
           <r>ne<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>nēm</r>
+          <l>nēm</l>
           <r>ne<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>nēs</r>
+          <l>nēs</l>
           <r>ne<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>nes</r>
+          <l>nes</l>
           <r>ne<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
@@ -3213,97 +3213,97 @@
     <pardef n="ap/se__n">
       <e>
         <p>
-          <r>se</r>
+          <l>se</l>
           <r>se<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>ses</r>
+          <l>ses</l>
           <r>se<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>ses</r>
+          <l>ses</l>
           <r>se<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>sei</r>
+          <l>sei</l>
           <r>se<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>si</r>
+          <l>si</l>
           <r>se<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>si</r>
+          <l>si</l>
           <r>se<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>sē</r>
+          <l>sē</l>
           <r>se<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>se</r>
+          <l>se</l>
           <r>se<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>ses</r>
+          <l>ses</l>
           <r>se<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>šu</r>
+          <l>šu</l>
           <r>se<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>sēm</r>
+          <l>sēm</l>
           <r>se<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>sēm</r>
+          <l>sēm</l>
           <r>se<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>ses</r>
+          <l>ses</l>
           <r>se<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>sēm</r>
+          <l>sēm</l>
           <r>se<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>sēs</r>
+          <l>sēs</l>
           <r>se<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>ses</r>
+          <l>ses</l>
           <r>se<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
@@ -3311,103 +3311,103 @@
     <pardef n="mā/te__n">
       <e>
         <p>
-          <r>te</r>
+          <l>te</l>
           <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tes</r>
+          <l>tes</l>
           <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tes</r>
+          <l>tes</l>
           <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tei</r>
+          <l>tei</l>
           <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>ti</r>
+          <l>ti</l>
           <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>ti</r>
+          <l>ti</l>
           <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tē</r>
+          <l>tē</l>
           <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>te</r>
+          <l>te</l>
           <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
-          <r>t</r>
+          <l>t</l>
           <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tes</r>
+          <l>tes</l>
           <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>šu</r>
+          <l>šu</l>
           <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tēm</r>
+          <l>tēm</l>
           <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tēm</r>
+          <l>tēm</l>
           <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tes</r>
+          <l>tes</l>
           <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tēm</r>
+          <l>tēm</l>
           <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tēs</r>
+          <l>tēs</l>
           <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tes</r>
+          <l>tes</l>
           <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
@@ -3415,97 +3415,97 @@
     <pardef n="bi/te__n">
       <e>
         <p>
-          <r>te</r>
+          <l>te</l>
           <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tes</r>
+          <l>tes</l>
           <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tes</r>
+          <l>tes</l>
           <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tei</r>
+          <l>tei</l>
           <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>ti</r>
+          <l>ti</l>
           <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>ti</r>
+          <l>ti</l>
           <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tē</r>
+          <l>tē</l>
           <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>te</r>
+          <l>te</l>
           <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tes</r>
+          <l>tes</l>
           <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>šu</r>
+          <l>šu</l>
           <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tēm</r>
+          <l>tēm</l>
           <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tēm</r>
+          <l>tēm</l>
           <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tes</r>
+          <l>tes</l>
           <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tēm</r>
+          <l>tēm</l>
           <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tēs</r>
+          <l>tēs</l>
           <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>tes</r>
+          <l>tes</l>
           <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
@@ -3513,97 +3513,97 @@
     <pardef n="/sne__n">
       <e>
         <p>
-          <r>sne</r>
+          <l>sne</l>
           <r>sne<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>snes</r>
+          <l>snes</l>
           <r>sne<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>snes</r>
+          <l>snes</l>
           <r>sne<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>snei</r>
+          <l>snei</l>
           <r>sne<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>sni</r>
+          <l>sni</l>
           <r>sne<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>sni</r>
+          <l>sni</l>
           <r>sne<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>snē</r>
+          <l>snē</l>
           <r>sne<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>sne</r>
+          <l>sne</l>
           <r>sne<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>snes</r>
+          <l>snes</l>
           <r>sne<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>šņu</r>
+          <l>šņu</l>
           <r>sne<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>snēm</r>
+          <l>snēm</l>
           <r>sne<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>snēm</r>
+          <l>snēm</l>
           <r>sne<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>snes</r>
+          <l>snes</l>
           <r>sne<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>snēm</r>
+          <l>snēm</l>
           <r>sne<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>snēs</r>
+          <l>snēs</l>
           <r>sne<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>snes</r>
+          <l>snes</l>
           <r>sne<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
@@ -3611,97 +3611,97 @@
     <pardef n="zvaig/zne__n">
       <e>
         <p>
-          <r>zne</r>
+          <l>zne</l>
           <r>zne<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>znes</r>
+          <l>znes</l>
           <r>zne<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>znes</r>
+          <l>znes</l>
           <r>zne<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>znei</r>
+          <l>znei</l>
           <r>zne<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zni</r>
+          <l>zni</l>
           <r>zne<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zni</r>
+          <l>zni</l>
           <r>zne<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>znē</r>
+          <l>znē</l>
           <r>zne<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zne</r>
+          <l>zne</l>
           <r>zne<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>znes</r>
+          <l>znes</l>
           <r>zne<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>žņu</r>
+          <l>žņu</l>
           <r>zne<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>znēm</r>
+          <l>znēm</l>
           <r>zne<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>znēm</r>
+          <l>znēm</l>
           <r>zne<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>znes</r>
+          <l>znes</l>
           <r>zne<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>znēm</r>
+          <l>znēm</l>
           <r>zne<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>znēs</r>
+          <l>znēs</l>
           <r>zne<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>znes</r>
+          <l>znes</l>
           <r>zne<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
@@ -3709,97 +3709,97 @@
     <pardef n="/zle__n">
       <e>
         <p>
-          <r>zle</r>
+          <l>zle</l>
           <r>zle<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zles</r>
+          <l>zles</l>
           <r>zle<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zles</r>
+          <l>zles</l>
           <r>zle<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zlei</r>
+          <l>zlei</l>
           <r>zle<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zli</r>
+          <l>zli</l>
           <r>zle<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zli</r>
+          <l>zli</l>
           <r>zle<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zlē</r>
+          <l>zlē</l>
           <r>zle<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zle</r>
+          <l>zle</l>
           <r>zle<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zles</r>
+          <l>zles</l>
           <r>zle<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>žļu</r>
+          <l>žļu</l>
           <r>zle<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zlēm</r>
+          <l>zlēm</l>
           <r>zle<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zlēm</r>
+          <l>zlēm</l>
           <r>zle<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zles</r>
+          <l>zles</l>
           <r>zle<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zlēm</r>
+          <l>zlēm</l>
           <r>zle<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zlēs</r>
+          <l>zlēs</l>
           <r>zle<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>zles</r>
+          <l>zles</l>
           <r>zle<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
@@ -3807,97 +3807,97 @@
     <pardef n="/sle__n">
       <e>
         <p>
-          <r>sle</r>
+          <l>sle</l>
           <r>sle<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>sles</r>
+          <l>sles</l>
           <r>sle<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>sles</r>
+          <l>sles</l>
           <r>sle<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>slei</r>
+          <l>slei</l>
           <r>sle<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>sli</r>
+          <l>sli</l>
           <r>sle<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>sli</r>
+          <l>sli</l>
           <r>sle<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>slē</r>
+          <l>slē</l>
           <r>sle<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>sle</r>
+          <l>sle</l>
           <r>sle<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>sles</r>
+          <l>sles</l>
           <r>sle<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>šļu</r>
+          <l>šļu</l>
           <r>sle<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>slēm</r>
+          <l>slēm</l>
           <r>sle<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>slēm</r>
+          <l>slēm</l>
           <r>sle<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>sles</r>
+          <l>sles</l>
           <r>sle<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>slēm</r>
+          <l>slēm</l>
           <r>sle<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>slēs</r>
+          <l>slēs</l>
           <r>sle<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>sles</r>
+          <l>sles</l>
           <r>sle<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
@@ -3905,97 +3905,97 @@
     <pardef n="/lne__n">
       <e>
         <p>
-          <r>lne</r>
+          <l>lne</l>
           <r>lne<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lnes</r>
+          <l>lnes</l>
           <r>lne<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lnes</r>
+          <l>lnes</l>
           <r>lne<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lnei</r>
+          <l>lnei</l>
           <r>lne<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lni</r>
+          <l>lni</l>
           <r>lne<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lni</r>
+          <l>lni</l>
           <r>lne<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lnē</r>
+          <l>lnē</l>
           <r>lne<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lne</r>
+          <l>lne</l>
           <r>lne<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lnes</r>
+          <l>lnes</l>
           <r>lne<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>		
         </p>
       </e>
       <e>
         <p>
-          <r>ļņu</r>
+          <l>ļņu</l>
           <r>lne<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lnēm</r>
+          <l>lnēm</l>
           <r>lne<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lnēm</r>
+          <l>lnēm</l>
           <r>lne<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lnes</r>
+          <l>lnes</l>
           <r>lne<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lnēm</r>
+          <l>lnēm</l>
           <r>lne<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lnēs</r>
+          <l>lnēs</l>
           <r>lne<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lnes</r>
+          <l>lnes</l>
           <r>lne<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
@@ -4003,97 +4003,97 @@
     <pardef n="e/lle__n">
       <e>
         <p>
-          <r>lle</r>
+          <l>lle</l>
           <r>lle<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lles</r>
+          <l>lles</l>
           <r>lle<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lles</r>
+          <l>lles</l>
           <r>lle<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>llei</r>
+          <l>llei</l>
           <r>lle<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lli</r>
+          <l>lli</l>
           <r>lle<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lli</r>
+          <l>lli</l>
           <r>lle<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>llē</r>
+          <l>llē</l>
           <r>lle<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lle</r>
+          <l>lle</l>
           <r>lle<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lles</r>
+          <l>lles</l>
           <r>lle<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>		
         </p>
       </e>
       <e>
         <p>
-          <r>ļļu</r>
+          <l>ļļu</l>
           <r>lle<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>llēm</r>
+          <l>llēm</l>
           <r>lle<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>llēm</r>
+          <l>llēm</l>
           <r>lle<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lles</r>
+          <l>lles</l>
           <r>lle<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>llēm</r>
+          <l>llēm</l>
           <r>lle<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>llēs</r>
+          <l>llēs</l>
           <r>lle<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <r>lles</r>
+          <l>lles</l>
           <r>lle<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
