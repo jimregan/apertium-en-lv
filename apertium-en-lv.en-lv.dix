@@ -201,6 +201,14 @@
     <e><p><l>Czech<b/>Republic<s n="np"/><s n="top"/></l><r>Čehija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Chechnya<s n="np"/><s n="top"/></l><r>Čečenija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Ireland<s n="np"/><s n="top"/></l><r>Īrija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Israel<s n="np"/><s n="top"/></l><r>Izraēla<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Iran<s n="np"/><s n="top"/></l><r>Irāna<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Iraq<s n="np"/><s n="top"/></l><r>Irāka<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Glasgow<s n="np"/><s n="top"/></l><r>Glāzgova<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Europe<s n="np"/><s n="top"/></l><r>Eiropa<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>South<b/>Africa<s n="np"/><s n="top"/></l><r>Dienvidāfrika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>South<b/>America<s n="np"/><s n="top"/></l><r>Dienvidamerika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>America<s n="np"/><s n="top"/></l><r>Amerika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <!-- nouns -->
     <e><p><l>Afrikaans<s n="n"/></l><r>Afrikandu<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bison<s n="n"/></l><r>bizons<s n="n"/><s n="m"/></r></p></e>
