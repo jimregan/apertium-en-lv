@@ -1919,8 +1919,6 @@
     <e lm="pirms"><i>pirms</i><par n="kamēr__cnjadv"/></e>
     <e lm="lai gan"><i>lai<b/>gan</i><par n="kamēr__cnjadv"/></e>
     <e lm="līdzko"><i>līdzko</i><par n="kamēr__cnjadv"/></e>
-    <e lm="uz"><p><l>uz</l><r>uz<s n="pr"/><s n="gen"/></r></p></e>
-    <e lm="uz"><p><l>uz</l><r>uz<s n="pr"/><s n="acc"/></r></p></e>
     <!-- Prepositions -->
     <e lm="aiz"><i>aiz</i><par n="ap__pr"/></e>
     <e lm="ap"><i>ap</i><par n="ap__pr"/></e>
@@ -1956,7 +1954,8 @@
     <e lm="priekš"><i>priekš</i><par n="ap__pr"/></e>
     <e lm="starp"><i>starp</i><par n="ap__pr"/></e>
     <e lm="šaipus"><i>šaipus</i><par n="ap__pr"/></e>
-    <e lm="uz"><i>uz</i><par n="ap__pr"/></e>
+    <e lm="uz"><p><l>uz</l><r>uz<s n="pr"/><s n="gen"/></r></p></e>
+    <e lm="uz"><p><l>uz</l><r>uz<s n="pr"/><s n="acc"/></r></p></e>
     <e lm="viņpus"><i>viņpus</i><par n="ap__pr"/></e>
     <e lm="virs"><i>virs</i><par n="ap__pr"/></e>
     <e lm="virspus"><i>virspus</i><par n="ap__pr"/></e>
