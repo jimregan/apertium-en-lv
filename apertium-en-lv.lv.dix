@@ -4,6 +4,9 @@
   <sdefs>
     <sdef n="n"/>
     <sdef n="pr"/>
+    <sdef n="emph"/>
+    <sdef n="det"/>
+    <sdef n="itg"/>
     <sdef n="m"/>
     <sdef n="nom"      c="Nominatīvs"/>
     <sdef n="gen"      c="Ģenitīvs"/>
