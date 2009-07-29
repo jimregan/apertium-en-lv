@@ -1902,6 +1902,8 @@
     <e lm="pirms"><i>pirms</i><par n="kamēr__cnjadv"/></e>
     <e lm="lai gan"><i>lai<b/>gan</i><par n="kamēr__cnjadv"/></e>
     <e lm="līdzko"><i>līdzko</i><par n="kamēr__cnjadv"/></e>
+    <e lm="uz"><p><l>uz</l><r>uz<s n="pr"/><s n="gen"/></r></p></e>
+    <e lm="uz"><p><l>uz</l><r>uz<s n="pr"/><s n="acc"/></r></p></e>
     <!-- Prepositions -->
     <e lm="aiz"><i>aiz</i><par n="ap__pr"/></e>
     <e lm="ap"><i>ap</i><par n="ap__pr"/></e>
