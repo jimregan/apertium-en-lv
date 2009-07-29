@@ -28,52 +28,52 @@
 </sdefs>
 <pardefs/>
 <section id="main" type="standard">
-  <!-- Proper names: Men -->
-  <!-- in Latvia, the general policy is to translate *all* proper names -->
-  <!--
-  <e><p><l>Adam<s n="np"/><s n="ant"/><s n="m"/></l><r>Ādams<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-  <e><p><l>Alexander<s n="np"/><s n="ant"/><s n="m"/></l><r>Aleksanders<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-  <e><p><l>Andrew<s n="np"/><s n="ant"/><s n="m"/></l><r>Andris<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-  ..but let's ignore that, shall we? -->
-  <e><p><l>what<s n="det"/><s n="itg"/><s n="sp"/></l><r>kas<s n="det"/><s n="itg"/><s n="sp"/><s n="mf"/></r></p></e>
-  <!-- Prepositions -->
-  <e><p><l>under<s n="pr"/></l><r>zem<s n="pr"/></r></p></e>
-  <e><p><l>without<s n="pr"/></l><r>bez<s n="pr"/></r></p></e>
-  <e><p><l>above<s n="pr"/></l><r>virs<s n="pr"/></r></p></e>
-  <e><p><l>after<s n="pr"/></l><r>pēc<s n="pr"/></r></p></e>
-  <e><p><l>around<s n="pr"/></l><r>ap<s n="pr"/></r></p></e>
-  <e><p><l>between<s n="pr"/></l><r>starp<s n="pr"/></r></p></e>
-  <e><p><l>along<s n="pr"/></l><r>pa<s n="pr"/></r></p></e>
-  <e><p><l>with<s n="pr"/></l><r>ar<s n="pr"/></r></p></e>
-  <e><p><l>until<s n="pr"/></l><r>līdz<s n="pr"/></r></p></e>
-  <e><p><l>behind<s n="pr"/></l><r>aiz<s n="pr"/></r></p></e>
-  <e><p><l>underneath<s n="pr"/></l><r>apakš<s n="pr"/></r></p></e>
-  <e><p><l>on<s n="pr"/></l><r>uz<s n="pr"/><s n="gen"/></r></p></e>
-  <e><p><l>to<s n="pr"/></l><r>uz<s n="pr"/><s n="acc"/></r></p></e>
-  <e><p><l>during<s n="pr"/></l><r>laikā<s n="pr"/></r></p></e>
-  <!-- Conjunctions -->
-  <e><p><l>or<s n="cnjcoo"/></l><r>jeb<s n="cnjcoo"/></r></p></e>
-  <e><p><l>and<s n="cnjcoo"/></l><r>un<s n="cnjcoo"/></r></p></e>
-  <e><p><l>nor<s n="cnjcoo"/></l><r>nedz<s n="cnjcoo"/></r></p></e>
-  <e><p><l>also<s n="cnjcoo"/></l><r>arī<s n="cnjcoo"/></r></p></e>
-  <e><p><l>but<s n="cnjcoo"/></l><r>bet<s n="cnjcoo"/></r></p></e>
-  <!-- Adverbs -->
-  <e><p><l>very<s n="preadv"/></l><r>ļoti<s n="preadv"/></r></p></e>
-  <e><p><l>not<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
-  <e><p><l>here<s n="adv"/></l><r>šeit<s n="adv"/></r></p></e>
-  <e><p><l>outside<s n="adv"/></l><r>ārā<s n="adv"/></r></p></e>
-  <e><p><l>yet<s n="adv"/></l><r>jau<s n="adv"/></r></p></e>
-  <e><p><l>where<s n="adv"/><s n="itg"/></l><r>kur<s n="adv"/><s n="itg"/></r></p></e>
-  <!-- Proper names: Places -->
-  <e><p><l>Afghanistan<s n="np"/><s n="top"/></l><r>Afganistāna<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-  <e><p><l>Alaska<s n="np"/><s n="top"/></l><r>Aļaska<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-  <e><p><l>Australia<s n="np"/><s n="top"/></l><r>Austrālija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-  <e><p><l>Baghdad<s n="np"/><s n="top"/></l><r>Bagdāde<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-  <e><p><l>Hungary<s n="np"/><s n="top"/></l><r>Ungārija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-  <e><p><l>Poland<s n="np"/><s n="top"/></l><r>Polija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-  <e><p><l>Latvia<s n="np"/><s n="top"/></l><r>Latvija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-  <e><p><l>Warsaw<s n="np"/><s n="top"/></l><r>Varšava<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-  <e><p><l>Riga<s n="np"/><s n="top"/></l><r>Rīga<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <!-- Proper names: Men -->
+    <!-- in Latvia, the general policy is to translate *all* proper names -->
+    <!--
+    <e><p><l>Adam<s n="np"/><s n="ant"/><s n="m"/></l><r>Ādams<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Alexander<s n="np"/><s n="ant"/><s n="m"/></l><r>Aleksanders<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Andrew<s n="np"/><s n="ant"/><s n="m"/></l><r>Andris<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    ..but let's ignore that, shall we? -->
+    <e><p><l>what<s n="det"/><s n="itg"/><s n="sp"/></l><r>kas<s n="det"/><s n="itg"/><s n="sp"/><s n="mf"/></r></p></e>
+    <!-- Prepositions -->
+    <e><p><l>under<s n="pr"/></l><r>zem<s n="pr"/></r></p></e>
+    <e><p><l>without<s n="pr"/></l><r>bez<s n="pr"/></r></p></e>
+    <e><p><l>above<s n="pr"/></l><r>virs<s n="pr"/></r></p></e>
+    <e><p><l>after<s n="pr"/></l><r>pēc<s n="pr"/></r></p></e>
+    <e><p><l>around<s n="pr"/></l><r>ap<s n="pr"/></r></p></e>
+    <e><p><l>between<s n="pr"/></l><r>starp<s n="pr"/></r></p></e>
+    <e><p><l>along<s n="pr"/></l><r>pa<s n="pr"/></r></p></e>
+    <e><p><l>with<s n="pr"/></l><r>ar<s n="pr"/></r></p></e>
+    <e><p><l>until<s n="pr"/></l><r>līdz<s n="pr"/></r></p></e>
+    <e><p><l>behind<s n="pr"/></l><r>aiz<s n="pr"/></r></p></e>
+    <e><p><l>underneath<s n="pr"/></l><r>apakš<s n="pr"/></r></p></e>
+    <e><p><l>on<s n="pr"/></l><r>uz<s n="pr"/><s n="gen"/></r></p></e>
+    <e><p><l>to<s n="pr"/></l><r>uz<s n="pr"/><s n="acc"/></r></p></e>
+    <e><p><l>during<s n="pr"/></l><r>laikā<s n="pr"/></r></p></e>
+    <!-- Conjunctions -->
+    <e><p><l>or<s n="cnjcoo"/></l><r>jeb<s n="cnjcoo"/></r></p></e>
+    <e><p><l>and<s n="cnjcoo"/></l><r>un<s n="cnjcoo"/></r></p></e>
+    <e><p><l>nor<s n="cnjcoo"/></l><r>nedz<s n="cnjcoo"/></r></p></e>
+    <e><p><l>also<s n="cnjcoo"/></l><r>arī<s n="cnjcoo"/></r></p></e>
+    <e><p><l>but<s n="cnjcoo"/></l><r>bet<s n="cnjcoo"/></r></p></e>
+    <!-- Adverbs -->
+    <e><p><l>very<s n="preadv"/></l><r>ļoti<s n="preadv"/></r></p></e>
+    <e><p><l>not<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
+    <e><p><l>here<s n="adv"/></l><r>šeit<s n="adv"/></r></p></e>
+    <e><p><l>outside<s n="adv"/></l><r>ārā<s n="adv"/></r></p></e>
+    <e><p><l>yet<s n="adv"/></l><r>jau<s n="adv"/></r></p></e>
+    <e><p><l>where<s n="adv"/><s n="itg"/></l><r>kur<s n="adv"/><s n="itg"/></r></p></e>
+    <!-- Proper names: Places -->
+    <e><p><l>Afghanistan<s n="np"/><s n="top"/></l><r>Afganistāna<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Alaska<s n="np"/><s n="top"/></l><r>Aļaska<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Australia<s n="np"/><s n="top"/></l><r>Austrālija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Baghdad<s n="np"/><s n="top"/></l><r>Bagdāde<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Hungary<s n="np"/><s n="top"/></l><r>Ungārija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Poland<s n="np"/><s n="top"/></l><r>Polija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Latvia<s n="np"/><s n="top"/></l><r>Latvija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Warsaw<s n="np"/><s n="top"/></l><r>Varšava<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Riga<s n="np"/><s n="top"/></l><r>Rīga<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Abyssinia<s n="np"/><s n="top"/></l><r>Abesīnija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Abkhazia<s n="np"/><s n="top"/></l><r>Abhāzija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Albania<s n="np"/><s n="top"/></l><r>Albānija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -107,7 +107,7 @@
     <e><p><l>Yugoslavia<s n="np"/><s n="top"/></l><r>Dienvidslāvija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>South<b/>Asia<s n="np"/><s n="top"/></l><r>Dienvidāzija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Denmark<s n="np"/><s n="top"/></l><r>Dānija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>Georgia<s n="np"/><s n="top"/></l><r>Džordžija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>Georgia<s n="np"/><s n="top"/></l><r>Džordžija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Eurovision<s n="n"/></l><r>Eirovīzija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Eurasia<s n="np"/><s n="top"/></l><r>Eirāzija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Ethiopia<s n="np"/><s n="top"/></l><r>Etiopija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -164,7 +164,7 @@
     <e><p><l>Serbia<s n="np"/><s n="top"/></l><r>Serbija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Siberia<s n="np"/><s n="top"/></l><r>Sibīrija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Sicily<s n="np"/><s n="top"/></l><r>Sicīlija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>City<b/>of<b/>London<s n="np"/><s n="top"/></l><r>Sitija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>City<b/>of<b/>London<s n="np"/><s n="top"/></l><r>Sitija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>City<b/>of<b/>London<s n="np"/><s n="top"/></l><r>Londonas<b/>Sitija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Scandinavia<s n="np"/><s n="top"/></l><r>Skandināvija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Scotland<s n="np"/><s n="top"/></l><r>Skotija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -196,286 +196,286 @@
     <e><p><l>Czech<b/>Republic<s n="np"/><s n="top"/></l><r>Čehija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Chechnya<s n="np"/><s n="top"/></l><r>Čečenija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Ireland<s n="np"/><s n="top"/></l><r>Īrija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-  <!-- nouns -->
-  <e><p><l>Afrikaans<s n="n"/></l><r>Afrikandu<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>bison<s n="n"/></l><r>bizons<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>punishment<s n="n"/></l><r>sods<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>purple<s n="n"/></l><r>purpurs<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>wheel<s n="n"/></l><r>ritenis<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>clock<s n="n"/></l><r>pulkstenis<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>cricket<s n="n"/></l><r>circenis<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>maggot<s n="n"/></l><r>cirmenis<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>bear<s n="n"/></l><r>lācis<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>deer<s n="n"/></l><r>briedis<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>angel<s n="n"/></l><r>eņģelis<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>badger<s n="n"/></l><r>āpsis<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>window<s n="n"/></l><r>logs<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>time<s n="n"/></l><r>laiks<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>religion<s n="n"/></l><r>reliģija<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>prostitution<s n="n"/></l><r>prostitūcija<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>problem<s n="n"/></l><r>problēma<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>pornography<s n="n"/></l><r>pornogrāfija<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>police<s n="n"/></l><r>policija<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>planet<s n="n"/></l><r>planēta<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>culture<s n="n"/></l><r>kultūra<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>airport<s n="n"/></l><r>lidosta<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>foreskin<s n="n"/></l><r>priekšāda<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>edge<s n="n"/></l><r>mala<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>lip<s n="n"/></l><r>lūpa<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>empire<s n="n"/></l><r>impērija<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>money<s n="n"/></l><r>nauda<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>marijuana<s n="n"/></l><r>marihuāna<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>speech<s n="n"/></l><r>runa<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>oil<s n="n"/></l><r>eļļa<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>meat<s n="n"/></l><r>gaļa<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>head<s n="n"/></l><r>galva<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>marten<s n="n"/></l><r>cauna<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>well<s n="n"/></l><r>aka<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>astrophysics<s n="n"/></l><r>astrofizika<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>physics<s n="n"/></l><r>fizika<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>galaxy<s n="n"/></l><r>galaktika<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>food<s n="n"/></l><r>pārtika<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>capital<b/>city<s n="n"/></l><r>galvaspilsēta<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>city<s n="n"/></l><r>pilsēta<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>beard<s n="n"/></l><r>bārda<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>price<s n="n"/></l><r>cena<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>pig<s n="n"/></l><r>cūka<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>soul<s n="n"/></l><r>dvēsele<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>yam<s n="n"/></l><r>dioskorėja<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>literature<s n="n"/></l><r>literatūra<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>acid<s n="n"/></l><r>skābe<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>atomic<b/>number<s n="n"/></l><r>atomskaitlis<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>iron<s n="n"/></l><r>dzelzs<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>beer<s n="n"/></l><r>alus<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>chlorophyll<s n="n"/></l><r>hlorofils<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>noun<s n="n"/></l><r>lietvārds<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>filter<s n="n"/></l><r>filtrs<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>demon<s n="n"/></l><r>dēmons<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>resurrection<s n="n"/></l><r>augšāmcelšanās<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>computer<s n="n"/></l><r>kompjūters<s n="n"/><s n="m"/></r></p></e>
-  <e><p><l>cactus<s n="n"/></l><r>kaktuss<s n="n"/><s n="m"/></r></p></e>
-  <e r="RL"><p><l>computer<s n="n"/></l><r>dators<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>abbey<s n="n"/></l><r>abatija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>abduction<s n="n"/></l><r>abdukcija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>adaptation<s n="n"/></l><r>adaptācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>administration<s n="n"/></l><r>administrācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>agglomeration<s n="n"/></l><r>aglomerācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>aggression<s n="n"/></l><r>agresija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>accommodation<s n="n"/></l><r>akomodācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>allotropy<s n="n"/></l><r>alotropija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>alchemy<s n="n"/></l><r>alķīmija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>amnesty<s n="n"/></l><r>amnestija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>anatomy<s n="n"/></l><r>anatomija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>annexation<s n="n"/></l><r>aneksija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>annihilation<s n="n"/></l><r>anihilācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>animation<s n="n"/></l><r>animācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>anorexia<s n="n"/></l><r>anoreksija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>anthology<s n="n"/></l><r>antoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>anthropology<s n="n"/></l><r>antropoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>archaeology<s n="n"/></l><r>arheoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>aristocracy<s n="n"/></l><r>aristokrātija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>artillery<s n="n"/></l><r>artilērija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>artery<s n="n"/></l><r>artērija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>astrology<s n="n"/></l><r>astroloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>astronomy<s n="n"/></l><r>astronomija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>nuclear<b/>power<b/>plant<s n="n"/></l><r>atomelektrostacija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>authentication<s n="n"/></l><r>autentifikācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>autocracy<s n="n"/></l><r>autokrātija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>authorisation<s n="n"/></l><r>autorizācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>bacteria<s n="n"/></l><r>baktērija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>battery<s n="n"/></l><r>baterija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>biography<s n="n"/></l><r>biogrāfija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>biology<s n="n"/></l><r>bioloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>biotechnology<s n="n"/></l><r>biotehnoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>biochemistry<s n="n"/></l><r>bioķīmija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>coeliac<b/>disease<s n="n"/></l><r>celiakija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>category<s n="n"/></l><r>kategorija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>cell<b/>biology<s n="n"/></l><r>citoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>civilisation<s n="n"/></l><r>civilizācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>fingerprinting<s n="n"/></l><r>daktiloskopija<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>dactyloscopy<s n="n"/></l><r>daktiloskopija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>deduction<s n="n"/></l><r>dedukcija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>deflation<s n="n"/></l><r>deflācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>deformation<s n="n"/></l><r>deformācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>declination<s n="n"/></l><r>deklinācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>deconstructivism<s n="n"/></l><r>dekonstrukcija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>demagogy<s n="n"/></l><r>demagoģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>democracy<s n="n"/></l><r>demokrātija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>denomination<s n="n"/></l><r>denominācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>diffraction<s n="n"/></l><r>difrakcija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>dimension<s n="n"/></l><r>dimensija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>diplomacy<s n="n"/></l><r>diplomātija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>discrimination<s n="n"/></l><r>diskriminācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>dispersion<s n="n"/></l><r>dispersija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>dysentery<s n="n"/></l><r>dizentērija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>dramaturgy<s n="n"/></l><r>dramaturģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>euthanasia<s n="n"/></l><r>eitanāzija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>eutrophication<s n="n"/></l><r>eitrofikācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>ecology<s n="n"/></l><r>ekoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>power<b/>station<s n="n"/></l><r>elektrostacija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>elegy<s n="n"/></l><r>elēģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>emigration<s n="n"/></l><r>emigrācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>emission<s n="n"/></l><r>emisija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>encyclopedia<s n="n"/></l><r>enciklopēdija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>energy<s n="n"/></l><r>enerģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>entomology<s n="n"/></l><r>entomoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>entropy<s n="n"/></l><r>entropija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>etymology<s n="n"/></l><r>etimoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>ethnography<s n="n"/></l><r>etnogrāfija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>ethology<s n="n"/></l><r>etoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>evolution<s n="n"/></l><r>evolūcija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>pharmacy<s n="n"/></l><r>farmācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>federation<s n="n"/></l><r>federācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>philosophy<s n="n"/></l><r>filozofija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>plant<b/>pathology<s n="n"/></l><r>fitopatoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>physiology<s n="n"/></l><r>fizioloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>flexion<s n="n"/></l><r>fleksija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>phonology<s n="n"/></l><r>fonoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>fossil<s n="n"/></l><r>fosilija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>photography<s n="n"/></l><r>fotogrāfija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>photometry<s n="n"/></l><r>fotometrija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>function<s n="n"/></l><r>funkcija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>globalisation<s n="n"/></l><r>globalizācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>epistemology<s n="n"/></l><r>gnozeoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>graphology<s n="n"/></l><r>grafoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>graphomania<s n="n"/></l><r>grafomānija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>gravitation<s n="n"/></l><r>gravitācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>harmony<s n="n"/></l><r>harmonija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>hydroelectricity<b/>station<s n="n"/></l><r>hidroelektrostacija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>holography<s n="n"/></l><r>hologrāfija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>chronology<s n="n"/></l><r>hronoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>identification<s n="n"/></l><r>identifikācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>ideology<s n="n"/></l><r>ideoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>immigration<s n="n"/></l><r>imigrācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>empire<s n="n"/></l><r>impērija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>induction<s n="n"/></l><r>indukcija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>industry<s n="n"/></l><r>industrija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>infection<s n="n"/></l><r>infekcija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>inflation<s n="n"/></l><r>inflācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>information<s n="n"/></l><r>informācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>inquisition<s n="n"/></l><r>inkvizīcija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>innovation<s n="n"/></l><r>inovācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>punctuation<s n="n"/></l><r>interpunkcija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>intonation<s n="n"/></l><r>intonācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>investment<s n="n"/></l><r>investīcija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>engineering<s n="n"/></l><r>inženierija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>irrigation<s n="n"/></l><r>irigācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>irony<s n="n"/></l><r>ironija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>contour<b/>line<s n="n"/></l><r>izolīnija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>ionisation<s n="n"/></l><r>jonizācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>coffee<s n="n"/></l><r>kafija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>cartography<s n="n"/></l><r>kartogrāfija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>cavalry<s n="n"/></l><r>kavalērija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>cinematography<s n="n"/></l><r>kinematogrāfija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>coalition<s n="n"/></l><r>koalīcija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>nuclear<b/>reaction<s n="n"/></l><r>kodolreakcija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>cohesion<s n="n"/></l><r>kohēzija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>colony<s n="n"/></l><r>kolonija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>combination<s n="n"/></l><r>kombinācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>commerce<s n="n"/></l><r>komercija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>communication<s n="n"/></l><r>komunikācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>comedy<s n="n"/></l><r>komēdija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>condensation<s n="n"/></l><r>kondensācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>religious<b/>denomination<s n="n"/></l><r>konfesija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>constitution<s n="n"/></l><r>konstitūcija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>convection<s n="n"/></l><r>konvekcija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>correlation<s n="n"/></l><r>korelācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>corrosion<s n="n"/></l><r>korozija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>cryptography<s n="n"/></l><r>kriptogrāfija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>crystallography<s n="n"/></l><r>kristalogrāfija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>mafia<s n="n"/></l><r>mafija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>malaria<s n="n"/></l><r>malārija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>matter<s n="n"/></l><r>matērija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>melody<s n="n"/></l><r>melodija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>meteorology<s n="n"/></l><r>meteoroloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>weather<b/>station<s n="n"/></l><r>meteostacija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>metrology<s n="n"/></l><r>metroloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>mycology<s n="n"/></l><r>mikoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>microbiology<s n="n"/></l><r>mikrobioloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>microsurgery<s n="n"/></l><r>mikroķirurģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>mineralogy<s n="n"/></l><r>mineraloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>mystery<s n="n"/></l><r>mistērija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>mythology<s n="n"/></l><r>mitoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>modulation<s n="n"/></l><r>modulācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>monarchy<s n="n"/></l><r>monarhija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>morphology<s n="n"/></l><r>morfoloģija<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>animation<s n="n"/></l><r>multiplikācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>mutation<s n="n"/></l><r>mutācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>mummy<s n="n"/></l><r>mūmija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>nanotechnology<s n="n"/></l><r>nanotehnoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>nation<s n="n"/></l><r>nācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>obligation<s n="n"/></l><r>obligācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>observatory<s n="n"/></l><r>observatorija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>oceanography<s n="n"/></l><r>okeanogrāfija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>occupation<s n="n"/></l><r>okupācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>oligarchy<s n="n"/></l><r>oligarhija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>palaeography<s n="n"/></l><r>paleogrāfija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>pandemic<s n="n"/></l><r>pandēmija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>parapsychology<s n="n"/></l><r>parapsiholoģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>pedagogy<s n="n"/></l><r>pedagoģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>peony<s n="n"/></l><r>peonija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>perturbation<s n="n"/></l><r>perturbācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>petrography<s n="n"/></l><r>petrogrāfija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>pneumonia<s n="n"/></l><r>pneimonija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>political<b/>science<s n="n"/></l><r>politoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>population<s n="n"/></l><r>populācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>poetry<s n="n"/></l><r>poēzija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>prelude<s n="n"/></l><r>prelūdija<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>privatisation<s n="n"/></l><r>prihvatizācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>privatisation<s n="n"/></l><r>privatizācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>software<b/>engineering<s n="n"/></l><r>programminženierija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>prostitution<s n="n"/></l><r>prostitūcija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>psychology<s n="n"/></l><r>psiholoģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>railroad<b/>switch<s n="n"/></l><r>pārmija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>reflection<s n="n"/></l><r>refleksija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>religion<s n="n"/></l><r>reliģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>restoration<s n="n"/></l><r>restaurācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>revolution<s n="n"/></l><r>revolūcija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>rotation<s n="n"/></l><r>rotācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>russification<s n="n"/></l><r>rusifikācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>rupee<s n="n"/></l><r>rūpija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>seismology<s n="n"/></l><r>seismoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>selection<s n="n"/></l><r>selekcija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>symphony<s n="n"/></l><r>simfonija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>scarification<s n="n"/></l><r>skarifikācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>sociology<s n="n"/></l><r>socioloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>sovietisation<s n="n"/></l><r>sovjetizācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>strategy<s n="n"/></l><r>stratēģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>sublimation<s n="n"/></l><r>sublimācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>technology<s n="n"/></l><r>tehnoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>television<s n="n"/></l><r>televīzija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>theory<s n="n"/></l><r>teorija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>therapy<s n="n"/></l><r>terapija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>territory<s n="n"/></l><r>teritorija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>terminology<s n="n"/></l><r>terminoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>typography<s n="n"/></l><r>tipogrāfija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>tyranny<s n="n"/></l><r>tirānija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>topology<s n="n"/></l><r>topoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>trajectory<s n="n"/></l><r>trajektorija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>tragedy<s n="n"/></l><r>traģēdija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>trigonometry<s n="n"/></l><r>trigonometrija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>urbanisation<s n="n"/></l><r>urbanizācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>vibration<s n="n"/></l><r>vibrācija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>virology<s n="n"/></l><r>virusoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>zoology<s n="n"/></l><r>zooloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>genealogy<s n="n"/></l><r>ģenealoģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>geodesy<s n="n"/></l><r>ģeodēzija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>geography<s n="n"/></l><r>ģeogrāfija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>geology<s n="n"/></l><r>ģeoloģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>geometry<s n="n"/></l><r>ģeometrija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>geochemistry<s n="n"/></l><r>ģeoķīmija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>surgery<s n="n"/></l><r>ķirurģija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>chemistry<s n="n"/></l><r>ķīmija<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>schizophrenia<s n="n"/></l><r>šizofrēnija<s n="n"/><s n="f"/></r></p></e>
+    <!-- nouns -->
+    <e><p><l>Afrikaans<s n="n"/></l><r>Afrikandu<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bison<s n="n"/></l><r>bizons<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>punishment<s n="n"/></l><r>sods<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>purple<s n="n"/></l><r>purpurs<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>wheel<s n="n"/></l><r>ritenis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>clock<s n="n"/></l><r>pulkstenis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cricket<s n="n"/></l><r>circenis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>maggot<s n="n"/></l><r>cirmenis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bear<s n="n"/></l><r>lācis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>deer<s n="n"/></l><r>briedis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>angel<s n="n"/></l><r>eņģelis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>badger<s n="n"/></l><r>āpsis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>window<s n="n"/></l><r>logs<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>time<s n="n"/></l><r>laiks<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>religion<s n="n"/></l><r>reliģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prostitution<s n="n"/></l><r>prostitūcija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>problem<s n="n"/></l><r>problēma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pornography<s n="n"/></l><r>pornogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>police<s n="n"/></l><r>policija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>planet<s n="n"/></l><r>planēta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>culture<s n="n"/></l><r>kultūra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>airport<s n="n"/></l><r>lidosta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>foreskin<s n="n"/></l><r>priekšāda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>edge<s n="n"/></l><r>mala<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lip<s n="n"/></l><r>lūpa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>empire<s n="n"/></l><r>impērija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>money<s n="n"/></l><r>nauda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>marijuana<s n="n"/></l><r>marihuāna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>speech<s n="n"/></l><r>runa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>oil<s n="n"/></l><r>eļļa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>meat<s n="n"/></l><r>gaļa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>head<s n="n"/></l><r>galva<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>marten<s n="n"/></l><r>cauna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>well<s n="n"/></l><r>aka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>astrophysics<s n="n"/></l><r>astrofizika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>physics<s n="n"/></l><r>fizika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>galaxy<s n="n"/></l><r>galaktika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>food<s n="n"/></l><r>pārtika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>capital<b/>city<s n="n"/></l><r>galvaspilsēta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>city<s n="n"/></l><r>pilsēta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>beard<s n="n"/></l><r>bārda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>price<s n="n"/></l><r>cena<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pig<s n="n"/></l><r>cūka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>soul<s n="n"/></l><r>dvēsele<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>yam<s n="n"/></l><r>dioskorėja<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>literature<s n="n"/></l><r>literatūra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>acid<s n="n"/></l><r>skābe<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>atomic<b/>number<s n="n"/></l><r>atomskaitlis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>iron<s n="n"/></l><r>dzelzs<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>beer<s n="n"/></l><r>alus<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>chlorophyll<s n="n"/></l><r>hlorofils<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>noun<s n="n"/></l><r>lietvārds<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>filter<s n="n"/></l><r>filtrs<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>demon<s n="n"/></l><r>dēmons<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>resurrection<s n="n"/></l><r>augšāmcelšanās<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>computer<s n="n"/></l><r>kompjūters<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cactus<s n="n"/></l><r>kaktuss<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>computer<s n="n"/></l><r>dators<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>abbey<s n="n"/></l><r>abatija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abduction<s n="n"/></l><r>abdukcija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>adaptation<s n="n"/></l><r>adaptācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>administration<s n="n"/></l><r>administrācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agglomeration<s n="n"/></l><r>aglomerācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aggression<s n="n"/></l><r>agresija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>accommodation<s n="n"/></l><r>akomodācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>allotropy<s n="n"/></l><r>alotropija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alchemy<s n="n"/></l><r>alķīmija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>amnesty<s n="n"/></l><r>amnestija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>anatomy<s n="n"/></l><r>anatomija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>annexation<s n="n"/></l><r>aneksija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>annihilation<s n="n"/></l><r>anihilācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>animation<s n="n"/></l><r>animācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>anorexia<s n="n"/></l><r>anoreksija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>anthology<s n="n"/></l><r>antoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>anthropology<s n="n"/></l><r>antropoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>archaeology<s n="n"/></l><r>arheoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aristocracy<s n="n"/></l><r>aristokrātija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>artillery<s n="n"/></l><r>artilērija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>artery<s n="n"/></l><r>artērija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>astrology<s n="n"/></l><r>astroloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>astronomy<s n="n"/></l><r>astronomija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nuclear<b/>power<b/>plant<s n="n"/></l><r>atomelektrostacija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>authentication<s n="n"/></l><r>autentifikācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>autocracy<s n="n"/></l><r>autokrātija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>authorisation<s n="n"/></l><r>autorizācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bacteria<s n="n"/></l><r>baktērija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>battery<s n="n"/></l><r>baterija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biography<s n="n"/></l><r>biogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biology<s n="n"/></l><r>bioloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biotechnology<s n="n"/></l><r>biotehnoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biochemistry<s n="n"/></l><r>bioķīmija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>coeliac<b/>disease<s n="n"/></l><r>celiakija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>category<s n="n"/></l><r>kategorija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cell<b/>biology<s n="n"/></l><r>citoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>civilisation<s n="n"/></l><r>civilizācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fingerprinting<s n="n"/></l><r>daktiloskopija<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>dactyloscopy<s n="n"/></l><r>daktiloskopija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>deduction<s n="n"/></l><r>dedukcija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>deflation<s n="n"/></l><r>deflācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>deformation<s n="n"/></l><r>deformācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>declination<s n="n"/></l><r>deklinācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>deconstructivism<s n="n"/></l><r>dekonstrukcija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>demagogy<s n="n"/></l><r>demagoģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>democracy<s n="n"/></l><r>demokrātija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>denomination<s n="n"/></l><r>denominācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>diffraction<s n="n"/></l><r>difrakcija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dimension<s n="n"/></l><r>dimensija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>diplomacy<s n="n"/></l><r>diplomātija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>discrimination<s n="n"/></l><r>diskriminācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dispersion<s n="n"/></l><r>dispersija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dysentery<s n="n"/></l><r>dizentērija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dramaturgy<s n="n"/></l><r>dramaturģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>euthanasia<s n="n"/></l><r>eitanāzija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>eutrophication<s n="n"/></l><r>eitrofikācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ecology<s n="n"/></l><r>ekoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>power<b/>station<s n="n"/></l><r>elektrostacija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>elegy<s n="n"/></l><r>elēģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>emigration<s n="n"/></l><r>emigrācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>emission<s n="n"/></l><r>emisija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>encyclopedia<s n="n"/></l><r>enciklopēdija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>energy<s n="n"/></l><r>enerģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>entomology<s n="n"/></l><r>entomoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>entropy<s n="n"/></l><r>entropija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>etymology<s n="n"/></l><r>etimoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ethnography<s n="n"/></l><r>etnogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ethology<s n="n"/></l><r>etoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>evolution<s n="n"/></l><r>evolūcija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pharmacy<s n="n"/></l><r>farmācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>federation<s n="n"/></l><r>federācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>philosophy<s n="n"/></l><r>filozofija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>plant<b/>pathology<s n="n"/></l><r>fitopatoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>physiology<s n="n"/></l><r>fizioloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>flexion<s n="n"/></l><r>fleksija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>phonology<s n="n"/></l><r>fonoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fossil<s n="n"/></l><r>fosilija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>photography<s n="n"/></l><r>fotogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>photometry<s n="n"/></l><r>fotometrija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>function<s n="n"/></l><r>funkcija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>globalisation<s n="n"/></l><r>globalizācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>epistemology<s n="n"/></l><r>gnozeoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>graphology<s n="n"/></l><r>grafoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>graphomania<s n="n"/></l><r>grafomānija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gravitation<s n="n"/></l><r>gravitācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>harmony<s n="n"/></l><r>harmonija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hydroelectricity<b/>station<s n="n"/></l><r>hidroelektrostacija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>holography<s n="n"/></l><r>hologrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>chronology<s n="n"/></l><r>hronoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>identification<s n="n"/></l><r>identifikācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ideology<s n="n"/></l><r>ideoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>immigration<s n="n"/></l><r>imigrācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>empire<s n="n"/></l><r>impērija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>induction<s n="n"/></l><r>indukcija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>industry<s n="n"/></l><r>industrija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>infection<s n="n"/></l><r>infekcija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>inflation<s n="n"/></l><r>inflācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>information<s n="n"/></l><r>informācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>inquisition<s n="n"/></l><r>inkvizīcija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>innovation<s n="n"/></l><r>inovācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>punctuation<s n="n"/></l><r>interpunkcija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>intonation<s n="n"/></l><r>intonācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>investment<s n="n"/></l><r>investīcija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>engineering<s n="n"/></l><r>inženierija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>irrigation<s n="n"/></l><r>irigācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>irony<s n="n"/></l><r>ironija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>contour<b/>line<s n="n"/></l><r>izolīnija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ionisation<s n="n"/></l><r>jonizācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>coffee<s n="n"/></l><r>kafija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cartography<s n="n"/></l><r>kartogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cavalry<s n="n"/></l><r>kavalērija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cinematography<s n="n"/></l><r>kinematogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>coalition<s n="n"/></l><r>koalīcija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nuclear<b/>reaction<s n="n"/></l><r>kodolreakcija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cohesion<s n="n"/></l><r>kohēzija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>colony<s n="n"/></l><r>kolonija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>combination<s n="n"/></l><r>kombinācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>commerce<s n="n"/></l><r>komercija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>communication<s n="n"/></l><r>komunikācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>comedy<s n="n"/></l><r>komēdija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>condensation<s n="n"/></l><r>kondensācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>religious<b/>denomination<s n="n"/></l><r>konfesija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>constitution<s n="n"/></l><r>konstitūcija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>convection<s n="n"/></l><r>konvekcija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>correlation<s n="n"/></l><r>korelācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>corrosion<s n="n"/></l><r>korozija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cryptography<s n="n"/></l><r>kriptogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>crystallography<s n="n"/></l><r>kristalogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mafia<s n="n"/></l><r>mafija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>malaria<s n="n"/></l><r>malārija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>matter<s n="n"/></l><r>matērija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>melody<s n="n"/></l><r>melodija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>meteorology<s n="n"/></l><r>meteoroloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>weather<b/>station<s n="n"/></l><r>meteostacija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>metrology<s n="n"/></l><r>metroloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mycology<s n="n"/></l><r>mikoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>microbiology<s n="n"/></l><r>mikrobioloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>microsurgery<s n="n"/></l><r>mikroķirurģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mineralogy<s n="n"/></l><r>mineraloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mystery<s n="n"/></l><r>mistērija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mythology<s n="n"/></l><r>mitoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>modulation<s n="n"/></l><r>modulācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>monarchy<s n="n"/></l><r>monarhija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>morphology<s n="n"/></l><r>morfoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>animation<s n="n"/></l><r>multiplikācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mutation<s n="n"/></l><r>mutācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mummy<s n="n"/></l><r>mūmija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nanotechnology<s n="n"/></l><r>nanotehnoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nation<s n="n"/></l><r>nācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>obligation<s n="n"/></l><r>obligācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>observatory<s n="n"/></l><r>observatorija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>oceanography<s n="n"/></l><r>okeanogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>occupation<s n="n"/></l><r>okupācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>oligarchy<s n="n"/></l><r>oligarhija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>palaeography<s n="n"/></l><r>paleogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pandemic<s n="n"/></l><r>pandēmija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>parapsychology<s n="n"/></l><r>parapsiholoģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pedagogy<s n="n"/></l><r>pedagoģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>peony<s n="n"/></l><r>peonija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>perturbation<s n="n"/></l><r>perturbācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>petrography<s n="n"/></l><r>petrogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pneumonia<s n="n"/></l><r>pneimonija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>political<b/>science<s n="n"/></l><r>politoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>population<s n="n"/></l><r>populācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>poetry<s n="n"/></l><r>poēzija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prelude<s n="n"/></l><r>prelūdija<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>privatisation<s n="n"/></l><r>prihvatizācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>privatisation<s n="n"/></l><r>privatizācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>software<b/>engineering<s n="n"/></l><r>programminženierija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prostitution<s n="n"/></l><r>prostitūcija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>psychology<s n="n"/></l><r>psiholoģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>railroad<b/>switch<s n="n"/></l><r>pārmija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>reflection<s n="n"/></l><r>refleksija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>religion<s n="n"/></l><r>reliģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>restoration<s n="n"/></l><r>restaurācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>revolution<s n="n"/></l><r>revolūcija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rotation<s n="n"/></l><r>rotācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>russification<s n="n"/></l><r>rusifikācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rupee<s n="n"/></l><r>rūpija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>seismology<s n="n"/></l><r>seismoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>selection<s n="n"/></l><r>selekcija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>symphony<s n="n"/></l><r>simfonija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>scarification<s n="n"/></l><r>skarifikācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sociology<s n="n"/></l><r>socioloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sovietisation<s n="n"/></l><r>sovjetizācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>strategy<s n="n"/></l><r>stratēģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sublimation<s n="n"/></l><r>sublimācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>technology<s n="n"/></l><r>tehnoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>television<s n="n"/></l><r>televīzija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>theory<s n="n"/></l><r>teorija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>therapy<s n="n"/></l><r>terapija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>territory<s n="n"/></l><r>teritorija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>terminology<s n="n"/></l><r>terminoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>typography<s n="n"/></l><r>tipogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tyranny<s n="n"/></l><r>tirānija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>topology<s n="n"/></l><r>topoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>trajectory<s n="n"/></l><r>trajektorija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tragedy<s n="n"/></l><r>traģēdija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>trigonometry<s n="n"/></l><r>trigonometrija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>urbanisation<s n="n"/></l><r>urbanizācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vibration<s n="n"/></l><r>vibrācija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>virology<s n="n"/></l><r>virusoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>zoology<s n="n"/></l><r>zooloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>genealogy<s n="n"/></l><r>ģenealoģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>geodesy<s n="n"/></l><r>ģeodēzija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>geography<s n="n"/></l><r>ģeogrāfija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>geology<s n="n"/></l><r>ģeoloģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>geometry<s n="n"/></l><r>ģeometrija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>geochemistry<s n="n"/></l><r>ģeoķīmija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>surgery<s n="n"/></l><r>ķirurģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>chemistry<s n="n"/></l><r>ķīmija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>schizophrenia<s n="n"/></l><r>šizofrēnija<s n="n"/><s n="f"/></r></p></e>
 
-  <e><p><l>language<s n="n"/></l><r>valoda<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>Italian<b/>language<s n="n"/></l><r>itāļu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>English<b/>language<s n="n"/></l><r>angļu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
-  <e><p><l>Latvian<b/>language<s n="n"/></l><r>latviešu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>language<s n="n"/></l><r>valoda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Italian<b/>language<s n="n"/></l><r>itāļu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>English<b/>language<s n="n"/></l><r>angļu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Latvian<b/>language<s n="n"/></l><r>latviešu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
 
-  <e><p><l>brown<s n="adj"/></l><r>brūns<s n="adj"/></r></p></e>
+    <e><p><l>brown<s n="adj"/></l><r>brūns<s n="adj"/></r></p></e>
   
-  <e><p><l>love<s n="vblex"/></l><r>mīlēt<s n="vblex"/></r></p></e>
-  <e><p><l>get<s n="vblex"/></l><r>tikt<s n="vblex"/></r></p></e>
+    <e><p><l>love<s n="vblex"/></l><r>mīlēt<s n="vblex"/></r></p></e>
+    <e><p><l>get<s n="vblex"/></l><r>tikt<s n="vblex"/></r></p></e>
 </section>
 </dictionary>
