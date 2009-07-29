@@ -94,6 +94,14 @@
         </p>
       </e>
     </pardef>
+    <pardef n="kur__adv">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="adv"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="ļoti__preadv">
       <e>
         <p>
@@ -1947,7 +1955,9 @@
     <!-- Preadverbs -->
     <e lm="ļoti"><i>ļoti</i><par n="ļoti__preadv"/></e>
     <!-- Adverbs -->
+    <e lm="kur"><i>kur</i><par n="kur__adv"/></e>
     <e lm="ārā"><i>ārā</i><par n="ārā__adv"/></e>
+    <e lm="šeit"><i>šeit</i><par n="ārā__adv"/></e>
     <e lm="apakšā"><i>apakšā</i><par n="ārā__adv"/></e>
     <!-- Synthetic adverbs -->
     <e lm="klusi"><par n="vis__pref"/><i>klus</i><par n="klus/i__adv"/></e>
