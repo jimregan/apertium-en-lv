@@ -11,6 +11,7 @@
   <sdef n="ant"/>
   <sdef n="top"/>
   <sdef n="det"/>
+  <sdef n="dem"/>
   <sdef n="itg"/>
   <sdef n="sg"/>
   <sdef n="pl"/>
@@ -64,7 +65,7 @@
     <e><p><l>yet<s n="adv"/></l><r>jau<s n="adv"/></r></p></e>
     <e><p><l>where<s n="adv"/><s n="itg"/></l><r>kur<s n="adv"/><s n="itg"/></r></p></e>
     <!-- det -->
-    <e><p><l>this<s n="det"/><s n="dem"/></l><r>šis<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>this<s n="det"/><s n="dem"/></l><r>šis<s n="det"/><s n="dem"/></r></p></e>
     <e><p><l>what<s n="det"/><s n="itg"/><s n="sp"/></l><r>kas<s n="det"/><s n="itg"/><s n="sp"/><s n="mf"/></r></p></e>
     <!-- Proper names: Places -->
     <e><p><l>Afghanistan<s n="np"/><s n="top"/></l><r>Afganistāna<s n="np"/><s n="top"/><s n="f"/></r></p></e>
