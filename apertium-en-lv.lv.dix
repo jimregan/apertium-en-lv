@@ -2415,6 +2415,7 @@
     <e lm="arī"><i>arī</i><par n="un__cnjcoo"/></e>
     <e lm="nedz"><i>nedz</i><par n="un__cnjcoo"/></e>
     <e lm="bet"><i>bet</i><par n="un__cnjcoo"/></e>
+    <e lm="gan"><i>gan</i><par n="un__cnjcoo"/></e>
     <!-- Prepositions -->
     <e lm="aiz"><i>aiz</i><par n="ap__pr"/></e>
     <e lm="ap"><i>ap</i><par n="ap__pr"/></e>
@@ -2467,6 +2468,7 @@
     <e lm="ārā"><i>ārā</i><par n="ārā__adv"/></e>
     <e lm="šeit"><i>šeit</i><par n="ārā__adv"/></e>
     <e lm="apakšā"><i>apakšā</i><par n="ārā__adv"/></e>
+    <e lm="jau"><i>jau</i><par n="ārā__adv"/></e>
     <!-- Synthetic adverbs -->
     <e lm="klusi"><par n="vis__pref"/><i>klus</i><par n="klus/i__adv"/></e>
     <e lm="tālu"><par n="vis__pref"/><i>tāl</i><par n="tāl/u__adv"/></e>
