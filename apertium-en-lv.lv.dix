@@ -1050,6 +1050,104 @@
         </p>
       </e>
     </pardef>
+    <pardef n="laik/s__n">
+      <e>
+        <p>
+          <l>s</l>
+          <r>s<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>s<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>s<s n="n"/><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>am</l>
+          <r>s<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>s<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>s<s n="n"/><s n="m"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ā</l>
+          <r>s<s n="n"/><s n="m"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>s</l>
+          <r>s<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>s<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>s<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iem</l>
+          <r>s<s n="n"/><s n="m"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iem</l>
+          <r>s<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>us</l>
+          <r>s<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iem</l>
+          <r>s<s n="n"/><s n="m"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>os</l>
+          <r>s<s n="n"/><s n="m"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>s<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="skap/is__n">
       <e>
         <p>
@@ -2109,6 +2207,7 @@
     <e lm="virs"><i>virs</i><par n="ap__pr"/></e>
     <e lm="virspus"><i>virspus</i><par n="ap__pr"/></e>
     <e lm="zem"><i>zem</i><par n="ap__pr"/></e>
+    <e lm="laikā"><i>laikā</i><par n="ap__pr"/></e> <!-- locative form of 'laiks' (time) -->
     <!-- Preadverbs -->
     <e lm="ļoti"><i>ļoti</i><par n="ļoti__preadv"/></e>
     <!-- Adverbs -->
@@ -2134,6 +2233,8 @@
     <e lm="kaktuss"><i>kaktus</i><par n="vīr/s__n"/></e>
     <e lm="dēmons"><i>dēmon</i><par n="vīr/s__n"/></e>
     <e lm="logs"><i>log</i><par n="vīr/s__n"/></e>
+    <!-- FIXME: correct vocative between laik/s and vir/s -->
+    <e lm="laiks"><i>laik</i><par n="laik/s__n"/></e>
     <e lm="skapis"><i>skap</i><par n="skap/is__n"/></e>
     <e lm="ritenis"><i>rite</i><par n="rite/nis__n"/></e>
     <e lm="pulkstenis"><i>pulkste</i><par n="rite/nis__n"/></e>
