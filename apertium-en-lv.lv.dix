@@ -702,29 +702,29 @@
       </e>
       <e>
         <p>
-          <l>tām</l>
+          <l>tiem</l>
           <r>tas<s n="det"/><s n="ind"/><s n="pl"/><s n="m"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>tiem</l>
+          <l>tām</l>
           <r>tas<s n="det"/><s n="ind"/><s n="pl"/><s n="f"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>tās</l>
+          <l>tos</l>
           <r>tas<s n="det"/><s n="ind"/><s n="pl"/><s n="m"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>tos</l>
+          <l>tās</l>
           <r>tas<s n="det"/><s n="ind"/><s n="pl"/><s n="f"/><s n="acc"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>tais</l>
           <r>tas<s n="det"/><s n="ind"/><s n="pl"/><s n="m"/><s n="loc"/></r>
@@ -742,10 +742,10 @@
           <r>tas<s n="det"/><s n="ind"/><s n="pl"/><s n="mf"/><s n="loc"/></r>
         </p>
       </e>
-      <e r="LR">
+      <e>
         <p>
           <l>tajos</l>
-          <r>tas<s n="det"/><s n="ind"/><s n="pl"/><s n="mf"/><s n="loc"/></r>
+          <r>tas<s n="det"/><s n="ind"/><s n="pl"/><s n="m"/><s n="loc"/></r>
         </p>
       </e>
     </pardef>
@@ -848,25 +848,25 @@
       </e>
       <e>
         <p>
-          <l>as</l>
+          <l>us</l>
           <r>s<s n="det"/><s n="ind"/><s n="pl"/><s n="m"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>us</l>
+          <l>as</l>
           <r>s<s n="det"/><s n="ind"/><s n="pl"/><s n="f"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ās</l>
+          <l>os</l>
           <r>s<s n="det"/><s n="ind"/><s n="pl"/><s n="m"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>os</l>
+          <l>ās</l>
           <r>s<s n="det"/><s n="ind"/><s n="pl"/><s n="f"/><s n="loc"/></r>
         </p>
       </e>
