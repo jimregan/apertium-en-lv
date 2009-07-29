@@ -1878,6 +1878,104 @@
         </p>
       </e>
     </pardef>
+    <pardef n="skait/lis__n">
+      <e>
+        <p>
+          <l>lis</l>
+          <r>lis<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ļa</l>
+          <r>lis<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ļa</l>
+          <r>lis<s n="n"/><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lim</l>
+          <r>lis<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>li</l>
+          <r>lis<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>li</l>
+          <r>lis<s n="n"/><s n="m"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lī</l>
+          <r>lis<s n="n"/><s n="m"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>li</l>
+          <r>lis<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ļi</l>
+          <r>lis<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ļu</l>
+          <r>lis<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ļiem</l>
+          <r>lis<s n="n"/><s n="m"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ļiem</l>
+          <r>lis<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ļus</l>
+          <r>lis<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ļiem</l>
+          <r>lis<s n="n"/><s n="m"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ļos</l>
+          <r>lis<s n="n"/><s n="m"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ļi</l>
+          <r>lis<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="lā/cis__n">
       <e>
         <p>
@@ -3895,6 +3993,56 @@
         </p>
       </e>
     </pardef>
+    <pardef n="ļau/dis__n">
+      <e>
+        <p>
+          <l>dis</l>
+          <r>dis<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>žu</l>
+          <r>dis<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dīm</l>
+          <r>dis<s n="n"/><s n="m"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dīm</l>
+          <r>dis<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dis</l>
+          <r>dis<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dīm</l>
+          <r>dis<s n="n"/><s n="m"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dīs</l>
+          <r>dis<s n="n"/><s n="m"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dis</l>
+          <r>dis<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="Bagdād/e__np">
       <e>
         <p>
@@ -4058,6 +4206,9 @@
     <e lm="lācis"><i>lā</i><par n="lā/cis__n"/></e>
     <e lm="briedis"><i>brie</i><par n="brie/dis__n"/></e>
     <e lm="āpsis"><i>āp</i><par n="āp/sis__n"/></e>
+    <e lm="skaitlis"><i>skait</i><par n="skait/lis__n"/></e>
+    <e lm="atomskaitlis"><i>atomskait</i><par n="skait/lis__n"/></e>
+    <e lm="karalis"><i>kara</i><par n="skait/lis__n"/></e>
     <e lm="tirgus"><i>tirg</i><par n="tirg/us__n"/></e>
     <e lm="alus"><i>al</i><par n="tirg/us__n"/></e>
     <e lm="sieva"><i>siev</i><par n="siev/a__n"/></e>
@@ -4307,6 +4458,7 @@
     <e lm="dvēsele"><i>dvēse</i><par n="dvēse/le__n"/></e>
     <e lm="skābe"><i>skāb</i><par n="up/e__n"/></e>
     <e lm="nakts"><i>nak</i><par n="nak/ts__n"/></e>
+    <e lm="ļaudis"><i>ļau</i><par n="ļau/dis__n"/></e>
 
     <e lm="Bagdāde"><i>Bagdād</i><par n="Bagdād/e__np"/></e>
     <e lm="Latvija"><i>Latvij</i><par n="Latvij/a__np"/></e>
