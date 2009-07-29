@@ -20,6 +20,10 @@
   <sdef n="vbser"/>
   <sdef n="vblex"/>
   <sdef n="pr"/>
+  <sdef n="cnjadv"/>
+  <sdef n="cnjsub"/>
+  <sdef n="adv"/>
+  <sdef n="preadv"/>
 </sdefs>
 <pardefs/>
 <section id="main" type="standard">
@@ -46,6 +50,7 @@
   <e><p><l>on<s n="pr"/></l><r>uz<s n="pr"/><s n="gen"/></r></p></e>
   <e><p><l>to<s n="pr"/></l><r>uz<s n="pr"/><s n="acc"/></r></p></e>
   <!-- Adverbs -->
+  <e><p><l>very<s n="preadv"/></l><r>ļoti<s n="preadv"/></r></p></e>
   <e><p><l>here<s n="adv"/></l><r>šeit<s n="adv"/></r></p></e>
   <e><p><l>outside<s n="adv"/></l><r>ārā<s n="adv"/></r></p></e>
   <e><p><l>where<s n="adv"/><s n="itg"/></l><r>kur<s n="adv"/><s n="itg"/></r></p></e>
