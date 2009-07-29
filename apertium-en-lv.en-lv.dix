@@ -209,6 +209,15 @@
     <e><p><l>South<b/>Africa<s n="np"/><s n="top"/></l><r>Dienvidāfrika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>South<b/>America<s n="np"/><s n="top"/></l><r>Dienvidamerika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>America<s n="np"/><s n="top"/></l><r>Amerika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Pretoria<s n="np"/><s n="top"/></l><r>Pretorija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Republic<b/>of<b/>South<b/>Africa<s n="np"/><s n="top"/></l><r>Dienvidāfrikas<b/>Republika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Johannesburg<s n="np"/><s n="top"/></l><r>Johannesburga<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>New<b/>Guinea<s n="np"/><s n="top"/></l><r>Jaungvineja<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Japan<s n="np"/><s n="top"/></l><r>Japāna<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Daugava<s n="np"/><s n="top"/></l><r>Daugava<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Daugavgrīva<s n="np"/><s n="top"/></l><r>Daugavgrīva<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Jersika<s n="np"/><s n="top"/></l><r>Jersika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Jelgava<s n="np"/><s n="top"/></l><r>Jelgava<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <!-- nouns -->
     <e><p><l>Afrikaans<s n="n"/></l><r>Afrikandu<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bison<s n="n"/></l><r>bizons<s n="n"/><s n="m"/></r></p></e>
