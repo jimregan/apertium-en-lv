@@ -1,6 +1,7 @@
 * text=auto !eol
 /apertium-en-lv.en-lv.dix -text
 /apertium-en-lv.lv.dix -text
+dev/find-equals.pl -text
 dev/nouns.chopped.dix -text
 dev/nouns.sorted.speling -text
 dev/np-top.speling -text
