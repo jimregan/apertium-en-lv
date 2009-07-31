@@ -7,3 +7,4 @@ dev/nouns.chopped.dix -text
 dev/nouns.sorted.speling -text
 dev/np-top.speling -text
 dev/proper-nouns.speling -text
+dev/wikilist -text
