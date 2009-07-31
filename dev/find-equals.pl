@@ -15,15 +15,25 @@ sub trim($)
 	return $string;
 }
 
+sub entrim($)
+{
+	my $string = shift;
+	$string =~ s/^\s+//;
+	$string =~ s/^a\s+//;
+	$string =~ s/^the\s+//;
+	$string =~ s/\s+$//;
+	return $string;
+}
+
 while (<>)
 {
 	($lv, $eng, $enp) = split ";", $_;
 	chomp $lv;
 	chomp $enp;
 	chomp $eng;
-	if (lc(trim($eng)) eq lc(trim($enp)))
+	if (lc(entrim($eng)) eq lc(entrim($enp)))
 	{
-		print "    <e><p><l>" . trim($enp) . "<s n=\"n\"/></l><r>" . trim($lv)."<s n=\"n\"/><s n=\"GD\"/></r></p></e>\n";
+		print "    <e><p><l>" . entrim($enp) . "<s n=\"n\"/></l><r>" . trim($lv)."<s n=\"n\"/><s n=\"GD\"/></r></p></e>\n";
 	}
 }
 
