@@ -55,6 +55,8 @@
     <sdef n="preadv"/>
     <sdef n="num"/>
     <sdef n="indecl"/>
+    <sdef n="sent"/>
+    <sdef n="cm"/>
   </sdefs>
   
   <pardefs>
@@ -12778,5 +12780,9 @@
     <e lm="Galileo"><i>Galileo</i><par n="Hugo__np"/></e>
     <e lm="Leonardo"><i>Leonardo</i><par n="Hugo__np"/></e>
     <e lm="Oto"><i>Oto</i><par n="Hugo__np"/></e>
+  </section>
+  <section id="punctuation" type="inconditional">
+    <e lm="."><p><l>.</l><r>.<s n="sent"/></r></p></e>
+    <e lm=","><p><l>,</l><r>,<s n="cm"/></r></p></e>
   </section>
 </dictionary>

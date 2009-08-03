@@ -28,6 +28,8 @@
     <sdef n="preadv"/>
     <sdef n="num"/>
     <sdef n="indecl"/>
+    <sdef n="sent"/>
+    <sdef n="cm"/>
   </sdefs>
   <pardefs/>
   <section id="main" type="standard">
@@ -1516,4 +1518,8 @@
     <e><p><l>eight<b/>thousand<s n="num"/></l><r>astoņtūkstoš<s n="num"/></r></p></e>
     <e><p><l>nine<b/>thousand<s n="num"/></l><r>deviņtūkstoš<s n="num"/></r></p></e>
   </section>
+  <section id="punctuation" type="standard">
+    <e><i>.<s n="sent"/></i></e>
+    <e><i>,<s n="cm"/></i></e>
+  </standard>
 </dictionary>
