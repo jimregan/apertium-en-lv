@@ -10889,17 +10889,18 @@
 
     <!-- Nouns -->
     <e lm="vīrs"><i>vīr</i><par n="vīr/s__n"/></e>
-    <e lm="sods"><i>sod</i><par n="vīr/s__n"/></e>
-    <e lm="purpurs"><i>purpur</i><par n="vīr/s__n"/></e>
-    <e lm="hlorofils"><i>hlorofil</i><par n="vīr/s__n"/></e>
-    <e lm="lietvārds"><i>lietvārd</i><par n="vīr/s__n"/></e>
-    <e lm="filtrs"><i>filtr</i><par n="vīr/s__n"/></e>
-    <e lm="dators"><i>dator</i><par n="vīr/s__n"/></e>
-    <e lm="kompjūters"><i>kompjūter</i><par n="vīr/s__n"/></e>
-    <e lm="kaktuss"><i>kaktus</i><par n="vīr/s__n"/></e>
+    <e lm="sods"><i>sod</i><par n="laik/s__n"/></e>
+    <e lm="purpurs"><i>purpur</i><par n="laik/s__n"/></e>
+    <e lm="hlorofils"><i>hlorofil</i><par n="laik/s__n"/></e>
+    <e lm="lietvārds"><i>lietvārd</i><par n="laik/s__n"/></e>
+    <e lm="filtrs"><i>filtr</i><par n="laik/s__n"/></e>
+    <e lm="dators"><i>dator</i><par n="laik/s__n"/></e>
+    <e lm="kompjūters"><i>kompjūter</i><par n="laik/s__n"/></e>
+    <e lm="kaktuss"><i>kaktus</i><par n="laik/s__n"/></e>
     <e lm="dēmons"><i>dēmon</i><par n="vīr/s__n"/></e>
-    <e lm="logs"><i>log</i><par n="vīr/s__n"/></e>
-    <!-- FIXME: correct vocative between laik/s and vir/s -->
+    <e lm="logs"><i>log</i><par n="laik/s__n"/></e>
+    <e lm="absolvents"><i>absolvent</i><par n="vīr/s__n"/></e>
+    <e lm="augstskolas absolvents"><i>augstskolas<b/>absolvent</i><par n="vīr/s__n"/></e>
     <e lm="laiks"><i>laik</i><par n="laik/s__n"/></e>
     <e lm="skapis"><i>skap</i><par n="skap/is__n"/></e>
     <e lm="ritenis"><i>rite</i><par n="rite/nis__n"/></e>

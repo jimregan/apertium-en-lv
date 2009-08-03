@@ -1311,7 +1311,7 @@
     <e><p><l>candle<s n="n"/></l><r>svece<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lead<s n="n"/></l><r>svins<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>table<s n="n"/></l><r>tabula<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>TRUE<s n="n"/></l><r>taisnība<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>truth<s n="n"/></l><r>taisnība<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tapir<s n="n"/></l><r>tapīrs<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tea<s n="n"/></l><r>tēja<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>text<s n="n"/></l><r>teksts<s n="n"/><s n="m"/></r></p></e>
@@ -1357,7 +1357,7 @@
     <e><p><l>winner<s n="n"/></l><r>uzvarētājs<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>German<s n="n"/></l><r>vācietis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>majority<s n="n"/></l><r>vairākums<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>majority<s n="n"/></l><r>vairums<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>majority<s n="n"/></l><r>vairums<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>evening<s n="n"/></l><r>vakars<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vacuum<s n="n"/></l><r>vakuums<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>government<s n="n"/></l><r>valdība<s n="n"/><s n="f"/></r></p></e>
@@ -1419,6 +1419,21 @@
     <e><p><l>fishing<s n="n"/></l><r>zveja<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fisherman<s n="n"/></l><r>zvejnieks<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Swede<s n="n"/></l><r>zviedrs<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Estonian<s n="n"/></l><r>igaunis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>java<s n="n"/></l><r>java<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>morality<s n="n"/></l><r>morāle<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>antenna<s n="n"/></l><r>antena<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>aerial<s n="n"/></l><r>antena<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>plumage<s n="n"/></l><r>apspalvojums<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>feathering<s n="n"/></l><r>apspalvojums<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>consideration<s n="n"/></l><r>apsvērums<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>locality<s n="n"/></l><r>apvidus<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>medicine<s n="n"/></l><r>ārstniecība<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>high<b/>frequency<s n="n"/></l><r>augstfrekvence<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>university<s n="n"/></l><r>augstskola<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>university<b/>graduate<s n="n"/></l><r>augstskolas<b/>absolvents<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>graduate<s n="n"/></l><r>absolvents<s n="n"/><s n="f"/></r></p></e>
+
     <e><p><l>language<s n="n"/></l><r>valoda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Italian<b/>language<s n="n"/></l><r>itāļu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>English<b/>language<s n="n"/></l><r>angļu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
