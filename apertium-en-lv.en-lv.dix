@@ -570,6 +570,7 @@
     <e><p><l>community<s n="n"/></l><r>kopiena<s n="n"/><s n="f"/></r></p></e>
 
     <e><p><l>zero<s n="n"/></l><r>nulle<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>isolation<s n="n"/></l><r>izolācija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>orbit<s n="n"/></l><r>orbīta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>organ<s n="n"/></l><r>orgāns<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>export<s n="n"/></l><r>eksports<s n="n"/><s n="m"/></r></p></e>
@@ -1473,6 +1474,9 @@
     <e><p><l>surrealism<s n="n"/></l><r>sirreālisms<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>impressionism<s n="n"/></l><r>impresionisms<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>acmeism<s n="n"/></l><r>akmeisms<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>invasion<s n="n"/></l><r>iebrukums<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>raid<s n="n"/></l><r>iebrukums<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>country<s n="n"/></l><r>valsts<s n="n"/><s n="m"/></r></p></e>
 
     <e><p><l>language<s n="n"/></l><r>valoda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Italian<b/>language<s n="n"/></l><r>itāļu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
@@ -1481,6 +1485,7 @@
 
     <e><p><l>brown<s n="adj"/></l><r>brūns<s n="adj"/></r></p></e>
   
+    <e><p><l>be<s n="vbser"/></l><r>būt<s n="vbser"/></r></p></e>
     <e><p><l>love<s n="vblex"/></l><r>mīlēt<s n="vblex"/></r></p></e>
     <e><p><l>get<s n="vblex"/></l><r>tikt<s n="vblex"/></r></p></e>
     
