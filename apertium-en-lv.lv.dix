@@ -10884,6 +10884,10 @@
     <e lm="šeit"><i>šeit</i><par n="ārā__adv"/></e>
     <e lm="apakšā"><i>apakšā</i><par n="ārā__adv"/></e>
     <e lm="jau"><i>jau</i><par n="ārā__adv"/></e>
+    <e lm="no dabas"><i>no<b/>dabas</i><par n="ārā__adv"/></e>
+    <e lm="no a līdz z"><i>no<b/>a<b/>līdz<b/>z</i><par n="ārā__adv"/></e>
+    <e lm="lai kur"><i>lai<b/>kur</i><par n="ārā__adv"/></e>
+
     <!-- Synthetic adverbs -->
     <e lm="klusi"><par n="vis__pref"/><i>klus</i><par n="klus/i__adv"/></e>
     <e lm="tālu"><par n="vis__pref"/><i>tāl</i><par n="tāl/u__adv"/></e>

@@ -55,6 +55,7 @@
     <e><p><l>on<s n="pr"/></l><r>uz<s n="pr"/><s n="gen"/></r></p></e>
     <e><p><l>to<s n="pr"/></l><r>uz<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>during<s n="pr"/></l><r>laikā<s n="pr"/></r></p></e>
+    <e><p><l>from<s n="pr"/></l><r>no<s n="pr"/></r></p></e>
     <!-- Conjunctions -->
     <e><p><l>or<s n="cnjcoo"/></l><r>jeb<s n="cnjcoo"/></r></p></e>
     <e><p><l>and<s n="cnjcoo"/></l><r>un<s n="cnjcoo"/></r></p></e>
@@ -68,6 +69,9 @@
     <e><p><l>outside<s n="adv"/></l><r>ārā<s n="adv"/></r></p></e>
     <e><p><l>yet<s n="adv"/></l><r>jau<s n="adv"/></r></p></e>
     <e><p><l>where<s n="adv"/><s n="itg"/></l><r>kur<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>by<b/>nature<s n="adv"/></l><r>no<b/>dabas<s n="adv"/></r></p></e>
+    <e><p><l>from<b/>a<b/>to<b/>z<s n="adv"/></l><r>no<b/>a<b/>līdz<b/>z<s n="adv"/></r></p></e>
+    <e><p><l>wherever<s n="adv"/></l><r>lai<b/>kur<s n="adv"/></r></p></e>
     <!-- det -->
     <e><p><l>this<s n="det"/><s n="dem"/></l><r>šis<s n="det"/><s n="dem"/></r></p></e>
     <e><p><l>what<s n="det"/><s n="itg"/><s n="sp"/></l><r>kas<s n="det"/><s n="itg"/><s n="sp"/><s n="mf"/></r></p></e>
