@@ -7641,104 +7641,6 @@
         </p>
       </e>
     </pardef>
-    <pardef n="nu/lle__n_f">
-      <e>
-        <p>
-          <l>lles</l>
-          <r>lle<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>llei</l>
-          <r>lle<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>lli</l>
-          <r>lle<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>llē</l>
-          <r>lle<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>lli</l>
-          <r>lle<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>lle</l>
-          <r>lle<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>lles</l>
-          <r>lle<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>lle</l>
-          <r>lle<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ļļu</l>
-          <r>lle<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>llēm</l>
-          <r>lle<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>lles</l>
-          <r>lle<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>llēs</l>
-          <r>lle<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>llēm</l>
-          <r>lle<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>lles</l>
-          <r>lle<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>llēm</l>
-          <r>lle<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>lles</l>
-          <r>lle<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
     <pardef n="būv/e__n_f">
       <e>
         <p>
@@ -12002,6 +11904,7 @@
     <e lm="vāvere"><i>vāver</i><par n="ast/e__n"/></e>
     <e lm="apse"><i>ap</i><par n="ap/se__n"/></e>
     <e lm="elle"><i>e</i><par n="e/lle__n"/></e>
+    <e lm="lelle"><i>le</i><par n="e/lle__n"/></e>
     <e lm="māte"><i>mā</i><par n="mā/te__n"/></e>
     <e lm="bite"><i>bi</i><par n="bi/te__n"/></e>
     <e lm="zvaigzne"><i>zvaig</i><par n="zvaig/zne__n"/></e>
@@ -12838,7 +12741,7 @@
     <e lm="nozare"><i>nozar</i><par n="mut/e__n_f"/></e>
     <e lm="noziegums"><i>noziegum</i><par n="tip/s__n_m"/></e>
     <e lm="nozīme"><i>nozīm</i><par n="būv/e__n_f"/></e>
-    <e lm="nulle"><i>nu</i><par n="nu/lle__n_f"/></e>
+    <e lm="nulle"><i>nu</i><par n="e/lle__n"/></e>
     <e lm="numurs"><i>numur</i><par n="vīr/s__n"/></e>
     <e lm="objekts"><i>objekt</i><par n="tip/s__n_m"/></e>
     <e lm="ogleklis"><i>oglek</i><par n="oglek/lis__n_m"/></e>
