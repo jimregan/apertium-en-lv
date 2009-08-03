@@ -57,6 +57,7 @@
     <sdef n="indecl"/>
     <sdef n="sent"/>
     <sdef n="cm"/>
+    <sdef n="neg"/>
   </sdefs>
   
   <pardefs>
