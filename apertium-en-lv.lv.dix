@@ -12045,6 +12045,7 @@
     <e lm="autobuss"><i>autobus</i><par n="tip/s__n_m"/></e>
     <e lm="autoceļš"><i>autoceļ</i><par n="vēj/š__n_m"/></e>
     <e lm="automašīna"><i>automašīn</i><par n="al/a__n"/></e>
+    <e lm="kravas automašīna"><i>kravas<b/>automašīn</i><par n="al/a__n"/></e>
     <e lm="autors"><i>autor</i><par n="tip/s__n_m"/></e>
     <e lm="autortiesības"><i>autortiesīb</i><par n="sek/as__n_f"/></e>
     <e lm="autosportists"><i>autosportist</i><par n="vīr/s__n"/></e>
@@ -13223,6 +13224,7 @@
     <e lm="valodniecība"><i>valodniecīb</i><par n="mij/a__n_f"/></e>
     <e lm="delegācija"><i>delegācij</i><par n="mij/a__n_f"/></e>
     <e lm="aviācija"><i>aviācij</i><par n="mij/a__n_f"/></e>
+    <e lm="germānija"><i>germānij</i><par n="mij/a__n_f"/></e>
     <e lm="valsts"><i>valst</i><par n="ac/s__n_f"/></e>
     <e lm="salu valsts"><i>salu<b/>valst</i><par n="ac/s__n_f"/></e>
     <e lm="valūta"><i>valūt</i><par n="al/a__n"/></e>

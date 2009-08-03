@@ -344,7 +344,7 @@
     <e r="RL"><p><l>salad<b/>dressing<s n="n"/></l><r>salātu<b/>mērce<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>salad<b/>dressing<s n="n"/></l><r>mērce<g><b/>salātiem</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>penis<s n="n"/></l><r>dzimumloceklis<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>iron<s n="n"/></l><r>dzelzs<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>iron<s n="n"/></l><r>dzelzs<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>beer<s n="n"/></l><r>alus<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chlorophyll<s n="n"/></l><r>hlorofils<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>noun<s n="n"/></l><r>lietvārds<s n="n"/><s n="m"/></r></p></e>
@@ -1492,6 +1492,16 @@
     <e><p><l>possibility<s n="n"/></l><r>iespēja<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>renewal<s n="n"/></l><r>atjaunošana<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>impression<s n="n"/></l><r>iespaids<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>germanium<s n="n"/></l><r>germānija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nest<s n="n"/></l><r>ligzda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>voice<s n="n"/></l><r>balss<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>boundary<s n="n"/></l><r>robeža<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>truck<s n="n"/></l><r>kravas<b/>automašīna<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>lorry<s n="n"/></l><r>kravas<b/>automašīna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>door<s n="n"/><s n="pl"/></l><r>durvis<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>door<s n="n"/><s n="sg"/></l><r>durvis<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e><p><l>house<s n="n"/></l><r>māja<s n="n"/><s n="f"/></r></p></e>
+
 
     <e><p><l>language<s n="n"/></l><r>valoda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Italian<b/>language<s n="n"/></l><r>itāļu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
