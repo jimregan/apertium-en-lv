@@ -1476,7 +1476,10 @@
     <e><p><l>acmeism<s n="n"/></l><r>akmeisms<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>invasion<s n="n"/></l><r>iebrukums<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>raid<s n="n"/></l><r>iebrukums<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>country<s n="n"/></l><r>valsts<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>country<s n="n"/></l><r>valsts<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>island<b/>nation<s n="n"/></l><r>salu<b/>valsts<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>history<s n="n"/></l><r>pagātne<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>island<s n="n"/></l><r>sala<s n="n"/><s n="f"/></r></p></e>
 
     <e><p><l>language<s n="n"/></l><r>valoda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Italian<b/>language<s n="n"/></l><r>itāļu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
