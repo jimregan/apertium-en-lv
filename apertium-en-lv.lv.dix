@@ -11156,7 +11156,7 @@
     <e lm="galvaspilsēta"><i>galvaspilsēt</i><par n="siev/a__n"/></e>
     <e lm="pilsēta"><i>pilsēt</i><par n="siev/a__n"/></e>
     <e lm="bārda"><i>bārd</i><par n="siev/a__n"/></e>
-    <e lm="dioskorėja"><i>dioskorėj</i><par n="siev/a__n"/></e>
+    <e lm="dioskorėja"><i>dioskorėj</i><par n="al/a__n"/></e>
     <e lm="literatūra"><i>literatūr</i><par n="siev/a__n"/></e>
     <e lm="upe"><i>up</i><par n="up/e__n"/></e>
     <e lm="aste"><i>ast</i><par n="ast/e__n"/></e>
@@ -12119,6 +12119,7 @@
     <e lm="prasība"><i>prasīb</i><par n="al/a__n"/></e>
     <e lm="prāts"><i>prāt</i><par n="tip/s__n_m"/></e>
     <e lm="prece"><i>pre</i><par n="sve/ce__n_f"/></e>
+    <e lm="pārtikas prece"><i>pārtikas<b/>pre</i><par n="sve/ce__n_f"/></e>
     <e lm="prefektūra"><i>prefektūr</i><par n="al/a__n"/></e>
     <e lm="prēmija"><i>prēmij</i><par n="al/a__n"/></e>
     <e lm="premjerministrs"><i>premjerministr</i><par n="vīr/s__n"/></e>
