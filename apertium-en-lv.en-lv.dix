@@ -30,6 +30,8 @@
     <sdef n="indecl"/>
     <sdef n="sent"/>
     <sdef n="cm"/>
+    <sdef n="gen"/>
+    <sdef n="acc"/>
   </sdefs>
   <pardefs/>
   <section id="main" type="standard">
@@ -1535,5 +1537,5 @@
   <section id="punctuation" type="standard">
     <e><i>.<s n="sent"/></i></e>
     <e><i>,<s n="cm"/></i></e>
-  </standard>
+  </section>
 </dictionary>
