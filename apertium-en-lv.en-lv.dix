@@ -582,6 +582,34 @@
     <e r="LR"><p><l>sejm<s n="n"/></l><r>saeima<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tram<s n="n"/></l><r>tramvajs<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>viking<s n="n"/></l><r>vikings<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>attitude<s n="n"/></l><r>attieksme<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>plant<s n="n"/></l><r>augs<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>railway<s n="n"/></l><r>dzelzceļš<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>iron<s n="n"/></l><r>dzelzs<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>coat<g><b/>of<b/>arms</g><s n="n"/></l><r>ģerbonis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>colour<s n="n"/></l><r>krāsa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>speed<s n="n"/></l><r>ātrums<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>image<s n="n"/></l><r>attēls<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>fruit<s n="n"/></l><r>auglis<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>foetus<s n="n"/></l><r>auglis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>highland<s n="n"/></l><r>augstiene<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>copyright<s n="n"/></l><r>autortiesības<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>rumour<s n="n"/></l><r>baumas<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>east<s n="n"/></l><r>austrumi<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>moment<s n="n"/></l><r>brīdis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ray<s n="n"/></l><r>stars<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tank<s n="n"/></l><r>tanks<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>theatre<s n="n"/></l><r>teātris<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>snow<s n="n"/></l><r>sniegs<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>density<s n="n"/></l><r>blīvums<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>danger<s n="n"/></l><r>briesmas<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>brotherhood<s n="n"/></l><r>brālība<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>fraternity<s n="n"/></l><r>brālība<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>day<s n="n"/></l><r>diennakts<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>electric<b/>power<s n="n"/></l><r>elektroenerģija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>film<s n="n"/></l><r>filma<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>movie<s n="n"/></l><r>filma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>human<b/>right<s n="n"/></l><r>cilvēktiesības<s n="n"/><s n="m"/></r></p></e>
 
     <e><p><l>language<s n="n"/></l><r>valoda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Italian<b/>language<s n="n"/></l><r>itāļu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
