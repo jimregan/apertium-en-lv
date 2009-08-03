@@ -2532,6 +2532,219 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Rit/a__np">
+      <e>
+        <p>
+          <l>a</l>
+          <r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>as</l>
+          <r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>as</l>
+          <r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ai</l>
+          <r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ā</l>
+          <r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="Jā/nis__np">
+      <e>
+        <p>
+          <l>nis</l>
+          <r>nis<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ņa</l>
+          <r>nis<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ņa</l>
+          <r>nis<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nim</l>
+          <r>nis<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ni</l>
+          <r>nis<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ni</l>
+          <r>nis<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nī</l>
+          <r>nis<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ni</l>
+          <r>nis<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="Ga/tis__np">
+      <e>
+        <p>
+          <l>tis</l>
+          <r>tis<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ta</l>
+          <r>tis<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ta</l>
+          <r>tis<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ša</l>
+          <r>tis<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ša</l>
+          <r>tis<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tim</l>
+          <r>tis<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ti</l>
+          <r>tis<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ti</l>
+          <r>tis<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tī</l>
+          <r>tis<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ti</l>
+          <r>tis<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="Edgar/s__np">
+      <e>
+        <p>
+          <l>s</l>
+          <r>s<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>s<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>s<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>am</l>
+          <r>s<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>s<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>s<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ā</l>
+          <r>s<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>s<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="up/e__n">
       <e>
         <p>
