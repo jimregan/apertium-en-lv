@@ -21,6 +21,7 @@ sub entrim($)
 	$string =~ s/^\s+//;
 	$string =~ s/^a\s+//;
 	$string =~ s/^the\s+//;
+	$string =~ s/^to\s+//;
 	$string =~ s/\s+$//;
 	return $string;
 }
