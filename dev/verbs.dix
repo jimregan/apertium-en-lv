@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
   <pardefs>
   <!-- arestēt; arestē -->
@@ -93518,7 +93519,6 @@
 
   </pardefs>
   <section id="main" type="standard">
-    <e lm=""><i></i><par n="__vblex"/></e>
     <e lm="arestēt"><i>arestē</i><par n="arestē/t__vblex"/></e>
     <e lm="uzstādīt"><i>uzstād</i><par n="uzstād/īt__vblex"/></e>
     <e lm="segt"><i>se</i><par n="se/gt__vblex"/></e>
