@@ -8,4 +8,6 @@ dev/nouns.chopped.dix -text
 dev/nouns.sorted.speling -text
 dev/np-top.speling -text
 dev/proper-nouns.speling -text
+dev/table-dump.pl -text
+dev/verb-table-to-speling.pl -text
 dev/wikilist -text
