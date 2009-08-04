@@ -1,17 +1,15 @@
-    <e><p><l>overgrow<s n="n"/></l><r>aizaugt<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>escape<s n="n"/></l><r>aizbēgt<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l><s n="n"/></l><r><s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l><s n="n"/></l><r><s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>leave<s n="n"/></l><r>aizbraukt<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>go<s n="n"/></l><r>aiziet<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>forget<s n="n"/></l><r>aizmirst<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>occupy<s n="n"/></l><r>aizņemt<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>fill<s n="n"/></l><r>aizpildīt<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>protect<s n="n"/></l><r>aizsargāt<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>reach<s n="n"/></l><r>aizsniegt<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>replace<s n="n"/></l><r>aizstāt<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>close<s n="n"/></l><r>aiztaisīt<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>touch<s n="n"/></l><r>aiztikt<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>visit<s n="n"/></l><r>apciemot<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>eat<s n="n"/></l><r>apēst<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>bury<s n="n"/></l><r>apglabāt<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>overgrow<s n="vblex"/></l><r>aizaugt<s n="vblex"/></r></p></e>
+    <e><p><l>escape<s n="vblex"/></l><r>aizbēgt<s n="vblex"/></r></p></e>
+    <e><p><l>leave<s n="vblex"/></l><r>aizbraukt<s n="vblex"/></r></p></e>
+    <e><p><l>go<s n="vblex"/></l><r>aiziet<s n="vblex"/></r></p></e>
+    <e><p><l>forget<s n="vblex"/></l><r>aizmirst<s n="vblex"/></r></p></e>
+    <e><p><l>occupy<s n="vblex"/></l><r>aizņemt<s n="vblex"/></r></p></e>
+    <e><p><l>fill<s n="vblex"/></l><r>aizpildīt<s n="vblex"/></r></p></e>
+    <e><p><l>protect<s n="vblex"/></l><r>aizsargāt<s n="vblex"/></r></p></e>
+    <e><p><l>reach<s n="vblex"/></l><r>aizsniegt<s n="vblex"/></r></p></e>
+    <e><p><l>replace<s n="vblex"/></l><r>aizstāt<s n="vblex"/></r></p></e>
+    <e><p><l>close<s n="vblex"/></l><r>aiztaisīt<s n="vblex"/></r></p></e>
+    <e><p><l>touch<s n="vblex"/></l><r>aiztikt<s n="vblex"/></r></p></e>
+    <e><p><l>visit<s n="vblex"/></l><r>apciemot<s n="vblex"/></r></p></e>
+    <e><p><l>eat<s n="vblex"/></l><r>apēst<s n="vblex"/></r></p></e>
+    <e><p><l>bury<s n="vblex"/></l><r>apglabāt<s n="vblex"/></r></p></e>
