@@ -44,7 +44,7 @@ sub resetvar ()
 sub dumpverb ()
 {
 	my $i; # Yeah, yeah, C-ism
-	#die "Error with $inf\n" if ($#forms != $#pers);
+	die "Error with $inf\n" if ($#forms != $#pers);
 	print "$inf;$inf;inf;vblex;\n";
 	for ($i=0;$i<=$#forms;$i++)
 	{
@@ -90,7 +90,6 @@ while (<>)
 			}
 			else {
 				my @group = split(/; /, $line[$i]);
-				push (@forms, @group);
 				for (my $j = 0; $j <= $#group;$j++) {
 					push (@forms, $group[$j]);
 					$curtense = "$tense[$i]." . person($curpers);
