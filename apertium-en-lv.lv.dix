@@ -9115,102 +9115,124 @@
         </p>
       </e>
     </pardef>
-    <pardef n="sve/ce__n_f">
+    <pardef n="sve/ce__BASE">
+      <e>
+        <p>
+          <l>ce</l>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
       <e>
         <p>
           <l>ces</l>
-          <r>ce<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>cei</l>
-          <r>ce<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ci</l>
-          <r>ce<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>cē</l>
-          <r>ce<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ci</l>
-          <r>ce<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+          <r><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ce</l>
-          <r>ce<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ces</l>
-          <r>ce<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ce</l>
-          <r>ce<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="f"/><s n="sg"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ču</l>
-          <r>ce<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>cēm</l>
-          <r>ce<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+          <r><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ces</l>
-          <r>ce<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>cēs</l>
-          <r>ce<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>cēm</l>
-          <r>ce<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+          <r><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ces</l>
-          <r>ce<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>cēm</l>
-          <r>ce<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
+          <r><s n="f"/><s n="pl"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ces</l>
-          <r>ce<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+          <r><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
+      </e>
+    </pardef>
+    <pardef n="sve/ce__n_f">
+      <e>
+        <p>
+          <l></l>
+          <r>ce<s n="n"/></r>
+        </p>
+        <par n="sve/ce__BASE"/>
+      </e>
+    </pardef>
+    <pardef n="īpašnie/ks__n">
+      <e>
+        <i>k</i>
+        <par n="vīr/s__n"/>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>ks<s n="n"/></r>
+        </p>
+        <par n="sve/ce__BASE"/>
       </e>
     </pardef>
     <pardef n="šah/s__n_m">
@@ -12382,7 +12404,7 @@
     <e lm="internets"><i>internet</i><par n="tip/s__n_m"/></e>
     <e lm="inženieris"><i>inženier</i><par n="pūķ/is__n_m"/></e>
     <e lm="īpašība"><i>īpašīb</i><par n="al/a__n"/></e>
-    <e lm="īpašnieks"><i>īpašniek</i><par n="vīr/s__n"/></e>
+    <e lm="īpašnieks"><i>īpašnie</i><par n="īpašnie/ks__n"/></e>
     <e lm="īpašums"><i>īpašum</i><par n="tip/s__n_m"/></e>
     <e lm="īpatnība"><i>īpatnīb</i><par n="al/a__n"/></e>
     <e lm="īpatsvars"><i>īpatsvar</i><par n="tip/s__n_m"/></e>

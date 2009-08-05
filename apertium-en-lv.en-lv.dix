@@ -498,6 +498,8 @@
     <e><p><l>cryptography<s n="n"/></l><r>kriptogrāfija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>crystallography<s n="n"/></l><r>kristalogrāfija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mafia<s n="n"/></l><r>mafija<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>owner<s n="n"/></l><r>īpašnieks<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>owner<s n="n"/></l><r>īpašnieks<s n="n"/></r></p></e>
     <e><p><l>malaria<s n="n"/></l><r>malārija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>matter<s n="n"/></l><r>matērija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>melody<s n="n"/></l><r>melodija<s n="n"/><s n="f"/></r></p></e>
