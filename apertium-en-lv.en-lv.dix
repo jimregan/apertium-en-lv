@@ -312,6 +312,7 @@
     <e><p><l>physics<s n="n"/></l><r>fizika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>galaxy<s n="n"/></l><r>galaktika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>food<s n="n"/></l><r>pārtika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>river<s n="n"/></l><r>upe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>capital<b/>city<s n="n"/></l><r>galvaspilsēta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>city<s n="n"/></l><r>pilsēta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>beard<s n="n"/></l><r>bārda<s n="n"/><s n="f"/></r></p></e>
@@ -338,6 +339,7 @@
     <e r="LR"><p><l>fungus<s n="n"/></l><r>sēne<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>person<s n="n"/><s n="pl"/></l><r>ļaudis<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>king<s n="n"/></l><r>karalis<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>prince<s n="n"/></l><r>firsts<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>eagle<s n="n"/></l><r>ērglis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>atomic<b/>number<s n="n"/></l><r>atomskaitlis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>number<s n="n"/></l><r>skaitlis<s n="n"/><s n="m"/></r></p></e>
