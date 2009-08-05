@@ -328,6 +328,10 @@
     <e><p><l>apple<b/>tree<s n="n"/></l><r>ābele<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>grass<s n="n"/></l><r>zāle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>frog<s n="n"/></l><r>varde<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>university<b/>graduate<s n="n"/></l><r>augstskolas<b/>absolvents<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>university<b/>graduate<s n="n"/></l><r>augstskolas<b/>absolvents<s n="n"/></r></p></e>
+    <e r="LR"><p><l>graduate<s n="n"/></l><r>absolvents<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>graduate<s n="n"/></l><r>absolvents<s n="n"/></r></p></e>
     <e><p><l>beetle<s n="n"/></l><r>vabole<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>letter<s n="n"/></l><r>vēstule<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mushroom<s n="n"/></l><r>sēne<s n="n"/><s n="f"/></r></p></e>
@@ -348,6 +352,7 @@
     <e><p><l>wife<s n="n"/></l><r>sieva<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>woman<s n="n"/></l><r>sieviete<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>game<s n="n"/></l><r>spēle<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>craft<s n="n"/></l><r>amats<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>change<s n="n"/></l><r>izmaiņa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>instruction<s n="n"/></l><r>instrukcija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>career<s n="n"/></l><r>karjera<s n="n"/><s n="f"/></r></p></e>
@@ -851,6 +856,7 @@
     <e><p><l>land<s n="n"/></l><r>zeme<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>middle<s n="n"/></l><r>vidus<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>high<b/>school<s n="n"/></l><r>vidusskola<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sauce<s n="n"/></l><r>mērce<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>phonetics<s n="n"/></l><r>fonētika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>background<s n="n"/></l><r>fons<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>format<s n="n"/></l><r>formāts<s n="n"/><s n="m"/></r></p></e>

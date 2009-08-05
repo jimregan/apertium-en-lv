@@ -3633,102 +3633,124 @@
         </p>
       </e>
     </pardef>
-    <pardef n="bi/te__n">
+    <pardef n="bi/te__BASE">
       <e>
         <p>
           <l>te</l>
-          <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>tes</l>
-          <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>tes</l>
-          <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
+          <r><s n="f"/><s n="sg"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>tei</l>
-          <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ti</l>
-          <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ti</l>
-          <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+          <r><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>tē</l>
-          <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>te</l>
-          <r>te<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>tes</l>
-          <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+          <r><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>šu</l>
-          <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>tēm</l>
-          <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
+          <r><s n="f"/><s n="pl"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>tēm</l>
-          <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+          <r><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>tes</l>
-          <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>tēm</l>
-          <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+          <r><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>tēs</l>
-          <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>tes</l>
-          <r>te<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
+      </e>
+    </pardef>
+    <pardef n="bi/te__n">
+      <e>
+        <p>
+          <l/>
+          <r>te<s n="n"/></r>
+        </p>
+        <par n="bi/te__BASE"/>
+      </e>
+    </pardef>
+    <pardef n="absolven/ts__n">
+      <e>
+        <i>t</t>
+        <par n="vīr/s__n"/>
+      </e>
+      <e>
+        <p>
+          <l/>
+          <r>ts<s n="n"/></r>
+        </p>
+        <par n="bi/te__BASE"/>
       </e>
     </pardef>
     <pardef n="/sne__n">
@@ -11659,8 +11681,8 @@
     <e lm="kaktuss"><i>kaktus</i><par n="laik/s__n"/></e>
     <e lm="dēmons"><i>dēmon</i><par n="vīr/s__n"/></e>
     <e lm="logs"><i>log</i><par n="laik/s__n"/></e>
-    <e lm="absolvents"><i>absolvent</i><par n="vīr/s__n"/></e>
-    <e lm="augstskolas absolvents"><i>augstskolas<b/>absolvent</i><par n="vīr/s__n"/></e>
+    <e lm="absolvents"><i>absolvent</i><par n="absolven/ts__n"/></e>
+    <e lm="augstskolas absolvents"><i>augstskolas<b/>absolvent</i><par n="absolven/ts__n"/></e>
     <e lm="laiks"><i>laik</i><par n="laik/s__n"/></e>
     <e lm="skapis"><i>skap</i><par n="skap/is__n"/></e>
     <e lm="ritenis"><i>rite</i><par n="rite/nis__n"/></e>
