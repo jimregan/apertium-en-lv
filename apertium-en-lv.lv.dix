@@ -2378,101 +2378,101 @@
         </p>
       </e>
     </pardef>
-    <pardef n="lēkšan/a__BASE">
+    <pardef n="lēk/šana__BASE">
       <e>
         <p>
-          <l>a</l>
-          <r>a<s n="vblex"/><s n="subst"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+          <l>šana</l>
+          <r><s n="vblex"/><s n="subst"/><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>as</l>
-          <r>a<s n="vblex"/><s n="subst"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+          <l>šanas</l>
+          <r><s n="vblex"/><s n="subst"/><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>as</l>
-          <r>a<s n="vblex"/><s n="subst"/><s n="f"/><s n="sg"/><s n="abl"/></r>
+          <l>šanas</l>
+          <r><s n="vblex"/><s n="subst"/><s n="f"/><s n="sg"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ai</l>
-          <r>a<s n="vblex"/><s n="subst"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+          <l>šanai</l>
+          <r><s n="vblex"/><s n="subst"/><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>u</l>
-          <r>a<s n="vblex"/><s n="subst"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+          <l>šanu</l>
+          <r><s n="vblex"/><s n="subst"/><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>u</l>
-          <r>a<s n="vblex"/><s n="subst"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+          <l>šanu</l>
+          <r><s n="vblex"/><s n="subst"/><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ā</l>
-          <r>a<s n="vblex"/><s n="subst"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+          <l>šanā</l>
+          <r><s n="vblex"/><s n="subst"/><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>a</l>
-          <r>a<s n="vblex"/><s n="subst"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+          <l>šana</l>
+          <r><s n="vblex"/><s n="subst"/><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>as</l>
-          <r>a<s n="vblex"/><s n="subst"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+          <l>šanas</l>
+          <r><s n="vblex"/><s n="subst"/><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>u</l>
-          <r>a<s n="vblex"/><s n="subst"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+          <l>šanu</l>
+          <r><s n="vblex"/><s n="subst"/><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ām</l>
-          <r>a<s n="vblex"/><s n="subst"/><s n="f"/><s n="pl"/><s n="abl"/></r>
+          <l>šanām</l>
+          <r><s n="vblex"/><s n="subst"/><s n="f"/><s n="pl"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ām</l>
-          <r>a<s n="vblex"/><s n="subst"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+          <l>šanām</l>
+          <r><s n="vblex"/><s n="subst"/><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>as</l>
-          <r>a<s n="vblex"/><s n="subst"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+          <l>šanas</l>
+          <r><s n="vblex"/><s n="subst"/><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ām</l>
-          <r>a<s n="vblex"/><s n="subst"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+          <l>šanām</l>
+          <r><s n="vblex"/><s n="subst"/><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ās</l>
-          <r>a<s n="vblex"/><s n="subst"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+          <l>šanās</l>
+          <r><s n="vblex"/><s n="subst"/><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>as</l>
-          <r>a<s n="vblex"/><s n="subst"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+          <l>šanas</l>
+          <r><s n="vblex"/><s n="subst"/><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
     </pardef>
