@@ -32,6 +32,8 @@
     <sdef n="cm"/>
     <sdef n="gen"/>
     <sdef n="acc"/>
+    <sdef n="adj"/>
+    <sdef n="sint"/>
   </sdefs>
   <pardefs/>
   <section id="main" type="standard">
@@ -1615,6 +1617,9 @@
     <e><p><l>seven<b/>thousand<s n="num"/></l><r>septiņtūkstoš<s n="num"/></r></p></e>
     <e><p><l>eight<b/>thousand<s n="num"/></l><r>astoņtūkstoš<s n="num"/></r></p></e>
     <e><p><l>nine<b/>thousand<s n="num"/></l><r>deviņtūkstoš<s n="num"/></r></p></e>
+
+    <e><p><l>early<s n="adj"/><s n="sint"/></l><r>agrs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>new<s n="adj"/><s n="sint"/></l><r>jauns<s n="adj"/><s n="sint"/></r></p></e>
   </section>
   <section id="punctuation" type="standard">
     <e><i>.<s n="sent"/></i></e>

@@ -58,6 +58,15 @@
     <sdef n="sent"/>
     <sdef n="cm"/>
     <sdef n="neg"/>
+    <sdef n="adj"/>
+    <sdef n="sint"/>
+    <sdef n="pp"/>
+    <sdef n="psv"/>
+    <sdef n="act"/>
+    <sdef n="pprs"/>
+    <sdef n="comp"/>
+    <sdef n="subst"/>
+    <sdef n="def"/>
   </sdefs>
   
   <pardefs>
@@ -112,7 +121,7 @@
       <e>
         <p>
           <l>vis</l>
-          <r>vis<s n="sup"/><j/></r>
+          <r>vis<s n="adv"/><j/></r>
         </p>
       </e>
     </pardef>
@@ -14502,6 +14511,9 @@
     <e lm="Galileo"><i>Galileo</i><par n="Hugo__np"/></e>
     <e lm="Leonardo"><i>Leonardo</i><par n="Hugo__np"/></e>
     <e lm="Oto"><i>Oto</i><par n="Hugo__np"/></e>
+
+    <e lm="agrs"><par n="vis__pref"/><i>agr</i><par n="agr/s__adj"/></e>
+    <e lm="jauns"><par n="vis__pref"/><i>jaun</i><par n="agr/s__adj"/></e>
   </section>
   <section id="punctuation" type="inconditional">
     <e lm="."><p><l>.</l><r>.<s n="sent"/></r></p></e>
