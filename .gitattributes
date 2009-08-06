@@ -3,7 +3,6 @@
 /apertium-en-lv.lv-en.t1x -text
 /apertium-en-lv.lv.dix -text
 dev/find-equals-output -text
-dev/find-equals-verbs -text
 dev/find-equals.pl -text
 dev/nouns.chopped.dix -text
 dev/nouns.sorted.speling -text
