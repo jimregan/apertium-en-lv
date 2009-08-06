@@ -20,6 +20,7 @@ sub entrim($)
 	my $string = shift;
 	$string =~ s/^\s+//;
 	$string =~ s/^a\s+//;
+	$string =~ s/^an\s+//;
 	$string =~ s/^the\s+//;
 	$string =~ s/^to\s+//;
 	$string =~ s/\s+$//;
