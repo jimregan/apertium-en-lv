@@ -32,7 +32,6 @@
     <sdef n="cm"/>
     <sdef n="gen"/>
     <sdef n="acc"/>
-    <sdef n="adj"/>
     <sdef n="sint"/>
   </sdefs>
   <pardefs/>
@@ -1620,6 +1619,219 @@
 
     <e><p><l>early<s n="adj"/><s n="sint"/></l><r>agrs<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>new<s n="adj"/><s n="sint"/></l><r>jauns<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>mutual<s n="adj"/></l><r>abpusējs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>absolute<s n="adj"/></l><r>absolūts<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>abstract<s n="adj"/></l><r>abstrakts<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>absurd<s n="adj"/></l><r>absurds<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>obvious<s n="adj"/></l><r>acīmredzams<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>adequate<s n="adj"/></l><r>adekvāts<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>aerodynamic<s n="adj"/></l><r>aerodinamisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>aggressive<s n="adj"/></l><r>agresīvs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>early<s n="adj"/><s n="sint"/></l><r>agrīns<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>suspicious<s n="adj"/></l><r>aizdomīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>forgetful<s n="adj"/></l><r>aizmāršīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>prehistoric<s n="adj"/></l><r>aizvēsturisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>busy<s n="adj"/><s n="sint"/></l><r>aizņemts<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>blind<s n="adj"/><s n="sint"/></l><r>akls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>rocky<s n="adj"/><s n="sint"/></l><r>akmeņains<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>current<s n="adj"/></l><r>aktuāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>asset<s n="adj"/></l><r>aktīvs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>accurate<s n="adj"/></l><r>akurāts<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>acoustic<s n="adj"/></l><r>akustisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>acute<s n="adj"/></l><r>akūts<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>greedy<s n="adj"/><s n="sint"/></l><r>alkatīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>ambitious<s n="adj"/></l><r>ambiciozs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>American<s n="adj"/></l><r>amerikānisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>amoral<s n="adj"/></l><r>amorāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>analytical<s n="adj"/></l><r>analītisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>anecdotal<s n="adj"/></l><r>anekdotisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>anomalous<s n="adj"/></l><r>anomāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>abnormal<s n="adj"/></l><r>anormāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>antique<s n="adj"/></l><r>antīks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>anal<s n="adj"/></l><r>anāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>charming<s n="adj"/></l><r>apburošs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>annoying<s n="adj"/></l><r>apnicīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>approximate<s n="adj"/></l><r>aptuvens<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>archaic<s n="adj"/></l><r>arhaisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>aristocratic<s n="adj"/></l><r>aristokrātisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>bony<s n="adj"/><s n="sint"/></l><r>asakains<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>ascetic<s n="adj"/></l><r>askētisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>astronomical<s n="adj"/></l><r>astronomisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>responsible<s n="adj"/></l><r>atbildīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>resourceful<s n="adj"/></l><r>atjautīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>pendulous<s n="adj"/></l><r>atkarens<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>barbed<s n="adj"/></l><r>atkarpains<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>dependent<s n="adj"/></l><r>atkarīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>athletic<s n="adj"/></l><r>atlētisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>attractive<s n="adj"/></l><r>atraktīvs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>vengeful<s n="adj"/></l><r>atriebīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>appropriate<s n="adj"/></l><r>attiecīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>remote<s n="adj"/></l><r>attāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>different<s n="adj"/></l><r>atšķirīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>luxuriant<s n="adj"/></l><r>audzelīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>fruitful<s n="adj"/></l><r>auglīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>highly<b/>productive<s n="adj"/></l><r>augstražīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>high<s n="adj"/><s n="sint"/></l><r>augsts<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>magnanimous<s n="adj"/></l><r>augstsirdīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>high-quality<s n="adj"/></l><r>augstvērtīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>cool<s n="adj"/><s n="sint"/></l><r>aukstasinīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>cold<s n="adj"/><s n="sint"/></l><r>auksts<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>authentic<s n="adj"/></l><r>autentisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>autonomous<s n="adj"/></l><r>autonoms<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>adventurous<s n="adj"/></l><r>avantūristisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>rich<s n="adj"/><s n="sint"/></l><r>bagāts<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>rich<s n="adj"/><s n="sint"/></l><r>bagātīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>banal<s n="adj"/></l><r>banāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>barbarian<s n="adj"/></l><r>barbarisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>bass<s n="adj"/></l><r>bass<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>irresponsible<s n="adj"/></l><r>bezatbildīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>fearless<s n="adj"/></l><r>bezbailīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>unconcerned<s n="adj"/></l><r>bezbēdīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>hopeless<s n="adj"/></l><r>bezcerīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>endless<s n="adj"/></l><r>bezgalīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>senseless<s n="adj"/></l><r>bezjēdzīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>carefree<s n="adj"/></l><r>bezrūpīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>shapeless<s n="adj"/></l><r>bezveidīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>worthless<s n="adj"/></l><r>bezvērtīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>thick<s n="adj"/><s n="sint"/></l><r>biezs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>frequent<s n="adj"/></l><r>biežs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>bureaucratic<s n="adj"/></l><r>birokrātisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>dense<s n="adj"/><s n="sint"/></l><r>blīvs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>bohemian<s n="adj"/></l><r>bohēmisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>brutal<s n="adj"/></l><r>brutāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>wonderful<s n="adj"/></l><r>brīnišķīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>free<s n="adj"/></l><r>brīvs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>brownish<s n="adj"/></l><r>brūngans<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>brown<s n="adj"/></l><r>brūns<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>literal<s n="adj"/></l><r>burtisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>pale<s n="adj"/><s n="sint"/></l><r>bāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>bearded<s n="adj"/></l><r>bārdains<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>base<s n="adj"/></l><r>bāzisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>dangerous<s n="adj"/></l><r>bīstams<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>permeable<s n="adj"/></l><r>caurlaidīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>leaky<s n="adj"/></l><s n="sint"/><r>caurs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>transparent<s n="adj"/></l><r>caurspīdīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>human<s n="adj"/></l><r>cilvēcisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>humane<s n="adj"/></l><r>cilvēcīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>cynical<s n="adj"/></l><r>cinisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>curly<s n="adj"/><s n="sint"/></l><r>cirtains<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>sinewy<s n="adj"/></l><r>cīpslains<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>swinish<s n="adj"/></l><r>cūcīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>natural<s n="adj"/></l><r>dabīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>eloquent<s n="adj"/></l><r>daiļrunīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>multicoloured<s n="adj"/></l><r>daudzkrāsains<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>decadent<s n="adj"/></l><r>dekadentisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>decorative<s n="adj"/></l><r>dekoratīvs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>delicate<s n="adj"/></l><r>delikāts<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>democratic<s n="adj"/></l><r>demokrātisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>depressed<s n="adj"/></l><r>depresīvs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>despotic<s n="adj"/></l><r>despotisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>destructive<s n="adj"/></l><r>destruktīvs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>dialectical<s n="adj"/></l><r>dialektisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>divine<s n="adj"/></l><r>dievišķs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>dynamic<s n="adj"/></l><r>dinamisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>discrete<s n="adj"/></l><r>diskrēts<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>dietary<s n="adj"/></l><r>diētisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>noble<s n="adj"/><s n="sint"/></l><r>dižciltīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>great<s n="adj"/><s n="sint"/></l><r>dižs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>documentary<s n="adj"/></l><r>dokumentāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>documentary<s n="adj"/></l><r>dokumentārs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>draconian<s n="adj"/></l><r>drakonisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>dramatic<s n="adj"/></l><r>dramatisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>friendly<s n="adj"/><s n="sint"/></l><r>draudzīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>brave<s n="adj"/><s n="sint"/></l><r>drošsirdīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>crumbly<s n="adj"/><s n="sint"/></l><r>drupans<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>angry<s n="adj"/><s n="sint"/></l><r>dusmīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>poetic<s n="adj"/></l><r>dzejisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>yellow<s n="adj"/><s n="sint"/></l><r>dzeltens<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>yellowish<s n="adj"/></l><r>dzeltenīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>cool<s n="adj"/><s n="sint"/></l><r>dzestrs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>clear<s n="adj"/><s n="sint"/></l><r>dzidrs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>viable<s n="adj"/></l><r>dzīvotspējīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>living<s n="adj"/></l><r>dzīvs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>lively<s n="adj"/><s n="sint"/></l><r>dzīvīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>expensive<s n="adj"/></l><r>dārgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>generous<s n="adj"/></l><r>dāsns<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>demonic<s n="adj"/></l><r>dēmonisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>idle<s n="adj"/><s n="sint"/></l><r>dīks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>showy<s n="adj"/></l><r>efektīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>effective<s n="adj"/></l><r>efektīvs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>European<s n="adj"/></l><r>eiropeisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>eclectic<s n="adj"/></l><r>eklektisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>ecological<s n="adj"/></l><r>ekoloģisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>economic<s n="adj"/></l><r>ekonomisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>exact<s n="adj"/></l><r>eksakts<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>exclusive<s n="adj"/></l><r>ekskluzīvs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>exotic<s n="adj"/></l><r>eksotisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>expansive<s n="adj"/></l><r>ekspansīvs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>explosive<s n="adj"/></l><r>eksplozīvs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>expressive<s n="adj"/></l><r>ekspresīvs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>extravagant<s n="adj"/></l><r>ekstravagants<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>extreme<s n="adj"/></l><r>ekstremāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>equivalent<s n="adj"/></l><r>ekvivalents<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>elegant<s n="adj"/></l><r>elegants<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>elementary<s n="adj"/></l><r>elementārs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>infernal<s n="adj"/></l><r>ellišķīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>emotional<s n="adj"/></l><r>emocionāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>empiric<s n="adj"/></l><r>empīrisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>energy<b/>efficient<s n="adj"/></l><r>energoefektīvs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>energetic<s n="adj"/></l><r>enerģisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>epic<s n="adj"/></l><r>episks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>erudite<s n="adj"/></l><r>erudīts<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>aesthetic<s n="adj"/></l><r>estētisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>eventual<s n="adj"/></l><r>eventuāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>factual<s n="adj"/></l><r>faktisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>familiar<s n="adj"/></l><r>familiārs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>fantastic<s n="adj"/></l><r>fantastisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>fanatical<s n="adj"/></l><r>fanātisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>fatal<s n="adj"/></l><r>fatāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>phenomenal<s n="adj"/></l><r>fenomenāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>filigree<s n="adj"/></l><r>filigrāns<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>philosophical<s n="adj"/></l><r>filozofisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>physical<s n="adj"/></l><r>fizikāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>photogenic<s n="adj"/></l><r>fotogēnisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>fragmentary<s n="adj"/></l><r>fragmentārs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>fundamental<s n="adj"/></l><r>fundamentāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>functional<s n="adj"/></l><r>funkcionāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>futuristic<s n="adj"/></l><r>futūristisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>gallant<s n="adj"/></l><r>galants<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>main<s n="adj"/></l><r>galvens<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>final<s n="adj"/></l><r>galīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>long-legged<s n="adj"/></l><r>garkājains<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="LR"><p><l>leggy<s n="adj"/></l><r>garkājains<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>boring<s n="adj"/></l><r>garlaicīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>garspalvains<s n="adj"/></l><r>garspalvains<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>garstilbains<s n="adj"/></l><r>garstilbains<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>ready<s n="adj"/></l><r>gatavs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>global<s n="adj"/></l><r>globāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>smooth<s n="adj"/><s n="sint"/></l><r>gludens<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>smooth<s n="adj"/><s n="sint"/></l><r>gluds<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>gothic<s n="adj"/></l><r>gotisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>grandiose<s n="adj"/></l><r>grandiozs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>capricious<s n="adj"/></l><r>gražīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>jealous<s n="adj"/></l><r>greizsirdīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>Greek<s n="adj"/></l><r>grieķisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>grotesque<s n="adj"/></l><r>grotesks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>changeable<s n="adj"/></l><r>grozīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>sinful<s n="adj"/></l><r>grēcīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>smart<s n="adj"/><s n="sint"/></l><r>gudrs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>weak-willed<s n="adj"/></l><r>gļēvs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>chaotic<s n="adj"/></l><r>haotisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>harmonic<s n="adj"/></l><r>harmonisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>heroic<s n="adj"/></l><r>heroisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>hydroscopic<s n="adj"/></l><r>hidroskopisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>hygroscopic<s n="adj"/></l><r>higroskopisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>hysterical<s n="adj"/></l><r>histērisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>choleric<s n="adj"/></l><r>holērisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>homogeneous<s n="adj"/></l><r>homogēns<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>homeric<s n="adj"/></l><r>homērisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>horizontal<s n="adj"/></l><r>horizontāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>chronic<s n="adj"/></l><r>hronisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>humorous<s n="adj"/></l><r>humoristisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>humane<s n="adj"/></l><r>humāns<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>ideological<s n="adj"/></l><r>idejisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>ideological<s n="adj"/></l><r>ideoloģisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>idealistic<s n="adj"/></l><r>ideālistisks<s n="adj"/><s n="sint"/></r></p></e>
   </section>
   <section id="punctuation" type="standard">
     <e><i>.<s n="sent"/></i></e>
