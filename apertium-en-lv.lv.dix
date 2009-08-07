@@ -12824,6 +12824,22 @@
     <e lm="idejisks"><par n="vis__pref"/><i>idejisk</i><par n="agr/s__adj"/></e>
     <e lm="ideoloģisks"><par n="vis__pref"/><i>ideoloģisk</i><par n="agr/s__adj"/></e>
     <e lm="ideālistisks"><par n="vis__pref"/><i>ideālistisk</i><par n="agr/s__adj"/></e>
+    <e lm="harizmātisks"><par n="vis__pref"/><i>harizmātisk</i><par n="agr/s__adj"/></e>
+    <e lm="graciozs"><par n="vis__pref"/><i>gracioz</i><par n="agr/s__adj"/></e>
+    <e lm="garšīgs"><par n="vis__pref"/><i>garšīg</i><par n="agr/s__adj"/></e>
+    <e lm="formāls"><par n="vis__pref"/><i>formāl</i><par n="agr/s__adj"/></e>
+    <e lm="elastīgs"><par n="vis__pref"/><i>elastīg</i><par n="agr/s__adj"/></e>
+    <e lm="dogmatisks"><par n="vis__pref"/><i>dogmatisk</i><par n="agr/s__adj"/></e>
+    <e lm="dievbijīgs"><par n="vis__pref"/><i>dievbijīg</i><par n="agr/s__adj"/></e>
+    <e lm="ciklopisks"><par n="vis__pref"/><i>ciklopisk</i><par n="agr/s__adj"/></e>
+    <e lm="cietsirdīgs"><par n="vis__pref"/><i>cietsirdīg</i><par n="agr/s__adj"/></e>
+    <e lm="bālgans"><par n="vis__pref"/><i>bālgan</i><par n="agr/s__adj"/></e>
+    <e lm="brīvdomīgs"><par n="vis__pref"/><i>brīvdomīg</i><par n="agr/s__adj"/></e>
+    <e lm="bikls"><par n="vis__pref"/><i>bikl</i><par n="agr/s__adj"/></e>
+    <e lm="avangardisks"><par n="vis__pref"/><i>avangardisk</i><par n="agr/s__adj"/></e>
+    <e lm="autoritatīvs"><par n="vis__pref"/><i>autoritatīv</i><par n="agr/s__adj"/></e>
+    <e lm="antisociāls"><par n="vis__pref"/><i>antisociāl</i><par n="agr/s__adj"/></e>
+    <e lm="alegorisks"><par n="vis__pref"/><i>alegorisk</i><par n="agr/s__adj"/></e>
 
     <!-- Nouns -->
     <e lm="vīrs"><i>vīr</i><par n="vīr/s__n"/></e>

@@ -1832,6 +1832,23 @@
     <e r="RL"><p><l>ideological<s n="adj"/></l><r>idejisks<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>ideological<s n="adj"/></l><r>ideoloģisks<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>idealistic<s n="adj"/></l><r>ideālistisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>charismatic<s n="adj"/></l><r>harizmātisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>graceful<s n="adj"/></l><r>graciozs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>delicious<s n="adj"/></l><r>garšīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>formal<s n="adj"/></l><r>formāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>elastic<s n="adj"/></l><r>elastīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>dogmatic<s n="adj"/></l><r>dogmatisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>devout<s n="adj"/></l><r>dievbijīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>Cyclopean<s n="adj"/></l><r>ciklopisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>hard-hearted<s n="adj"/></l><r>cietsirdīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>palish<s n="adj"/></l><r>bālgans<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>freethinking<s n="adj"/></l><r>brīvdomīgs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>timid<s n="adj"/></l><r>bikls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>avant-garde<s n="adj"/></l><r>avangardisks<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>authoritative<s n="adj"/></l><r>autoritatīvs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>antisocial<s n="adj"/></l><r>antisociāls<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>allegorical<s n="adj"/></l><r>alegorisks<s n="adj"/><s n="sint"/></r></p></e>
+
   </section>
   <section id="punctuation" type="standard">
     <e><i>.<s n="sent"/></i></e>
