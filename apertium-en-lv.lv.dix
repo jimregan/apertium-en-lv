@@ -2763,6 +2763,132 @@
         </p>
       </e>
     </pardef>
+
+    <pardef n="atr/ast__vblex">
+      <e>
+        <p>
+          <l>adīšu</l>
+          <r>ast<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adīsim</l>
+          <r>ast<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adīsi</l>
+          <r>ast<s n="vblex"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>adīsiet</l>
+          <r>ast<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adīsit</l>
+          <r>ast<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adīs</l>
+          <r>ast<s n="vblex"/><s n="fut"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ast</l>
+          <r>ast<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adu</l>
+          <r>ast<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adām</l>
+          <r>ast<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adi</l>
+          <r>ast<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adāt</l>
+          <r>ast<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ada</l>
+          <r>ast<s n="vblex"/><s n="past"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>odu</l>
+          <r>ast<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>odam</l>
+          <r>ast<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>odi</l>
+          <r>ast<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>odat</l>
+          <r>ast<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>od</l>
+          <r>ast<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e i="yes" c="No idea what this is :/">
+        <p>
+          <l>ašanos</l>
+          <r>ast<s n="vblex"/></r>
+        </p>
+      </e>
+      <e i="yes" c="No idea what this is :/">
+        <p>
+          <l>azdamies</l>
+          <r>ast<s n="vblex"/></r>
+        </p>
+      </e>
+      <e i="yes" c="No idea what this is :/">
+        <p>
+          <l>azdamās</l>
+          <r>ast<s n="vblex"/></r>
+        </p>
+      </e>
+
+    </pardef>
+
+
     <pardef n="agr/s__adj">
       <e>
         <p>
