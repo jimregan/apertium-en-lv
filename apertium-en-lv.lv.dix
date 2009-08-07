@@ -12892,6 +12892,31 @@
     <e lm="kaujiniecisks"><par n="vis__pref"/><i>kaujiniecisk</i><par n="agr/s__adj"/></e>
     <e lm="kaulains"><par n="vis__pref"/><i>kaulain</i><par n="agr/s__adj"/></e>
     <e lm="kautrīgs"><par n="vis__pref"/><i>kautrīg</i><par n="agr/s__adj"/></e>
+    <e lm="intensīvs"><par n="vis__pref"/><i>intensīv</i><par n="agr/s__adj"/></e>
+    <e lm="intīms"><par n="vis__pref"/><i>intīm</i><par n="agr/s__adj"/></e>
+    <e lm="iracionāls"><par n="vis__pref"/><i>iracionāl</i><par n="agr/s__adj"/></e>
+    <e lm="ironisks"><par n="vis__pref"/><i>ironisk</i><par n="agr/s__adj"/></e>
+    <e lm="izlēmīgs"><par n="vis__pref"/><i>izlēmīg</i><par n="agr/s__adj"/></e>
+    <e lm="iztapīgs"><par n="vis__pref"/><i>iztapīg</i><par n="agr/s__adj"/></e>
+    <e lm="izteiksmīgs"><par n="vis__pref"/><i>izteiksmīg</i><par n="agr/s__adj"/></e>
+    <e lm="izturīgs"><par n="vis__pref"/><i>izturīg</i><par n="agr/s__adj"/></e>
+    <e lm="izšķērdīgs"><par n="vis__pref"/><i>izšķērdīg</i><par n="agr/s__adj"/></e>
+    <e lm="jonisks"><par n="vis__pref"/><i>jonisk</i><par n="agr/s__adj"/></e>
+    <e lm="jēls"><par n="vis__pref"/><i>jēl</i><par n="agr/s__adj"/></e>
+    <e lm="kails"><par n="vis__pref"/><i>kail</i><par n="agr/s__adj"/></e>
+    <e lm="kaismīgs"><par n="vis__pref"/><i>kaismīg</i><par n="agr/s__adj"/></e>
+    <e lm="kaligrafisks"><par n="vis__pref"/><i>kaligrafisk</i><par n="agr/s__adj"/></e>
+    <e lm="kalnains"><par n="vis__pref"/><i>kalnain</i><par n="agr/s__adj"/></e>
+    <e lm="kalsens"><par n="vis__pref"/><i>kalsen</i><par n="agr/s__adj"/></e>
+    <e lm="kalsns"><par n="vis__pref"/><i>kalsn</i><par n="agr/s__adj"/></e>
+    <e lm="karalisks"><par n="vis__pref"/><i>karalisk</i><par n="agr/s__adj"/></e>
+    <e lm="kardināls"><par n="vis__pref"/><i>kardināl</i><par n="agr/s__adj"/></e>
+    <e lm="karsts"><par n="vis__pref"/><i>karst</i><par n="agr/s__adj"/></e>
+    <e lm="karstumizturīgs"><par n="vis__pref"/><i>karstumizturīg</i><par n="agr/s__adj"/></e>
+    <e lm="katastrofāls"><par n="vis__pref"/><i>katastrofāl</i><par n="agr/s__adj"/></e>
+    <e lm="kaujiniecisks"><par n="vis__pref"/><i>kaujiniecisk</i><par n="agr/s__adj"/></e>
+    <e lm="kaulains"><par n="vis__pref"/><i>kaulain</i><par n="agr/s__adj"/></e>
+    <e lm="kautrīgs"><par n="vis__pref"/><i>kautrīg</i><par n="agr/s__adj"/></e>
 
     <!-- Nouns -->
     <e lm="vīrs"><i>vīr</i><par n="vīr/s__n"/></e>
