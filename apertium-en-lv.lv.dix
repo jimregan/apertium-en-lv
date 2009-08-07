@@ -12840,6 +12840,33 @@
     <e lm="autoritatīvs"><par n="vis__pref"/><i>autoritatīv</i><par n="agr/s__adj"/></e>
     <e lm="antisociāls"><par n="vis__pref"/><i>antisociāl</i><par n="agr/s__adj"/></e>
     <e lm="alegorisks"><par n="vis__pref"/><i>alegorisk</i><par n="agr/s__adj"/></e>
+    <e lm="ideāls"><par n="vis__pref"/><i>ideāl</i><par n="agr/s__adj"/></e>
+    <e lm="idiotisks"><par n="vis__pref"/><i>idiotisk</i><par n="agr/s__adj"/></e>
+    <e lm="iederīgs"><par n="vis__pref"/><i>iederīg</i><par n="agr/s__adj"/></e>
+    <e lm="ienesīgs"><par n="vis__pref"/><i>ienesīg</i><par n="agr/s__adj"/></e>
+    <e lm="ierasts"><par n="vis__pref"/><i>ierast</i><par n="agr/s__adj"/></e>
+    <e lm="ierēdniecisks"><par n="vis__pref"/><i>ierēdniecisk</i><par n="agr/s__adj"/></e>
+    <e lm="iesarkans"><par n="vis__pref"/><i>iesarkan</i><par n="agr/s__adj"/></e>
+    <e lm="igaunisks"><par n="vis__pref"/><i>igaunisk</i><par n="agr/s__adj"/></e>
+    <e lm="ilgs"><par n="vis__pref"/><i>ilg</i><par n="agr/s__adj"/></e>
+    <e lm="ilustratīvs"><par n="vis__pref"/><i>ilustratīv</i><par n="agr/s__adj"/></e>
+    <e lm="imaginārs"><par n="vis__pref"/><i>imaginār</i><par n="agr/s__adj"/></e>
+    <e lm="impotents"><par n="vis__pref"/><i>impotent</i><par n="agr/s__adj"/></e>
+    <e lm="impresionistisks"><par n="vis__pref"/><i>impresionistisk</i><par n="agr/s__adj"/></e>
+    <e lm="impulsīvs"><par n="vis__pref"/><i>impulsīv</i><par n="agr/s__adj"/></e>
+    <e lm="imūns"><par n="vis__pref"/><i>imūn</i><par n="agr/s__adj"/></e>
+    <e lm="individuālistisks"><par n="vis__pref"/><i>individuālistisk</i><par n="agr/s__adj"/></e>
+    <e lm="individuāls"><par n="vis__pref"/><i>individuāl</i><par n="agr/s__adj"/></e>
+    <e lm="industriāls"><par n="vis__pref"/><i>industriāl</i><par n="agr/s__adj"/></e>
+    <e lm="indīgs"><par n="vis__pref"/><i>indīg</i><par n="agr/s__adj"/></e>
+    <e lm="inerts"><par n="vis__pref"/><i>inert</i><par n="agr/s__adj"/></e>
+    <e lm="informatīvs"><par n="vis__pref"/><i>informatīv</i><par n="agr/s__adj"/></e>
+    <e lm="infrasarkans"><par n="vis__pref"/><i>infrasarkan</i><par n="agr/s__adj"/></e>
+    <e lm="instruktīvs"><par n="vis__pref"/><i>instruktīv</i><par n="agr/s__adj"/></e>
+    <e lm="intelektuāls"><par n="vis__pref"/><i>intelektuāl</i><par n="agr/s__adj"/></e>
+    <e lm="inteliģents"><par n="vis__pref"/><i>inteliģent</i><par n="agr/s__adj"/></e>
+    <e lm="intuitīvs"><par n="vis__pref"/><i>intuitīv</i><par n="agr/s__adj"/></e>
+    <e lm="iteratīvs"><par n="vis__pref"/><i>iteratīv</i><par n="agr/s__adj"/></e>
 
     <!-- Nouns -->
     <e lm="vīrs"><i>vīr</i><par n="vīr/s__n"/></e>
