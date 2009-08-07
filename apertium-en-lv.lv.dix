@@ -12978,6 +12978,65 @@
     <e lm="laikmetīgs"><par n="vis__pref"/><i>laikmetīg</i><par n="agr/s__adj"/></e>
     <e lm="laimīgs"><par n="vis__pref"/><i>laimīg</i><par n="agr/s__adj"/></e>
     <e lm="laipns"><par n="vis__pref"/><i>laipn</i><par n="agr/s__adj"/></e>
+    <e lm="neapnicīgs"><par n="vis__pref"/><i>neapnicīg</i><par n="agr/s__adj"/></e>
+    <e lm="nearhaisks"><par n="vis__pref"/><i>nearhaisk</i><par n="agr/s__adj"/></e>
+    <e lm="neatbildīgs"><par n="vis__pref"/><i>neatbildīg</i><par n="agr/s__adj"/></e>
+    <e lm="neatjautīgs"><par n="vis__pref"/><i>neatjautīg</i><par n="agr/s__adj"/></e>
+    <e lm="neatkarīgs"><par n="vis__pref"/><i>neatkarīg</i><par n="agr/s__adj"/></e>
+    <e lm="neatraktīvs"><par n="vis__pref"/><i>neatraktīv</i><par n="agr/s__adj"/></e>
+    <e lm="neauglīgs"><par n="vis__pref"/><i>neauglīg</i><par n="agr/s__adj"/></e>
+    <e lm="nebrīvs"><par n="vis__pref"/><i>nebrīv</i><par n="agr/s__adj"/></e>
+    <e lm="necaurlaidīgs"><par n="vis__pref"/><i>necaurlaidīg</i><par n="agr/s__adj"/></e>
+    <e lm="necaurspīdīgs"><par n="vis__pref"/><i>necaurspīdīg</i><par n="agr/s__adj"/></e>
+    <e lm="necilvēcīgs"><par n="vis__pref"/><i>necilvēcīg</i><par n="agr/s__adj"/></e>
+    <e lm="nedabīgs"><par n="vis__pref"/><i>nedabīg</i><par n="agr/s__adj"/></e>
+    <e lm="nedelikāts"><par n="vis__pref"/><i>nedelikāt</i><par n="agr/s__adj"/></e>
+    <e lm="nedemokrātisks"><par n="vis__pref"/><i>nedemokrātisk</i><par n="agr/s__adj"/></e>
+    <e lm="nedinamisks"><par n="vis__pref"/><i>nedinamisk</i><par n="agr/s__adj"/></e>
+    <e lm="nedraudzīgs"><par n="vis__pref"/><i>nedraudzīg</i><par n="agr/s__adj"/></e>
+    <e lm="nedzejisks"><par n="vis__pref"/><i>nedzejisk</i><par n="agr/s__adj"/></e>
+    <e lm="nedzidrs"><par n="vis__pref"/><i>nedzidr</i><par n="agr/s__adj"/></e>
+    <e lm="nedzīvs"><par n="vis__pref"/><i>nedzīv</i><par n="agr/s__adj"/></e>
+    <e lm="nedzīvīgs"><par n="vis__pref"/><i>nedzīvīg</i><par n="agr/s__adj"/></e>
+    <e lm="neefektīgs"><par n="vis__pref"/><i>neefektīg</i><par n="agr/s__adj"/></e>
+    <e lm="neefektīvs"><par n="vis__pref"/><i>neefektīv</i><par n="agr/s__adj"/></e>
+    <e lm="neeiropeisks"><par n="vis__pref"/><i>neeiropeisk</i><par n="agr/s__adj"/></e>
+    <e lm="neekonomisks"><par n="vis__pref"/><i>neekonomisk</i><par n="agr/s__adj"/></e>
+    <e lm="neelastīgs"><par n="vis__pref"/><i>neelastīg</i><par n="agr/s__adj"/></e>
+    <e lm="neelegants"><par n="vis__pref"/><i>neelegant</i><par n="agr/s__adj"/></e>
+    <e lm="neestētisks"><par n="vis__pref"/><i>neestētisk</i><par n="agr/s__adj"/></e>
+    <e lm="nefamiliārs"><par n="vis__pref"/><i>nefamiliār</i><par n="agr/s__adj"/></e>
+    <e lm="nefiligrāns"><par n="vis__pref"/><i>nefiligrān</i><par n="agr/s__adj"/></e>
+    <e lm="neformāls"><par n="vis__pref"/><i>neformāl</i><par n="agr/s__adj"/></e>
+    <e lm="negaršīgs"><par n="vis__pref"/><i>negaršīg</i><par n="agr/s__adj"/></e>
+    <e lm="negatavs"><par n="vis__pref"/><i>negatav</i><par n="agr/s__adj"/></e>
+    <e lm="negudrs"><par n="vis__pref"/><i>negudr</i><par n="agr/s__adj"/></e>
+    <e lm="neharmonisks"><par n="vis__pref"/><i>neharmonisk</i><par n="agr/s__adj"/></e>
+    <e lm="nehumāns"><par n="vis__pref"/><i>nehumān</i><par n="agr/s__adj"/></e>
+    <e lm="neiederīgs"><par n="vis__pref"/><i>neiederīg</i><par n="agr/s__adj"/></e>
+    <e lm="neienesīgs"><par n="vis__pref"/><i>neienesīg</i><par n="agr/s__adj"/></e>
+    <e lm="neierasts"><par n="vis__pref"/><i>neierast</i><par n="agr/s__adj"/></e>
+    <e lm="neintuitīvs"><par n="vis__pref"/><i>neintuitīv</i><par n="agr/s__adj"/></e>
+    <e lm="neizlēmīgs"><par n="vis__pref"/><i>neizlēmīg</i><par n="agr/s__adj"/></e>
+    <e lm="neizlēmīgs"><par n="vis__pref"/><i>neizlēmīg</i><par n="agr/s__adj"/></e>
+    <e lm="nekaismīgs"><par n="vis__pref"/><i>nekaismīg</i><par n="agr/s__adj"/></e>
+    <e lm="nekaismīgs"><par n="vis__pref"/><i>nekaismīg</i><par n="agr/s__adj"/></e>
+    <e lm="nekautrīgs"><par n="vis__pref"/><i>nekautrīg</i><par n="agr/s__adj"/></e>
+    <e lm="nekautrīgs"><par n="vis__pref"/><i>nekautrīg</i><par n="agr/s__adj"/></e>
+    <e lm="nekomerciāls"><par n="vis__pref"/><i>nekomerciāl</i><par n="agr/s__adj"/></e>
+    <e lm="nekomfortabls"><par n="vis__pref"/><i>nekomfortabl</i><par n="agr/s__adj"/></e>
+    <e lm="nekompetents"><par n="vis__pref"/><i>nekompetent</i><par n="agr/s__adj"/></e>
+    <e lm="nekomunikabls"><par n="vis__pref"/><i>nekomunikabl</i><par n="agr/s__adj"/></e>
+    <e lm="nekonsekvents"><par n="vis__pref"/><i>nekonsekvent</i><par n="agr/s__adj"/></e>
+    <e lm="nekonservatīvs"><par n="vis__pref"/><i>nekonservatīv</i><par n="agr/s__adj"/></e>
+    <e lm="nekonstruktīvs"><par n="vis__pref"/><i>nekonstruktīv</i><par n="agr/s__adj"/></e>
+    <e lm="nekorekts"><par n="vis__pref"/><i>nekorekt</i><par n="agr/s__adj"/></e>
+    <e lm="nekorumpēts"><par n="vis__pref"/><i>nekorumpēt</i><par n="agr/s__adj"/></e>
+    <e lm="nekritisks"><par n="vis__pref"/><i>nekritisk</i><par n="agr/s__adj"/></e>
+    <e lm="nelabprātīgs"><par n="vis__pref"/><i>nelabprātīg</i><par n="agr/s__adj"/></e>
+    <e lm="nelabvēlīgs"><par n="vis__pref"/><i>nelabvēlīg</i><par n="agr/s__adj"/></e>
+    <e lm="nelaimīgs"><par n="vis__pref"/><i>nelaimīg</i><par n="agr/s__adj"/></e>
+    <e lm="nelaipns"><par n="vis__pref"/><i>nelaipn</i><par n="agr/s__adj"/></e>
 
     <!-- Nouns -->
     <e lm="vīrs"><i>vīr</i><par n="vīr/s__n"/></e>
