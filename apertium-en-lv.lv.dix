@@ -15475,6 +15475,14 @@
     <e lm="agrs"><par n="vis__pref"/><i>agr</i><par n="agr/s__adj"/></e>
     <e lm="jauns"><par n="vis__pref"/><i>jaun</i><par n="agr/s__adj"/></e>
     <e lm="brūns"><par n="vis__pref"/><i>brūn</i><par n="agr/s__adj"/></e>
+
+    <e i="yes"><i>direktīva<b/></i><re>[0-9][0-9]/[0-9][0-9][0-9][/ ]EEK</re><p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+    <e i="yes"><i>direktīva<b/></i><re>[0-9][0-9]/[0-9][0-9][0-9][/ ]EEK</re><p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+    <e i="yes"><p><l>direktīvas<b/></l><r>direktīva<b/></r></p><re>[0-9][0-9]/[0-9][0-9][0-9][/ ]EEK</re><p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+    <e i="yes"><p><l>direktīvas<b/></l><r>direktīva<b/></r></p><re>[0-9][0-9]/[0-9][0-9][0-9][/ ]EEK</re><p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+    <e i="yes"><p><l>direktīvai<b/></l><r>direktīva<b/></r></p><re>[0-9][0-9]/[0-9][0-9][0-9][/ ]EEK</re><p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+    <e i="yes"><p><l>direktīvu<b/></l><r>direktīva<b/></r></p><re>[0-9][0-9]/[0-9][0-9][0-9][/ ]EEK</re><p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e i="yes"><p><l>direktīvā<b/></l><r>direktīva<b/></r></p><re>[0-9][0-9]/[0-9][0-9][0-9][/ ]EEK</re><p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
   </section>
   <section id="punctuation" type="inconditional">
     <e lm="."><p><l>.</l><r>.<s n="sent"/></r></p></e>

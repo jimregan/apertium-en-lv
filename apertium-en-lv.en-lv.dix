@@ -1537,7 +1537,7 @@
     <e><p><l>door<s n="n"/><s n="pl"/></l><r>durvis<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>door<s n="n"/><s n="sg"/></l><r>durvis<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>house<s n="n"/></l><r>māja<s n="n"/><s n="f"/></r></p></e>
-
+    <e><p><l>directive<s n="n"/></l><r>direktīva<s n="n"/><s n="f"/></r></p></e>
 
     <e><p><l>language<s n="n"/></l><r>valoda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Italian<b/>language<s n="n"/></l><r>itāļu<b/>valoda<s n="n"/><s n="f"/></r></p></e>
@@ -2446,6 +2446,8 @@
     <e><p><l>watery<s n="adj"/></l><r>ūdeņains<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>rapid<s n="adj"/></l><r>žigls<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>marginal<s n="adj"/></l><r>margināls<s n="adj"/><s n="sint"/></r></p></e>
+
+    <e i="yes"><p><l>directive<b/></l><r>direktīva<b/></r></p><re>[0-9][0-9]/[0-9][0-9][0-9][/ ]</re><p><l>EEC<s n="n"/></l><r>EEK<s n="n"/><s n="f"/></r></p></e>
   </section>
   <section id="punctuation" type="standard">
     <e><i>.<s n="sent"/></i></e>
