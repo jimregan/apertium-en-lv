@@ -12917,6 +12917,67 @@
     <e lm="kaujiniecisks"><par n="vis__pref"/><i>kaujiniecisk</i><par n="agr/s__adj"/></e>
     <e lm="kaulains"><par n="vis__pref"/><i>kaulain</i><par n="agr/s__adj"/></e>
     <e lm="kautrīgs"><par n="vis__pref"/><i>kautrīg</i><par n="agr/s__adj"/></e>
+    <e lm="kleins"><par n="vis__pref"/><i>klein</i><par n="agr/s__adj"/></e>
+    <e lm="klibs"><par n="vis__pref"/><i>klib</i><par n="agr/s__adj"/></e>
+    <e lm="kluss"><par n="vis__pref"/><i>klus</i><par n="agr/s__adj"/></e>
+    <e lm="kodīgs"><par n="vis__pref"/><i>kodīg</i><par n="agr/s__adj"/></e>
+    <e lm="kokains"><par n="vis__pref"/><i>kokain</i><par n="agr/s__adj"/></e>
+    <e lm="kolosāls"><par n="vis__pref"/><i>kolosāl</i><par n="agr/s__adj"/></e>
+    <e lm="komerciāls"><par n="vis__pref"/><i>komerciāl</i><par n="agr/s__adj"/></e>
+    <e lm="komfortabls"><par n="vis__pref"/><i>komfortabl</i><par n="agr/s__adj"/></e>
+    <e lm="komisks"><par n="vis__pref"/><i>komisk</i><par n="agr/s__adj"/></e>
+    <e lm="kompetents"><par n="vis__pref"/><i>kompetent</i><par n="agr/s__adj"/></e>
+    <e lm="komplicēts"><par n="vis__pref"/><i>komplicēt</i><par n="agr/s__adj"/></e>
+    <e lm="komunikabls"><par n="vis__pref"/><i>komunikabl</i><par n="agr/s__adj"/></e>
+    <e lm="komunāls"><par n="vis__pref"/><i>komunāl</i><par n="agr/s__adj"/></e>
+    <e lm="komutatīvs"><par n="vis__pref"/><i>komutatīv</i><par n="agr/s__adj"/></e>
+    <e lm="koncentrisks"><par n="vis__pref"/><i>koncentrisk</i><par n="agr/s__adj"/></e>
+    <e lm="konkrēts"><par n="vis__pref"/><i>konkrēt</i><par n="agr/s__adj"/></e>
+    <e lm="konsekvents"><par n="vis__pref"/><i>konsekvent</i><par n="agr/s__adj"/></e>
+    <e lm="konservatīvs"><par n="vis__pref"/><i>konservatīv</i><par n="agr/s__adj"/></e>
+    <e lm="konspiratīvs"><par n="vis__pref"/><i>konspiratīv</i><par n="agr/s__adj"/></e>
+    <e lm="konstants"><par n="vis__pref"/><i>konstant</i><par n="agr/s__adj"/></e>
+    <e lm="konstruktīvs"><par n="vis__pref"/><i>konstruktīv</i><par n="agr/s__adj"/></e>
+    <e lm="kontrastains"><par n="vis__pref"/><i>kontrastain</i><par n="agr/s__adj"/></e>
+    <e lm="kopīgs"><par n="vis__pref"/><i>kopīg</i><par n="agr/s__adj"/></e>
+    <e lm="korekts"><par n="vis__pref"/><i>korekt</i><par n="agr/s__adj"/></e>
+    <e lm="korpulents"><par n="vis__pref"/><i>korpulent</i><par n="agr/s__adj"/></e>
+    <e lm="korumpēts"><par n="vis__pref"/><i>korumpēt</i><par n="agr/s__adj"/></e>
+    <e lm="koķets"><par n="vis__pref"/><i>koķet</i><par n="agr/s__adj"/></e>
+    <e lm="koķetīgs"><par n="vis__pref"/><i>koķetīg</i><par n="agr/s__adj"/></e>
+    <e lm="košs"><par n="vis__pref"/><i>koš</i><par n="agr/s__adj"/></e>
+    <e lm="krampjains"><par n="vis__pref"/><i>krampjain</i><par n="agr/s__adj"/></e>
+    <e lm="krass"><par n="vis__pref"/><i>kras</i><par n="agr/s__adj"/></e>
+    <e lm="kredītspējīgs"><par n="vis__pref"/><i>kredītspējīg</i><par n="agr/s__adj"/></e>
+    <e lm="krievisks"><par n="vis__pref"/><i>krievisk</i><par n="agr/s__adj"/></e>
+    <e lm="krimināls"><par n="vis__pref"/><i>krimināl</i><par n="agr/s__adj"/></e>
+    <e lm="kristīgs"><par n="vis__pref"/><i>kristīg</i><par n="agr/s__adj"/></e>
+    <e lm="kritisks"><par n="vis__pref"/><i>kritisk</i><par n="agr/s__adj"/></e>
+    <e lm="krokains"><par n="vis__pref"/><i>krokain</i><par n="agr/s__adj"/></e>
+    <e lm="krāsains"><par n="vis__pref"/><i>krāsain</i><par n="agr/s__adj"/></e>
+    <e lm="krēslains"><par n="vis__pref"/><i>krēslain</i><par n="agr/s__adj"/></e>
+    <e lm="kulturāls"><par n="vis__pref"/><i>kulturāl</i><par n="agr/s__adj"/></e>
+    <e lm="kuriozs"><par n="vis__pref"/><i>kurioz</i><par n="agr/s__adj"/></e>
+    <e lm="kurls"><par n="vis__pref"/><i>kurl</i><par n="agr/s__adj"/></e>
+    <e lm="kvalitatīvs"><par n="vis__pref"/><i>kvalitatīv</i><par n="agr/s__adj"/></e>
+    <e lm="kvantitatīvs"><par n="vis__pref"/><i>kvantitatīv</i><par n="agr/s__adj"/></e>
+    <e lm="kārns"><par n="vis__pref"/><i>kārn</i><par n="agr/s__adj"/></e>
+    <e lm="kārs"><par n="vis__pref"/><i>kār</i><par n="agr/s__adj"/></e>
+    <e lm="kārtns"><par n="vis__pref"/><i>kārtn</i><par n="agr/s__adj"/></e>
+    <e lm="kļūmīgs"><par n="vis__pref"/><i>kļūmīg</i><par n="agr/s__adj"/></e>
+    <e lm="kūtrs"><par n="vis__pref"/><i>kūtr</i><par n="agr/s__adj"/></e>
+    <e lm="labdabīgs"><par n="vis__pref"/><i>labdabīg</i><par n="agr/s__adj"/></e>
+    <e lm="labdarīgs"><par n="vis__pref"/><i>labdarīg</i><par n="agr/s__adj"/></e>
+    <e lm="labils"><par n="vis__pref"/><i>labil</i><par n="agr/s__adj"/></e>
+    <e lm="labiāls"><par n="vis__pref"/><i>labiāl</i><par n="agr/s__adj"/></e>
+    <e lm="labprātīgs"><par n="vis__pref"/><i>labprātīg</i><par n="agr/s__adj"/></e>
+    <e lm="labsirdīgs"><par n="vis__pref"/><i>labsirdīg</i><par n="agr/s__adj"/></e>
+    <e lm="labvēlīgs"><par n="vis__pref"/><i>labvēlīg</i><par n="agr/s__adj"/></e>
+    <e lm="laicīgs"><par n="vis__pref"/><i>laicīg</i><par n="agr/s__adj"/></e>
+    <e lm="laidens"><par n="vis__pref"/><i>laiden</i><par n="agr/s__adj"/></e>
+    <e lm="laikmetīgs"><par n="vis__pref"/><i>laikmetīg</i><par n="agr/s__adj"/></e>
+    <e lm="laimīgs"><par n="vis__pref"/><i>laimīg</i><par n="agr/s__adj"/></e>
+    <e lm="laipns"><par n="vis__pref"/><i>laipn</i><par n="agr/s__adj"/></e>
 
     <!-- Nouns -->
     <e lm="vīrs"><i>vīr</i><par n="vīr/s__n"/></e>
