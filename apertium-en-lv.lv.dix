@@ -1043,475 +1043,6 @@
       </e>
     </pardef>
     
-    <pardef n="/būt__vbser">
-      <e>
-        <p>
-          <l>būt</l>
-          <r>būt<s n="vbser"/><s n="inf"/></r>
-        </p>
-      </e>
-      <!-- Pres -->
-      <e>
-        <p>
-          <l>esmu</l>
-          <r>būt<s n="vbser"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>esi</l>
-          <r>būt<s n="vbser"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ir</l>
-          <r>būt<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>esam</l>
-          <r>būt<s n="vbser"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>esat</l>
-          <r>būt<s n="vbser"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <!-- Past -->
-      <e>
-        <p>
-          <l>biju</l>
-          <r>būt<s n="vbser"/><s n="past"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>biji</l>
-          <r>būt<s n="vbser"/><s n="past"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>bija</l>
-          <r>būt<s n="vbser"/><s n="past"/><s n="p3"/><s n="sp"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>bijām</l>
-          <r>būt<s n="vbser"/><s n="past"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>bijāt</l>
-          <r>būt<s n="vbser"/><s n="past"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <!-- Future -->
-      <e>
-        <p>
-          <l>būšu</l>
-          <r>būt<s n="vbser"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>būsi</l>
-          <r>būt<s n="vbser"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>būs</l>
-          <r>būt<s n="vbser"/><s n="fut"/><s n="p3"/><s n="sp"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>būsim</l>
-          <r>būt<s n="vbser"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>būsit</l>
-          <r>būt<s n="vbser"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="var/ēt__vbmod">
-      <e>
-        <p>
-          <l>ēšu</l>
-          <r>ēt<s n="vbmod"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ēsim</l>
-          <r>ēt<s n="vbmod"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ēsi</l>
-          <r>ēt<s n="vbmod"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ēsiet</l>
-          <r>ēt<s n="vbmod"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e r="LR">
-        <p>
-          <l>ēt</l>
-          <r>ēt<s n="vbmod"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ēs</l>
-          <r>ēt<s n="vbmod"/><s n="fut"/><s n="p3"/><s n="sp"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ēt</l>
-          <r>ēt<s n="vbmod"/><s n="inf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ēju</l>
-          <r>ēt<s n="vbmod"/><s n="past"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ējām</l>
-          <r>ēt<s n="vbmod"/><s n="past"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ēji</l>
-          <r>ēt<s n="vbmod"/><s n="past"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ējāt</l>
-          <r>ēt<s n="vbmod"/><s n="past"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ēja</l>
-          <r>ēt<s n="vbmod"/><s n="past"/><s n="p3"/><s n="sp"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>u</l>
-          <r>ēt<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>am</l>
-          <r>ēt<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>i</l>
-          <r>ēt<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>at</l>
-          <r>ēt<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l></l>
-          <r>ēt<s n="vbmod"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="mīl/ēt__vblex">
-      <e>
-        <p>
-          <l>ēšu</l>
-          <r>ēt<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ēsim</l>
-          <r>ēt<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ēsi</l>
-          <r>ēt<s n="vblex"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ēsiet</l>
-          <r>ēt<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e r="LR">
-        <p>
-          <l>ēsit</l>
-          <r>ēt<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ēs</l>
-          <r>ēt<s n="vblex"/><s n="fut"/><s n="p3"/><s n="sp"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ēt</l>
-          <r>ēt<s n="vblex"/><s n="inf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ēju</l>
-          <r>ēt<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ējām</l>
-          <r>ēt<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ēji</l>
-          <r>ēt<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ējāt</l>
-          <r>ēt<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ēja</l>
-          <r>ēt<s n="vblex"/><s n="past"/><s n="p3"/><s n="sp"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>u</l>
-          <r>ēt<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>am</l>
-          <r>ēt<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>i</l>
-          <r>ēt<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>at</l>
-          <r>ēt<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l></l>
-          <r>ēt<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>i</l>
-          <r>ēt<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ēsim</l>
-          <r>ēt<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>iet</l>
-          <r>ēt<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ēt</l>
-          <r>ēt<s n="vblex"/></r>
-        </p>
-        <par n="lēkt/s__pp_psv"/>
-      </e>
-    </pardef>
-    <pardef n="t/ik__vblex">
-      <e>
-        <p>
-          <l>ikšu</l>
-          <r>ik<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>iksim</l>
-          <r>ik<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>iksi</l>
-          <r>ik<s n="vblex"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>iksiet</l>
-          <r>ik<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>iksit</l>
-          <r>ik<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>iks</l>
-          <r>ik<s n="vblex"/><s n="fut"/><s n="p3"/><s n="sp"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ikt</l>
-          <r>ik<s n="vblex"/><s n="inf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>iku</l>
-          <r>ik<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ikām</l>
-          <r>ik<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ikt</l>
-          <r>ik<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ikāt</l>
-          <r>ik<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ika</l>
-          <r>ik<s n="vblex"/><s n="past"/><s n="p3"/><s n="sp"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>īku</l>
-          <r>ik<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ieku</l>
-          <r>ik<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>īkam</l>
-          <r>ik<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>iekam</l>
-          <r>ik<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>iec</l>
-          <r>ik<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>īc</l>
-          <r>ik<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>īkat</l>
-          <r>ik<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>iekat</l>
-          <r>ik<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>īk</l>
-          <r>ik<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>iek</l>
-          <r>ik<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
-        </p>
-      </e>
-    </pardef>
-
     <pardef n="vīr/s__n">
       <e>
         <p>
@@ -12588,6 +12119,475 @@
         <p>
           <l>as</l>
           <r>š<s n="prn"/><s n="itg"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="/būt__vbser">
+      <e>
+        <p>
+          <l>būt</l>
+          <r>būt<s n="vbser"/><s n="inf"/></r>
+        </p>
+      </e>
+      <!-- Pres -->
+      <e>
+        <p>
+          <l>esmu</l>
+          <r>būt<s n="vbser"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>esi</l>
+          <r>būt<s n="vbser"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ir</l>
+          <r>būt<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>esam</l>
+          <r>būt<s n="vbser"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>esat</l>
+          <r>būt<s n="vbser"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <!-- Past -->
+      <e>
+        <p>
+          <l>biju</l>
+          <r>būt<s n="vbser"/><s n="past"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>biji</l>
+          <r>būt<s n="vbser"/><s n="past"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>bija</l>
+          <r>būt<s n="vbser"/><s n="past"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>bijām</l>
+          <r>būt<s n="vbser"/><s n="past"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>bijāt</l>
+          <r>būt<s n="vbser"/><s n="past"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <!-- Future -->
+      <e>
+        <p>
+          <l>būšu</l>
+          <r>būt<s n="vbser"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>būsi</l>
+          <r>būt<s n="vbser"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>būs</l>
+          <r>būt<s n="vbser"/><s n="fut"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>būsim</l>
+          <r>būt<s n="vbser"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>būsit</l>
+          <r>būt<s n="vbser"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="var/ēt__vbmod">
+      <e>
+        <p>
+          <l>ēšu</l>
+          <r>ēt<s n="vbmod"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēsim</l>
+          <r>ēt<s n="vbmod"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēsi</l>
+          <r>ēt<s n="vbmod"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēsiet</l>
+          <r>ēt<s n="vbmod"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ēt</l>
+          <r>ēt<s n="vbmod"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēs</l>
+          <r>ēt<s n="vbmod"/><s n="fut"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēt</l>
+          <r>ēt<s n="vbmod"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēju</l>
+          <r>ēt<s n="vbmod"/><s n="past"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ējām</l>
+          <r>ēt<s n="vbmod"/><s n="past"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēji</l>
+          <r>ēt<s n="vbmod"/><s n="past"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ējāt</l>
+          <r>ēt<s n="vbmod"/><s n="past"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēja</l>
+          <r>ēt<s n="vbmod"/><s n="past"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>ēt<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>am</l>
+          <r>ēt<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ēt<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>at</l>
+          <r>ēt<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>ēt<s n="vbmod"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="mīl/ēt__vblex">
+      <e>
+        <p>
+          <l>ēšu</l>
+          <r>ēt<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēsim</l>
+          <r>ēt<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēsi</l>
+          <r>ēt<s n="vblex"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēsiet</l>
+          <r>ēt<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ēsit</l>
+          <r>ēt<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēs</l>
+          <r>ēt<s n="vblex"/><s n="fut"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēt</l>
+          <r>ēt<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēju</l>
+          <r>ēt<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ējām</l>
+          <r>ēt<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēji</l>
+          <r>ēt<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ējāt</l>
+          <r>ēt<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēja</l>
+          <r>ēt<s n="vblex"/><s n="past"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>ēt<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>am</l>
+          <r>ēt<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ēt<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>at</l>
+          <r>ēt<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>ēt<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ēt<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēsim</l>
+          <r>ēt<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iet</l>
+          <r>ēt<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ēt</l>
+          <r>ēt<s n="vblex"/></r>
+        </p>
+        <par n="lēkt/s__pp_psv"/>
+      </e>
+    </pardef>
+    <pardef n="t/ik__vblex">
+      <e>
+        <p>
+          <l>ikšu</l>
+          <r>ik<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iksim</l>
+          <r>ik<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iksi</l>
+          <r>ik<s n="vblex"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iksiet</l>
+          <r>ik<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iksit</l>
+          <r>ik<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iks</l>
+          <r>ik<s n="vblex"/><s n="fut"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ikt</l>
+          <r>ik<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iku</l>
+          <r>ik<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ikām</l>
+          <r>ik<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ikt</l>
+          <r>ik<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ikāt</l>
+          <r>ik<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ika</l>
+          <r>ik<s n="vblex"/><s n="past"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>īku</l>
+          <r>ik<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ieku</l>
+          <r>ik<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>īkam</l>
+          <r>ik<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iekam</l>
+          <r>ik<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iec</l>
+          <r>ik<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>īc</l>
+          <r>ik<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>īkat</l>
+          <r>ik<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iekat</l>
+          <r>ik<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>īk</l>
+          <r>ik<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iek</l>
+          <r>ik<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
         </p>
       </e>
     </pardef>
