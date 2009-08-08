@@ -2301,6 +2301,284 @@
         </p>
       </e>
     </pardef>
+    <pardef n="cēl/is__pp_act">
+      <e>
+        <p>
+          <l>uša</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušam</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušu</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušā</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>is</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušu</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušiem</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušus</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušos</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>uši</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušas</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušai</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušu</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušā</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usi</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušu</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušām</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušas</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušās</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušas</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušā</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušajam</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušo</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušajā</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="m"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušais</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="m"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušais</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušo</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušajiem</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušos</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušajos</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="m"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušie</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="m"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušie</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušās</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušajai</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušo</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušajā</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usī</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ušā</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usī</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ušā</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušo</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušajām</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušās</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušajās</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušās</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ušās</l>
+          <r><s n="pp"/><s n="act"/><s n="def"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="atr/ast__vblex">
       <e>
@@ -12455,6 +12733,13 @@
           <r>ēt<s n="vblex"/></r>
         </p>
         <par n="lēkt/s__pp_psv"/>
+      </e>
+      <e>
+        <p>
+          <l>ēj</l>
+          <r>ēt<s n="vblex"/></r>
+        </p>
+        <par n="cēl/is__pp_act"/>
       </e>
     </pardef>
     <pardef n="t/ik__vblex">
