@@ -371,131 +371,169 @@
   <def-label name="det.itg.sp.mf.nom" closed="true">
     <tags-item tags="det.itg.sp.mf.nom"/>
   </def-label>
-  <def-label name="n.f.pl.abl" closed="true">
+  <def-label name="n.f.pl.abl">
     <tags-item tags="n.f.pl.abl"/>
+    <tags-item tags="np.ant.f.pl.abl"/>
+    <tags-item tags="np.top.f.pl.abl"/>
   </def-label>
-  <def-label name="n.f.pl.acc" closed="true">
+  <def-label name="n.f.pl.acc">
     <tags-item tags="n.f.pl.acc"/>
+    <tags-item tags="np.ant.f.pl.acc"/>
+    <tags-item tags="np.top.f.pl.acc"/>
   </def-label>
-  <def-label name="n.f.pl.dat" closed="true">
+  <def-label name="n.f.pl.dat">
     <tags-item tags="n.f.pl.dat"/>
+    <tags-item tags="np.ant.f.pl.dat"/>
+    <tags-item tags="np.top.f.pl.dat"/>
   </def-label>
-  <def-label name="n.f.pl.gen" closed="true">
+  <def-label name="n.f.pl.gen">
     <tags-item tags="n.f.pl.gen"/>
+    <tags-item tags="np.ant.f.pl.gen"/>
+    <tags-item tags="np.top.f.pl.gen"/>
   </def-label>
-  <def-label name="n.f.pl.ins" closed="true">
+  <def-label name="n.f.pl.ins">
     <tags-item tags="n.f.pl.ins"/>
+    <tags-item tags="np.ant.f.pl.ins"/>
+    <tags-item tags="np.top.f.pl.ins"/>
   </def-label>
-  <def-label name="n.f.pl.loc" closed="true">
+  <def-label name="n.f.pl.loc">
     <tags-item tags="n.f.pl.loc"/>
+    <tags-item tags="np.ant.f.pl.loc"/>
+    <tags-item tags="np.top.f.pl.loc"/>
   </def-label>
-  <def-label name="n.f.pl.nom" closed="true">
+  <def-label name="n.f.pl.nom">
     <tags-item tags="n.f.pl.nom"/>
+    <tags-item tags="np.ant.f.pl.nom"/>
+    <tags-item tags="np.top.f.pl.nom"/>
   </def-label>
-  <def-label name="n.f.pl.voc" closed="true">
+  <def-label name="n.f.pl.voc">
     <tags-item tags="n.f.pl.voc"/>
+    <tags-item tags="np.ant.f.pl.voc"/>
+    <tags-item tags="np.top.f.pl.voc"/>
   </def-label>
-  <def-label name="n.f.sg.abl" closed="true">
+  <def-label name="n.f.sg.abl">
     <tags-item tags="n.f.sg.abl"/>
-  </def-label>
-  <def-label name="n.f.sg.acc" closed="true">
-    <tags-item tags="n.f.sg.acc"/>
-  </def-label>
-  <def-label name="n.f.sg.dat" closed="true">
-    <tags-item tags="n.f.sg.dat"/>
-  </def-label>
-  <def-label name="n.f.sg.gen" closed="true">
-    <tags-item tags="n.f.sg.gen"/>
-  </def-label>
-  <def-label name="n.f.sg.ins" closed="true">
-    <tags-item tags="n.f.sg.ins"/>
-  </def-label>
-  <def-label name="n.f.sg.loc" closed="true">
-    <tags-item tags="n.f.sg.loc"/>
-  </def-label>
-  <def-label name="n.f.sg.nom" closed="true">
-    <tags-item tags="n.f.sg.nom"/>
-  </def-label>
-  <def-label name="n.f.sg.voc" closed="true">
-    <tags-item tags="n.f.sg.voc"/>
-  </def-label>
-  <def-label name="n.m.pl.abl" closed="true">
-    <tags-item tags="n.m.pl.abl"/>
-  </def-label>
-  <def-label name="n.m.pl.acc" closed="true">
-    <tags-item tags="n.m.pl.acc"/>
-  </def-label>
-  <def-label name="n.m.pl.dat" closed="true">
-    <tags-item tags="n.m.pl.dat"/>
-  </def-label>
-  <def-label name="n.m.pl.gen" closed="true">
-    <tags-item tags="n.m.pl.gen"/>
-  </def-label>
-  <def-label name="n.m.pl.ins" closed="true">
-    <tags-item tags="n.m.pl.ins"/>
-  </def-label>
-  <def-label name="n.m.pl.loc" closed="true">
-    <tags-item tags="n.m.pl.loc"/>
-  </def-label>
-  <def-label name="n.m.pl.nom" closed="true">
-    <tags-item tags="n.m.pl.nom"/>
-  </def-label>
-  <def-label name="n.m.pl.voc" closed="true">
-    <tags-item tags="n.m.pl.voc"/>
-  </def-label>
-  <def-label name="n.m.sg.abl" closed="true">
-    <tags-item tags="n.m.sg.abl"/>
-  </def-label>
-  <def-label name="n.m.sg.acc" closed="true">
-    <tags-item tags="n.m.sg.acc"/>
-  </def-label>
-  <def-label name="n.m.sg.dat" closed="true">
-    <tags-item tags="n.m.sg.dat"/>
-  </def-label>
-  <def-label name="n.m.sg.gen" closed="true">
-    <tags-item tags="n.m.sg.gen"/>
-  </def-label>
-  <def-label name="n.m.sg.ins" closed="true">
-    <tags-item tags="n.m.sg.ins"/>
-  </def-label>
-  <def-label name="n.m.sg.loc" closed="true">
-    <tags-item tags="n.m.sg.loc"/>
-  </def-label>
-  <def-label name="n.m.sg.nom" closed="true">
-    <tags-item tags="n.m.sg.nom"/>
-  </def-label>
-  <def-label name="n.m.sg.voc" closed="true">
-    <tags-item tags="n.m.sg.voc"/>
-  </def-label>
-  <def-label name="np.al.m.indecl" closed="true">
-    <tags-item tags="np.al.m.indecl"/>
-  </def-label>
-  <def-label name="np.ant.m.indecl" closed="true">
-    <tags-item tags="np.ant.m.indecl"/>
-  </def-label>
-  <def-label name="np.top.f.sg.abl" closed="true">
+    <tags-item tags="np.ant.f.sg.abl"/>
     <tags-item tags="np.top.f.sg.abl"/>
   </def-label>
-  <def-label name="np.top.f.sg.acc" closed="true">
+  <def-label name="n.f.sg.acc">
+    <tags-item tags="n.f.sg.acc"/>
+    <tags-item tags="np.ant.f.sg.acc"/>
     <tags-item tags="np.top.f.sg.acc"/>
   </def-label>
-  <def-label name="np.top.f.sg.dat" closed="true">
+  <def-label name="n.f.sg.dat">
+    <tags-item tags="n.f.sg.dat"/>
+    <tags-item tags="np.ant.f.sg.dat"/>
     <tags-item tags="np.top.f.sg.dat"/>
   </def-label>
-  <def-label name="np.top.f.sg.gen" closed="true">
+  <def-label name="n.f.sg.gen">
+    <tags-item tags="n.f.sg.gen"/>
+    <tags-item tags="np.ant.f.sg.gen"/>
     <tags-item tags="np.top.f.sg.gen"/>
   </def-label>
-  <def-label name="np.top.f.sg.ins" closed="true">
+  <def-label name="n.f.sg.ins">
+    <tags-item tags="n.f.sg.ins"/>
+    <tags-item tags="np.ant.f.sg.ins"/>
     <tags-item tags="np.top.f.sg.ins"/>
   </def-label>
-  <def-label name="np.top.f.sg.loc" closed="true">
+  <def-label name="n.f.sg.loc">
+    <tags-item tags="n.f.sg.loc"/>
+    <tags-item tags="np.ant.f.sg.loc"/>
     <tags-item tags="np.top.f.sg.loc"/>
   </def-label>
-  <def-label name="np.top.f.sg.nom" closed="true">
+  <def-label name="n.f.sg.nom">
+    <tags-item tags="n.f.sg.nom"/>
+    <tags-item tags="np.ant.f.sg.nom"/>
     <tags-item tags="np.top.f.sg.nom"/>
   </def-label>
-  <def-label name="np.top.f.sg.voc" closed="true">
+  <def-label name="n.f.sg.voc">
+    <tags-item tags="n.f.sg.voc"/>
+    <tags-item tags="np.ant.f.sg.voc"/>
     <tags-item tags="np.top.f.sg.voc"/>
+  </def-label>
+  <def-label name="n.m.pl.abl">
+    <tags-item tags="n.m.pl.abl"/>
+    <tags-item tags="np.ant.m.pl.abl"/>
+    <tags-item tags="np.top.m.pl.abl"/>
+  </def-label>
+  <def-label name="n.m.pl.acc">
+    <tags-item tags="n.m.pl.acc"/>
+    <tags-item tags="np.ant.m.pl.acc"/>
+    <tags-item tags="np.top.m.pl.acc"/>
+  </def-label>
+  <def-label name="n.m.pl.dat">
+    <tags-item tags="n.m.pl.dat"/>
+    <tags-item tags="np.ant.m.pl.dat"/>
+    <tags-item tags="np.top.m.pl.dat"/>
+  </def-label>
+  <def-label name="n.m.pl.gen">
+    <tags-item tags="n.m.pl.gen"/>
+    <tags-item tags="np.ant.m.pl.gen"/>
+    <tags-item tags="np.top.m.pl.gen"/>
+  </def-label>
+  <def-label name="n.m.pl.ins">
+    <tags-item tags="n.m.pl.ins"/>
+    <tags-item tags="np.ant.m.pl.ins"/>
+    <tags-item tags="np.top.m.pl.ins"/>
+  </def-label>
+  <def-label name="n.m.pl.loc">
+    <tags-item tags="n.m.pl.loc"/>
+    <tags-item tags="np.ant.m.pl.loc"/>
+    <tags-item tags="np.top.m.pl.loc"/>
+  </def-label>
+  <def-label name="n.m.pl.nom">
+    <tags-item tags="n.m.pl.nom"/>
+    <tags-item tags="np.ant.m.pl.nom"/>
+    <tags-item tags="np.top.m.pl.nom"/>
+  </def-label>
+  <def-label name="n.m.pl.voc">
+    <tags-item tags="n.m.pl.voc"/>
+    <tags-item tags="np.ant.m.pl.voc"/>
+    <tags-item tags="np.top.m.pl.voc"/>
+  </def-label>
+  <def-label name="n.m.sg.abl">
+    <tags-item tags="n.m.sg.abl"/>
+    <tags-item tags="np.ant.m.sg.abl"/>
+    <tags-item tags="np.top.m.sg.abl"/>
+  </def-label>
+  <def-label name="n.m.sg.acc">
+    <tags-item tags="n.m.sg.acc"/>
+    <tags-item tags="np.ant.m.sg.acc"/>
+    <tags-item tags="np.top.m.sg.acc"/>
+  </def-label>
+  <def-label name="n.m.sg.dat">
+    <tags-item tags="n.m.sg.dat"/>
+    <tags-item tags="np.ant.m.sg.dat"/>
+    <tags-item tags="np.top.m.sg.dat"/>
+  </def-label>
+  <def-label name="n.m.sg.gen">
+    <tags-item tags="n.m.sg.gen"/>
+    <tags-item tags="np.ant.m.sg.gen"/>
+    <tags-item tags="np.top.m.sg.gen"/>
+  </def-label>
+  <def-label name="n.m.sg.ins">
+    <tags-item tags="n.m.sg.ins"/>
+    <tags-item tags="np.ant.m.sg.ins"/>
+    <tags-item tags="np.top.m.sg.ins"/>
+  </def-label>
+  <def-label name="n.m.sg.loc">
+    <tags-item tags="n.m.sg.loc"/>
+    <tags-item tags="np.ant.m.sg.loc"/>
+    <tags-item tags="np.top.m.sg.loc"/>
+  </def-label>
+  <def-label name="n.m.sg.nom">
+    <tags-item tags="n.m.sg.nom"/>
+    <tags-item tags="np.ant.m.sg.nom"/>
+    <tags-item tags="np.top.m.sg.nom"/>
+  </def-label>
+  <def-label name="n.m.sg.voc">
+    <tags-item tags="n.m.sg.voc"/>
+    <tags-item tags="np.ant.m.sg.voc"/>
+    <tags-item tags="np.top.m.sg.voc"/>
+  </def-label>
+  <def-label name="NPMINDECL">
+    <tags-item tags="np.al.m.indecl"/>
+    <tags-item tags="np.ant.m.indecl"/>
   </def-label>
   <def-label name="num.f.pl.acc" closed="true">
     <tags-item tags="num.f.pl.acc"/>
@@ -566,11 +604,11 @@
   <def-label name="pr.acc" closed="true">
     <tags-item tags="pr.acc"/>
   </def-label>
-  <def-label name="preadv" closed="true">
-    <tags-item tags="preadv"/>
-  </def-label>
   <def-label name="pr.gen" closed="true">
     <tags-item tags="pr.gen"/>
+  </def-label>
+  <def-label name="preadv" closed="true">
+    <tags-item tags="preadv"/>
   </def-label>
   <def-label name="prn.emph.pl.f.acc" closed="true">
     <tags-item tags="prn.emph.pl.f.acc"/>
