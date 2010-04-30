@@ -8,7 +8,6 @@
     <sdef n="f"/>
     <sdef n="mf"/>
     <sdef n="np"/>
-    <sdef n="ant"/>
     <sdef n="top"/>
     <sdef n="det"/>
     <sdef n="dem"/>
@@ -17,7 +16,6 @@
     <sdef n="pl"/>
     <sdef n="sp"/>
     <sdef n="adj"/>
-    <sdef n="adv"/>
     <sdef n="vbser"/>
     <sdef n="vblex"/>
     <sdef n="pr"/>
@@ -33,8 +31,8 @@
     <sdef n="gen"/>
     <sdef n="acc"/>
     <sdef n="sint"/>
+    <sdef n="GD"/>
   </sdefs>
-  <pardefs/>
   <section id="main" type="standard">
     <!-- Proper names: Men -->
     <!-- in Latvia, the general policy is to translate *all* proper names -->
@@ -1710,7 +1708,7 @@
     <e><p><l>base<s n="adj"/></l><r>bāzisks<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>dangerous<s n="adj"/></l><r>bīstams<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>permeable<s n="adj"/></l><r>caurlaidīgs<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>leaky<s n="adj"/></l><s n="sint"/><r>caurs<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>leaky<s n="adj"/><s n="sint"/></l><r>caurs<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>transparent<s n="adj"/></l><r>caurspīdīgs<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>human<s n="adj"/></l><r>cilvēcisks<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>humane<s n="adj"/></l><r>cilvēcīgs<s n="adj"/><s n="sint"/></r></p></e>
@@ -1895,7 +1893,7 @@
     <e><p><l>meager<s n="adj"/></l><r>kalsns<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>royal<s n="adj"/></l><r>karalisks<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>cardinal<s n="adj"/></l><r>kardināls<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>hot<s n="adj"/></l><s n="sint"/><r>karsts<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>hot<s n="adj"/><s n="sint"/></l><r>karsts<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>heat-resistant<s n="adj"/></l><r>karstumizturīgs<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>catastrophic<s n="adj"/></l><r>katastrofāls<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>combative<s n="adj"/></l><r>kaujiniecisks<s n="adj"/><s n="sint"/></r></p></e>
