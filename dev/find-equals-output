@@ -1,3 +1,10 @@
+<dictionary>
+<alphabet></alphabet>
+<sdefs>
+  <sdef n="n"/>
+  <sdef n="GD"/>
+</sdefs>
+<section id="main" type="standard">
     <e><p><l>grandmother<s n="n"/></l><r>vecmāmiņa<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>tank<s n="n"/></l><r>tvertne<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>balcony<s n="n"/></l><r>balkons<s n="n"/><s n="GD"/></r></p></e>
@@ -31,22 +38,17 @@
     <e><p><l>rifle<s n="n"/></l><r>šautene<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>temple<s n="n"/></l><r>deniņi<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>taste<s n="n"/></l><r>garša<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>owner<s n="n"/></l><r>īpašnieks<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>grandchild<s n="n"/></l><r>mazbērns<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>vodka<s n="n"/></l><r>degvīns<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>return<s n="n"/></l><r>atdošana<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>war<s n="n"/></l><r>karš<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>will<s n="n"/></l><r>griba<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>imagination<s n="n"/></l><r>iztēle<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>thief<s n="n"/></l><r>zaglis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>sparrow<s n="n"/></l><r>zvirbulis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>collar<s n="n"/></l><r>apkakle<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>collar<s n="n"/></l><r>apkakle<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>resurrection<s n="n"/></l><r>augšāmcelšanās<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>inflammation<s n="n"/></l><r>iekaisums<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>east<s n="n"/></l><r>austrumi<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>admiration<s n="n"/></l><r>apbrīna<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>impression<s n="n"/></l><r>iespaids<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>universe<s n="n"/></l><r>universs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>meeting<s n="n"/></l><r>tikšanās<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>election<s n="n"/></l><r>vēlēšanas<s n="n"/><s n="GD"/></r></p></e>
@@ -56,7 +58,6 @@
     <e><p><l>tie<s n="n"/></l><r>kaklasaite<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>garage<s n="n"/></l><r>garāža<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>gene<s n="n"/></l><r>gēns<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>general<s n="n"/></l><r>ģenerālis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>genius<s n="n"/></l><r>ģēnijs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>anger<s n="n"/></l><r>dusmas<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>gnome<s n="n"/></l><r>rūķis<s n="n"/><s n="GD"/></r></p></e>
@@ -110,16 +111,12 @@
     <e><p><l>mirror<s n="n"/></l><r>spogulis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>grain<s n="n"/></l><r>grauds<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>snake<s n="n"/></l><r>čūska<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>knowledge<s n="n"/></l><r>zināšana<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>gold<s n="n"/></l><r>zelts<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>toy<s n="n"/></l><r>rotaļlieta<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>ideal<s n="n"/></l><r>ideāls<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>idiot<s n="n"/></l><r>idiots<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>name<s n="n"/></l><r>vārds<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>initiative<s n="n"/></l><r>iniciatīva<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>foreigner<s n="n"/></l><r>ārzemnieks<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>instinct<s n="n"/></l><r>instinkts<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>instrument<s n="n"/></l><r>instruments<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>intelligentsia<s n="n"/></l><r>inteliģence<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>interview<s n="n"/></l><r>intervija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>fright<s n="n"/></l><r>izbailes<s n="n"/><s n="GD"/></r></p></e>
@@ -772,3 +769,5 @@
     <e><p><l>pit<s n="n"/></l><r>bedre<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>January<s n="n"/></l><r>janvāris<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>box<s n="n"/></l><r>kaste<s n="n"/><s n="GD"/></r></p></e>
+</section>
+</dictionary>
