@@ -14777,6 +14777,53 @@
     <e lm="korpuss"><i>korpus</i><par n="tip/s__n_m"/></e>
     <e lm="kosmoss"><i>kosmos</i><par n="šah/s__n_m"/></e>
     <e lm="krājums"><i>krājum</i><par n="tip/s__n_m"/></e>
+    <e lm="iekaisums"><i>iekaisum</i><par n="tip/s__n_m"/></e>
+    <e lm="secinājums"><i>secinājum</i><par n="tip/s__n_m"/></e>
+    <e lm="izsaukums"><i>izsaukum</i><par n="tip/s__n_m"/></e>
+    <e lm="diploms"><i>diplom</i><par n="tip/s__n_m"/></e>
+    <e lm="pierādījums"><i>pierādījum</i><par n="tip/s__n_m"/></e>
+    <e lm="karstums"><i>karstum</i><par n="tip/s__n_m"/></e>
+    <e lm="aizrādījums"><i>aizrādījum</i><par n="tip/s__n_m"/></e>
+    <e lm="kapitālisms"><i>kapitālism</i><par n="tip/s__n_m"/></e>
+    <e lm="kilograms"><i>kilogram</i><par n="tip/s__n_m"/></e>
+    <e lm="komunisms"><i>komunism</i><par n="tip/s__n_m"/></e>
+    <e lm="kostīms"><i>kostīm</i><par n="tip/s__n_m"/></e>
+    <e lm="skaistums"><i>skaistum</i><par n="tip/s__n_m"/></e>
+    <e lm="lapojums"><i>lapojum</i><par n="tip/s__n_m"/></e>
+    <e lm="minimums"><i>minimum</i><par n="tip/s__n_m"/></e>
+    <e lm="maigums"><i>maigum</i><par n="tip/s__n_m"/></e>
+    <e lm="pārsteigums"><i>pārsteigum</i><par n="tip/s__n_m"/></e>
+    <e lm="solījums"><i>solījum</i><par n="tip/s__n_m"/></e>
+    <e lm="aizvainojums"><i>aizvainojum</i><par n="tip/s__n_m"/></e>
+    <e lm="aprīkojums"><i>aprīkojum</i><par n="tip/s__n_m"/></e>
+    <e lm="paskaidrojums"><i>paskaidrojum</i><par n="tip/s__n_m"/></e>
+    <e lm="atvaļinājums"><i>atvaļinājum</i><par n="tip/s__n_m"/></e>
+    <e lm="atspoguļojums"><i>atspoguļojum</i><par n="tip/s__n_m"/></e>
+    <e lm="dziedājums"><i>dziedājum</i><par n="tip/s__n_m"/></e>
+    <e lm="meklējums"><i>meklējum</i><par n="tip/s__n_m"/></e>
+    <e lm="pirkums"><i>pirkum</i><par n="tip/s__n_m"/></e>
+    <e lm="labums"><i>labum</i><par n="tip/s__n_m"/></e>
+    <e lm="apciemojums"><i>apciemojum</i><par n="tip/s__n_m"/></e>
+    <e lm="nicinājums"><i>nicinājum</i><par n="tip/s__n_m"/></e>
+    <e lm="pieradums"><i>pieradum</i><par n="tip/s__n_m"/></e>
+    <e lm="piedzīvojums"><i>piedzīvojum</i><par n="tip/s__n_m"/></e>
+    <e lm="atgadījums"><i>atgadījum</i><par n="tip/s__n_m"/></e>
+    <e lm="izplatījums"><i>izplatījum</i><par n="tip/s__n_m"/></e>
+    <e lm="publicējums"><i>publicējum</i><par n="tip/s__n_m"/></e>
+    <e lm="tukšums"><i>tukšum</i><par n="tip/s__n_m"/></e>
+    <e lm="plankums"><i>plankum</i><par n="tip/s__n_m"/></e>
+    <e lm="aizkaitinājums"><i>aizkaitinājum</i><par n="tip/s__n_m"/></e>
+    <e lm="ritms"><i>ritm</i><par n="tip/s__n_m"/></e>
+    <e lm="simptoms"><i>simptom</i><par n="tip/s__n_m"/></e>
+    <e lm="nolīgums"><i>nolīgum</i><par n="tip/s__n_m"/></e>
+    <e lm="sociālisms"><i>sociālism</i><par n="tip/s__n_m"/></e>
+    <e lm="taisnīgums"><i>taisnīgum</i><par n="tip/s__n_m"/></e>
+    <e lm="sējums"><i>sējum</i><par n="tip/s__n_m"/></e>
+    <e lm="palielinājums"><i>palielinājum</i><par n="tip/s__n_m"/></e>
+    <e lm="nogurums"><i>nogurum</i><par n="tip/s__n_m"/></e>
+    <e lm="apgalvojums"><i>apgalvojum</i><par n="tip/s__n_m"/></e>
+    <e lm="aukstums"><i>aukstum</i><par n="tip/s__n_m"/></e>
+    <e lm="lasījums"><i>lasījum</i><par n="tip/s__n_m"/></e>
     <e lm="krāsa"><i>krās</i><par n="al/a__n"/></e>
     <e lm="krasts"><i>krast</i><par n="tip/s__n_m"/></e>
     <e lm="krāteris"><i>krāter</i><par n="pūķ/is__n_m"/></e>
@@ -14949,6 +14996,22 @@
     <e lm="mūris"><i>mūr</i><par n="pūķ/is__n_m"/></e>
     <e lm="mūsdienas"><i>mūsdien</i><par n="sek/as__n_f"/></e>
     <e lm="muskulis"><i>musku</i><par n="po/lis__n_m"/></e>
+    <e lm="zaglis"><i>zag</i><par n="po/lis__n_m"/></e>
+    <e lm="zvirbulis"><i>zvirbu</i><par n="po/lis__n_m"/></e>
+    <e lm="hospitālis"><i>hospitā</i><par n="po/lis__n_m"/></e>
+    <e lm="dēlis"><i>dē</i><par n="po/lis__n_m"/></e>
+    <e lm="spogulis"><i>spogu</i><par n="po/lis__n_m"/></e>
+    <e lm="zīmulis"><i>zīmu</i><par n="po/lis__n_m"/></e>
+    <e lm="celis"><i>ce</i><par n="po/lis__n_m"/></e>
+    <e lm="garastāvoklis"><i>garastāvok</i><par n="po/lis__n_m"/></e>
+    <e lm="hotelis"><i>hote</i><par n="po/lis__n_m"/></e>
+    <e lm="dvielis"><i>dvie</i><par n="po/lis__n_m"/></e>
+    <e lm="profesionālis"><i>profesionā</i><par n="po/lis__n_m"/></e>
+    <e lm="burbulis"><i>burbu</i><par n="po/lis__n_m"/></e>
+    <e lm="sēdeklis"><i>sēdek</i><par n="po/lis__n_m"/></e>
+    <e lm="dzejolis"><i>dzejo</i><par n="po/lis__n_m"/></e>
+    <e lm="ķeblis"><i>ķeb</i><par n="po/lis__n_m"/></e>
+    <e lm="pūlis"><i>pū</i><par n="po/lis__n_m"/></e>
     <e lm="musulmanis"><i>musulma</i><par n="dā/nis__n_m"/></e>
     <e lm="mute"><i>mut</i><par n="mut/e__n_f"/></e>
     <e lm="muzejs"><i>muzej</i><par n="tip/s__n_m"/></e>
@@ -15433,6 +15496,8 @@
     <e lm="tuvums"><i>tuvum</i><par n="tip/s__n_m"/></e>
     <e lm="tvaiks"><i>tvaik</i><par n="tip/s__n_m"/></e>
     <e lm="ūdeņradis"><i>ūdeņra</i><par n="brī/dis__n_m"/></e>
+    <e lm="papēdis"><i>papē</i><par n="brī/dis__n_m"/></e>
+    <e lm="pulkvedis"><i>pulkve</i><par n="brī/dis__n_m"/></e>
     <e lm="ūdens"><i>ūde</i><par n="ūde/ns__n_m"/></e>
     <e lm="uguns"><i>ugu</i><par n="ugu/ns__n_f"/></e>
     <e lm="ungārs"><i>ungār</i><par n="vīr/s__n"/></e>
