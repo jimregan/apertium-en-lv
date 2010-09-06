@@ -21,7 +21,6 @@
     <e><p><l>boulevard<s n="n"/></l><r>bulvāris<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>bottle<s n="n"/></l><r>pudele<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>buffet<s n="n"/></l><r>bufete<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>bull<s n="n"/></l><r>bullis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>introduction<s n="n"/></l><r>ievads<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>widow<s n="n"/></l><r>atraitne<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>bucket<s n="n"/></l><r>spainis<s n="n"/><s n="GD"/></r></p></e>
@@ -43,17 +42,12 @@
     <e><p><l>return<s n="n"/></l><r>atdošana<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>will<s n="n"/></l><r>griba<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>imagination<s n="n"/></l><r>iztēle<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>thief<s n="n"/></l><r>zaglis<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>sparrow<s n="n"/></l><r>zvirbulis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>collar<s n="n"/></l><r>apkakle<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>resurrection<s n="n"/></l><r>augšāmcelšanās<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>inflammation<s n="n"/></l><r>iekaisums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>admiration<s n="n"/></l><r>apbrīna<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>universe<s n="n"/></l><r>universs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>meeting<s n="n"/></l><r>tikšanās<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>election<s n="n"/></l><r>vēlēšanas<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>conclusion<s n="n"/></l><r>secinājums<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>call<s n="n"/></l><r>izsaukums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>shot<s n="n"/></l><r>šāviens<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>tie<s n="n"/></l><r>kaklasaite<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>garage<s n="n"/></l><r>garāža<s n="n"/><s n="GD"/></r></p></e>
@@ -63,7 +57,6 @@
     <e><p><l>gnome<s n="n"/></l><r>rūķis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>horizon<s n="n"/></l><r>horizonts<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>pot<s n="n"/></l><r>pods<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>hospital<s n="n"/></l><r>hospitālis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>hotel<s n="n"/></l><r>viesnīca<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>grenade<s n="n"/></l><r>granāta<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>sin<s n="n"/></l><r>grēks<s n="n"/><s n="GD"/></r></p></e>
@@ -75,7 +68,6 @@
     <e><p><l>reality<s n="n"/></l><r>īstenība<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>decade<s n="n"/></l><r>desmitgade<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>sofa<s n="n"/></l><r>dīvāns<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>diploma<s n="n"/></l><r>diploms<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>diplomat<s n="n"/></l><r>diplomāts<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>diary<s n="n"/></l><r>dienasgrāmata<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>bottom<s n="n"/></l><r>dibens<s n="n"/><s n="GD"/></r></p></e>
@@ -83,10 +75,8 @@
     <e><p><l>rain<s n="n"/></l><r>lietus<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>dose<s n="n"/></l><r>deva<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>dock<s n="n"/></l><r>doks<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>proof<s n="n"/></l><r>pierādījums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>doctor<s n="n"/></l><r>dakteris<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>debt<s n="n"/></l><r>parāds<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>board<s n="n"/></l><r>dēlis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>access<s n="n"/></l><r>piekļūšana<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>daughter<s n="n"/></l><r>meitiņa<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>dragon<s n="n"/></l><r>drakons<s n="n"/><s n="GD"/></r></p></e>
@@ -96,7 +86,6 @@
     <e><p><l>uncle<s n="n"/></l><r>tēvocis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>thirst<s n="n"/></l><r>slāpes<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>complaint<s n="n"/></l><r>sūdzība<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>heat<s n="n"/></l><r>karstums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>gesture<s n="n"/></l><r>žests<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>painting<s n="n"/></l><r>glezniecība<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>fat<s n="n"/></l><r>tauki<s n="n"/><s n="GD"/></r></p></e>
@@ -105,10 +94,8 @@
     <e><p><l>sunset<s n="n"/></l><r>riets<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>prisoner<s n="n"/></l><r>cietumnieks<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>note<s n="n"/></l><r>piezīme<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>remark<s n="n"/></l><r>aizrādījums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>hare<s n="n"/></l><r>zaķis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>beast<s n="n"/></l><r>zvērs<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>mirror<s n="n"/></l><r>spogulis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>grain<s n="n"/></l><r>grauds<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>snake<s n="n"/></l><r>čūska<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>gold<s n="n"/></l><r>zelts<s n="n"/><s n="GD"/></r></p></e>
@@ -118,13 +105,10 @@
     <e><p><l>foreigner<s n="n"/></l><r>ārzemnieks<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>instinct<s n="n"/></l><r>instinkts<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>intelligentsia<s n="n"/></l><r>inteliģence<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>interview<s n="n"/></l><r>intervija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>fright<s n="n"/></l><r>izbailes<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>heel<s n="n"/></l><r>papēdis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>capital<s n="n"/></l><r>kapitāls<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>capitalism<s n="n"/></l><r>kapitālisms<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>cabbage<s n="n"/></l><r>kāposts<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>pencil<s n="n"/></l><r>zīmulis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>pocket<s n="n"/></l><r>kabata<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>card<s n="n"/></l><r>kartīte<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>catastrophe<s n="n"/></l><r>katastrofa<s n="n"/><s n="GD"/></r></p></e>
@@ -132,18 +116,14 @@
     <e><p><l>cafe<s n="n"/></l><r>kafejnīca<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>porridge<s n="n"/></l><r>putra<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>quarter<s n="n"/></l><r>kvartāls<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>kilogram<s n="n"/></l><r>kilograms<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>cinema<s n="n"/></l><r>kino<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>button<s n="n"/></l><r>spiedpoga<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>carpet<s n="n"/></l><r>paklājs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>code<s n="n"/></l><r>kodekss<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>goat<s n="n"/></l><r>kaza<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>sausage<s n="n"/></l><r>desa<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>knee<s n="n"/></l><r>celis<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>collection<s n="n"/></l><r>kolekcija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>command<s n="n"/></l><r>komandēšana<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>commandant<s n="n"/></l><r>komandants<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>communism<s n="n"/></l><r>komunisms<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>communist<s n="n"/></l><r>komunists<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>complex<s n="n"/></l><r>komplekss<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>contact<s n="n"/></l><r>kontakts<s n="n"/><s n="GD"/></r></p></e>
@@ -152,10 +132,8 @@
     <e><p><l>box<s n="n"/></l><r>kastīte<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>cow<s n="n"/></l><r>govs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>correspondent<s n="n"/></l><r>korespondents<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>suit<s n="n"/></l><r>kostīms<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>cat<s n="n"/></l><r>kaķis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>faucet<s n="n"/></l><r>krāns<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>beauty<s n="n"/></l><r>skaistums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>credit<s n="n"/></l><r>kredīts<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>bed<s n="n"/></l><r>gulta<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>rabbit<s n="n"/></l><r>trusis<s n="n"/><s n="GD"/></r></p></e>
@@ -172,7 +150,6 @@
     <e><p><l>lung<s n="n"/></l><r>plauša<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>lieutenant<s n="n"/></l><r>leitnants<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>medicine<s n="n"/></l><r>zāles<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>foliage<s n="n"/></l><r>lapojums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>elevator<s n="n"/></l><r>lifts<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>forehead<s n="n"/></l><r>piere<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>spoon<s n="n"/></l><r>karote<s n="n"/><s n="GD"/></r></p></e>
@@ -193,14 +170,11 @@
     <e><p><l>sailor<s n="n"/></l><r>matrozis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>match<s n="n"/></l><r>mačs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>furniture<s n="n"/></l><r>mēbele<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>measure<s n="n"/></l><r>pasākums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>subway<s n="n"/></l><r>metro<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>dream<s n="n"/></l><r>sapnis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>militiaman<s n="n"/></l><r>milicis<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>militia<s n="n"/></l><r>milicija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>million<s n="n"/></l><r>miljons<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>mine<s n="n"/></l><r>mīna<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>minimum<s n="n"/></l><r>minimums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>minute<s n="n"/></l><r>minūte<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>bowl<s n="n"/></l><r>bļoda<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>fashion<s n="n"/></l><r>mode<s n="n"/><s n="GD"/></r></p></e>
@@ -216,14 +190,11 @@
     <e><p><l>fly<s n="n"/></l><r>muša<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>embankment<s n="n"/></l><r>krastmala<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>drink<s n="n"/></l><r>dzēriens<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>mood<s n="n"/></l><r>garastāvoklis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>nationality<s n="n"/></l><r>nacionalitāte<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>began<s n="n"/></l><r>sāka<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>neurosis<s n="n"/></l><r>neiroze<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>negro<s n="n"/></l><r>nēģeris<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>tenderness<s n="n"/></l><r>maigums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>stranger<s n="n"/></l><r>svešinieks<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>surprise<s n="n"/></l><r>pārsteigums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>trouble<s n="n"/></l><r>nepatikšanas<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>failure<s n="n"/></l><r>neveiksme<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>knife<s n="n"/></l><r>nazis<s n="n"/><s n="GD"/></r></p></e>
@@ -231,14 +202,10 @@
     <e><p><l>nomenclature<s n="n"/></l><r>nomenklatūra<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>prosecution<s n="n"/></l><r>apsūdzēšana<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>dinner<s n="n"/></l><r>pusdienas<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>promise<s n="n"/></l><r>solījums<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>offense<s n="n"/></l><r>aizvainojums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>look<s n="n"/></l><r>veidols<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>defensive<s n="n"/></l><r>aizsargāšanās<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>equipment<s n="n"/></l><r>aprīkojums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>discussion<s n="n"/></l><r>apspriešana<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>announcement<s n="n"/></l><r>izsludināšana<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>explanation<s n="n"/></l><r>paskaidrojums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>embrace<s n="n"/></l><r>apskāviens<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>sheep<s n="n"/></l><r>aita<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>cucumber<s n="n"/></l><r>gurķis<s n="n"/><s n="GD"/></r></p></e>
@@ -249,10 +216,7 @@
     <e><p><l>orchestra<s n="n"/></l><r>orķestris<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>other<s n="n"/></l><r>pārējs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>stop<s n="n"/></l><r>apstādinašana<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>hotel<s n="n"/></l><r>hotelis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>difference<s n="n"/></l><r>atšķirība<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>vacation<s n="n"/></l><r>atvaļinājums<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>reflection<s n="n"/></l><r>atspoguļojums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>absence<s n="n"/></l><r>neesamība<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>report<s n="n"/></l><r>atskaite<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>departure<s n="n"/></l><r>aizbraukšana<s n="n"/><s n="GD"/></r></p></e>
@@ -267,7 +231,6 @@
     <e><p><l>finger<s n="n"/></l><r>pirksts<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>stick<s n="n"/></l><r>nūja<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>deck<s n="n"/></l><r>klājs<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>monument<s n="n"/></l><r>piemineklis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>panic<s n="n"/></l><r>panika<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>cigarette<s n="n"/></l><r>papiross<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>folder<s n="n"/></l><r>mape<s n="n"/><s n="GD"/></r></p></e>
@@ -278,7 +241,6 @@
     <e><p><l>passenger<s n="n"/></l><r>pasažieris<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>patient<s n="n"/></l><r>pacients<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>landscape<s n="n"/></l><r>ainava<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>pension<s n="n"/></l><r>pensija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>ash<s n="n"/></l><r>pelni<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>transmission<s n="n"/></l><r>pārraide<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>transition<s n="n"/></l><r>pāreja<s n="n"/><s n="GD"/></r></p></e>
@@ -287,7 +249,6 @@
     <e><p><l>glove<s n="n"/></l><r>cimds<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>dog<s n="n"/></l><r>suns<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>ditty<s n="n"/></l><r>dziesmiņa<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>canto<s n="n"/></l><r>dziedājums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>song<s n="n"/></l><r>dziesma<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>sand<s n="n"/></l><r>smilts<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>sorrow<s n="n"/></l><r>skumjas<s n="n"/><s n="GD"/></r></p></e>
@@ -321,17 +282,10 @@
     <e><p><l>approach<s n="n"/></l><r>pieeja<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>train<s n="n"/></l><r>vilciens<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>fire<s n="n"/></l><r>ugunsgrēks<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>search<s n="n"/></l><r>meklējums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>generation<s n="n"/></l><r>paaudze<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>purchase<s n="n"/></l><r>pirkums<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>flight<s n="n"/></l><r>lidojums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>politician<s n="n"/></l><r>politiķis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>policy<s n="n"/></l><r>politika<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>police<s n="n"/></l><r>policija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>colonel<s n="n"/></l><r>pulkvedis<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>cavity<s n="n"/></l><r>dobums<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>towel<s n="n"/></l><r>dvielis<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>benefit<s n="n"/></l><r>labums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>help<s n="n"/></l><r>palīdzība<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>Monday<s n="n"/></l><r>pirmdiena<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>understanding<s n="n"/></l><r>sapratne<s n="n"/><s n="GD"/></r></p></e>
@@ -340,15 +294,12 @@
     <e><p><l>powder<s n="n"/></l><r>pulveris<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>port<s n="n"/></l><r>osta<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>portrait<s n="n"/></l><r>ģīmetne<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>portion<s n="n"/></l><r>porcija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>order<s n="n"/></l><r>kārtība<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>visitor<s n="n"/></l><r>apmeklētājs<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>visit<s n="n"/></l><r>apciemojums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>ambassador<s n="n"/></l><r>vēstnieks<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>embassy<s n="n"/></l><r>vēstniecība<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>bed<s n="n"/></l><r>gulta<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>sweat<s n="n"/></l><r>sviedri<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>loss<s n="n"/></l><r>zaudējums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>stream<s n="n"/></l><r>straume<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>gait<s n="n"/></l><r>gaita<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>kiss<s n="n"/></l><r>skūpsts<s n="n"/><s n="GD"/></r></p></e>
@@ -363,16 +314,12 @@
     <e><p><l>object<s n="n"/></l><r>priekšmets<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>ancestor<s n="n"/></l><r>sencis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>president<s n="n"/></l><r>prezidents<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>contempt<s n="n"/></l><r>nicinājums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>advantage<s n="n"/></l><r>priekšrocība<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>premier<s n="n"/></l><r>premjers<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>premiere<s n="n"/></l><r>pirmizrāde<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>preparation<s n="n"/></l><r>preparāts<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>press<s n="n"/></l><r>prese<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>crime<s n="n"/></l><r>noziegums<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>habit<s n="n"/></l><r>pieradums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>ghost<s n="n"/></l><r>rēgs<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>adventure<s n="n"/></l><r>piedzīvojums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>example<s n="n"/></l><r>piemērs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>prince<s n="n"/></l><r>princis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>princess<s n="n"/></l><r>princese<s n="n"/><s n="GD"/></r></p></e>
@@ -395,16 +342,11 @@
     <e><p><l>work<s n="n"/></l><r>darbs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>production<s n="n"/></l><r>ražošana<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>origin<s n="n"/></l><r>izcelsme<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>incident<s n="n"/></l><r>atgadījums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>propaganda<s n="n"/></l><r>propaganda<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>space<s n="n"/></l><r>izplatījums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>sheet<s n="n"/></l><r>palags<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>request<s n="n"/></l><r>lūgums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>protest<s n="n"/></l><r>protests<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>opponent<s n="n"/></l><r>pretinieks<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>protocol<s n="n"/></l><r>protokols<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>professional<s n="n"/></l><r>profesionālis<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>profession<s n="n"/></l><r>profesija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>professor<s n="n"/></l><r>profesors<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>procedure<s n="n"/></l><r>procedūra<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>percent<s n="n"/></l><r>procents<s n="n"/><s n="GD"/></r></p></e>
@@ -412,23 +354,17 @@
     <e><p><l>forgiveness<s n="n"/></l><r>piedošana<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>pond<s n="n"/></l><r>dīķis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>bird<s n="n"/></l><r>putns<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>publication<s n="n"/></l><r>publicējums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>button<s n="n"/></l><r>poga<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>bubble<s n="n"/></l><r>burbulis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>point<s n="n"/></l><r>punkts<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>emptiness<s n="n"/></l><r>tukšums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>desert<s n="n"/></l><r>tuksnesis<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>trip<s n="n"/></l><r>ceļojums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>way<s n="n"/></l><r>ceļš<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>dust<s n="n"/></l><r>putekļi<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>Friday<s n="n"/></l><r>piektdiena<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>spot<s n="n"/></l><r>plankums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>work<s n="n"/></l><r>darbs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>radio<s n="n"/></l><r>radio<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>robber<s n="n"/></l><r>laupītājs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>development<s n="n"/></l><r>attīstība<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>divorce<s n="n"/></l><r>šķiršanās<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>irritation<s n="n"/></l><r>aizkaitinājums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>size<s n="n"/></l><r>izmērs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>difference<s n="n"/></l><r>starpība<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>paradise<s n="n"/></l><r>paradīze<s n="n"/><s n="GD"/></r></p></e>
@@ -437,32 +373,22 @@
     <e><p><l>frame<s n="n"/></l><r>rāmis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>distribution<s n="n"/></l><r>izplatīšana<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>investigation<s n="n"/></l><r>izmeklēšana<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>distance<s n="n"/></l><r>attālums<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>disorder<s n="n"/></l><r>traucējums<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>solution<s n="n"/></l><r>šķīdums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>calculation<s n="n"/></l><r>aprēķins<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>reaction<s n="n"/></l><r>reakcija<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>realization<s n="n"/></l><r>realizācija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>reality<s n="n"/></l><r>realitāte<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>child<s n="n"/></l><r>bērns<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>revolution<s n="n"/></l><r>revolūcija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>region<s n="n"/></l><r>reģions<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>editor<s n="n"/></l><r>redaktors<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>mode<s n="n"/></l><r>režīms<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>result<s n="n"/></l><r>rezultāts<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>river<s n="n"/></l><r>upe<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>religion<s n="n"/></l><r>reliģija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>repair<s n="n"/></l><r>remonts<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>republic<s n="n"/></l><r>republika<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>restaurant<s n="n"/></l><r>restorāns<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>resource<s n="n"/></l><r>resurss<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>reform<s n="n"/></l><r>reforma<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>speech<s n="n"/></l><r>runa<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>decision<s n="n"/></l><r>lēmums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>rice<s n="n"/></l><r>rīsi<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>risk<s n="n"/></l><r>risks<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>picture<s n="n"/></l><r>attēls<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>rhythm<s n="n"/></l><r>ritms<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>birth<s n="n"/></l><r>dzimšana<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>role<s n="n"/></l><r>loma<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>growth<s n="n"/></l><r>augšana<s n="n"/><s n="GD"/></r></p></e>
@@ -501,37 +427,26 @@
     <e><p><l>September<s n="n"/></l><r>septembris<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>heart<s n="n"/></l><r>sirds<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>silver<s n="n"/></l><r>sudrabs<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>series<s n="n"/></l><r>sērija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>sister<s n="n"/></l><r>māsa<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>network<s n="n"/></l><r>tīkls<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>cigarette<s n="n"/></l><r>cigarete<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>signal<s n="n"/></l><r>signāls<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>seat<s n="n"/></l><r>sēdeklis<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>symptom<s n="n"/></l><r>simptoms<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>system<s n="n"/></l><r>sistēma<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>situation<s n="n"/></l><r>situācija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>bench<s n="n"/></l><r>sols<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>scandal<s n="n"/></l><r>skandāls<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>speed<s n="n"/></l><r>ātrums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>investigation<s n="n"/></l><r>izmeklēšana<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>tear<s n="n"/></l><r>asara<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>elephant<s n="n"/></l><r>zilonis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>service<s n="n"/></l><r>dienests<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>case<s n="n"/></l><r>gadījums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>death<s n="n"/></l><r>nāve<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>mixture<s n="n"/></l><r>maisījums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>sense<s n="n"/></l><r>jēga<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>snow<s n="n"/></l><r>sniegs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>dog<s n="n"/></l><r>suns<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>interlocutor<s n="n"/></l><r>sarunbiedrs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>cathedral<s n="n"/></l><r>katedrāle<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>collection<s n="n"/></l><r>krājums<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>event<s n="n"/></l><r>notikums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>conscience<s n="n"/></l><r>sirdsapziņa<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>adviser<s n="n"/></l><r>padomdevējs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>consent<s n="n"/></l><r>piekrišana<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>agreement<s n="n"/></l><r>nolīgums<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>connection<s n="n"/></l><r>savienojums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>creation<s n="n"/></l><r>radīšana<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>consciousness<s n="n"/></l><r>samaņa<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>juice<s n="n"/></l><r>sula<s n="n"/><s n="GD"/></r></p></e>
@@ -541,9 +456,7 @@
     <e><p><l>doubt<s n="n"/></l><r>šaubas<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>sleep<s n="n"/></l><r>miegs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>composition<s n="n"/></l><r>sastāvs<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>state<s n="n"/></l><r>stāvoklis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>hundred<s n="n"/></l><r>simts<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>socialism<s n="n"/></l><r>sociālisms<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>ally<s n="n"/></l><r>sabiedrotais<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>bedroom<s n="n"/></l><r>guļamistaba<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>thank you<s n="n"/></l><r>paldies<s n="n"/><s n="GD"/></r></p></e>
@@ -554,12 +467,9 @@
     <e><p><l>list<s n="n"/></l><r>saraksts<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>match<s n="n"/></l><r>sērkociņš<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>ability<s n="n"/></l><r>spēja<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>justice<s n="n"/></l><r>taisnīgums<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>comparison<s n="n"/></l><r>salīdzinājums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>environment<s n="n"/></l><r>vide<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>rate<s n="n"/></l><r>likme<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>herd<s n="n"/></l><r>ganāmpulks<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>station<s n="n"/></l><r>stacija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>old man<s n="n"/></l><r>sirmgalvis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>status<s n="n"/></l><r>statuss<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>article<s n="n"/></l><r>pants<s n="n"/><s n="GD"/></r></p></e>
@@ -567,7 +477,6 @@
     <e><p><l>wall<s n="n"/></l><r>sieniņa<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>steppe<s n="n"/></l><r>stepe<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>style<s n="n"/></l><r>stils<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>poem<s n="n"/></l><r>dzejolis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>table<s n="n"/></l><r>galds<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>century<s n="n"/></l><r>gadsimts<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>capital<s n="n"/></l><r>galvaspilsēta<s n="n"/><s n="GD"/></r></p></e>
@@ -599,7 +508,6 @@
     <e><p><l>sir<s n="n"/></l><r>sers<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>tobacco<s n="n"/></l><r>tabaka<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>table<s n="n"/></l><r>tabula<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>stool<s n="n"/></l><r>ķeblis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>taiga<s n="n"/></l><r>taiga<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>talent<s n="n"/></l><r>talants<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>dance<s n="n"/></l><r>deja<s n="n"/><s n="GD"/></r></p></e>
@@ -609,20 +517,15 @@
     <e><p><l>telephone<s n="n"/></l><r>telefons<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>body<s n="n"/></l><r>ķermenis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>temperature<s n="n"/></l><r>temperatūra<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>theory<s n="n"/></l><r>teorija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>term<s n="n"/></l><r>termins<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>patience<s n="n"/></l><r>pacietība<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>territory<s n="n"/></l><r>teritorija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>aunt<s n="n"/></l><r>tante<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>notebook<s n="n"/></l><r>burtnīca<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>aunt<s n="n"/></l><r>tante<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>technician<s n="n"/></l><r>tehniķis<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>technology<s n="n"/></l><r>tehnoloģija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>tiger<s n="n"/></l><r>tīģeris<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>type<s n="n"/></l><r>tips<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>current<s n="n"/></l><r>strāva<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>crowd<s n="n"/></l><r>pūlis<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>volume<s n="n"/></l><r>sējums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>tone<s n="n"/></l><r>tonis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>fuel<s n="n"/></l><r>kurināmais<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>ax<s n="n"/></l><r>cirvis<s n="n"/><s n="GD"/></r></p></e>
@@ -630,8 +533,6 @@
     <e><p><l>trade<s n="n"/></l><r>tirdzniecība<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>point<s n="n"/></l><r>punkts<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>trauma<s n="n"/></l><r>trauma<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>tragedy<s n="n"/></l><r>traģēdija<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>tradition<s n="n"/></l><r>tradīcija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>tractor<s n="n"/></l><r>traktors<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>transport<s n="n"/></l><r>transports<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>trench<s n="n"/></l><r>tranšeja<s n="n"/><s n="GD"/></r></p></e>
@@ -643,10 +544,8 @@
     <e><p><l>cloud<s n="n"/></l><r>mākonis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>rear<s n="n"/></l><r>aizmugure<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>darkness<s n="n"/></l><r>tumsa<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>prison<s n="n"/></l><r>cietums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>persuasion<s n="n"/></l><r>pārliecināšana<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>murder<s n="n"/></l><r>slepkavība<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>increase<s n="n"/></l><r>palielinājums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>threat<s n="n"/></l><r>draudi<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>boa<s n="n"/></l><r>žņaudzējčūska<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>success<s n="n"/></l><r>veiksme<s n="n"/><s n="GD"/></r></p></e>
@@ -660,11 +559,8 @@
     <e><p><l>university<s n="n"/></l><r>universitāte<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>level<s n="n"/></l><r>līmenis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>effort<s n="n"/></l><r>piepūle<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>condition<s n="n"/></l><r>nosacījums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>success<s n="n"/></l><r>panākumi<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>fatigue<s n="n"/></l><r>nogurums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>device<s n="n"/></l><r>ierīce<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>assertion<s n="n"/></l><r>apgalvojums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>morning<s n="n"/></l><r>rīts<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>ear<s n="n"/></l><r>auss<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>participation<s n="n"/></l><r>piedalīšanās<s n="n"/><s n="GD"/></r></p></e>
@@ -679,14 +575,10 @@
     <e><p><l>factor<s n="n"/></l><r>faktors<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>faculty<s n="n"/></l><r>fakultāte<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>last name<s n="n"/></l><r>uzvārds<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>fantasy<s n="n"/></l><r>fantāzija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>February<s n="n"/></l><r>februāris<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>federation<s n="n"/></l><r>federācija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>figure<s n="n"/></l><r>figūra<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>physics<s n="n"/></l><r>fizika<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>physiognomy<s n="n"/></l><r>fizionomija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>philosopher<s n="n"/></l><r>filozofs<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>philosophy<s n="n"/></l><r>filozofija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>flag<s n="n"/></l><r>karogs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>focus<s n="n"/></l><r>fokuss<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>background<s n="n"/></l><r>fons<s n="n"/><s n="GD"/></r></p></e>
@@ -695,13 +587,11 @@
     <e><p><l>phrase<s n="n"/></l><r>frāze<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>frenchman<s n="n"/></l><r>francūzis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>front<s n="n"/></l><r>fronte<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>function<s n="n"/></l><r>funkcija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>surgeon<s n="n"/></l><r>ķirurgs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>bread<s n="n"/></l><r>maize<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>hostess<s n="n"/></l><r>saimniece<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>hall<s n="n"/></l><r>halle<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>hill<s n="n"/></l><r>pakalns<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>cold<s n="n"/></l><r>aukstums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>choir<s n="n"/></l><r>koris<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>color<s n="n"/></l><r>krāsa<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>flower<s n="n"/></l><r>puķe<s n="n"/><s n="GD"/></r></p></e>
@@ -710,7 +600,6 @@
     <e><p><l>chain<s n="n"/></l><r>ķēde<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>church<s n="n"/></l><r>baznīca<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>workshop<s n="n"/></l><r>cehs<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>civilization<s n="n"/></l><r>civilizācija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>circus<s n="n"/></l><r>cirks<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>tea<s n="n"/></l><r>tēja<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>hour<s n="n"/></l><r>stunda<s n="n"/><s n="GD"/></r></p></e>
@@ -723,10 +612,7 @@
     <e><p><l>Chechen<s n="n"/></l><r>čečens<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>rank<s n="n"/></l><r>dienesta pakāpe<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>reader<s n="n"/></l><r>lasītājs<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>member<s n="n"/></l><r>loceklis<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>reading<s n="n"/></l><r>lasījums<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>monster<s n="n"/></l><r>briesmonis<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>step<s n="n"/></l><r>solis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>whisper<s n="n"/></l><r>čuksti<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>chief<s n="n"/></l><r>šefs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>neck<s n="n"/></l><r>kakls<s n="n"/><s n="GD"/></r></p></e>
@@ -743,12 +629,9 @@
     <e><p><l>puppy<s n="n"/></l><r>kucēns<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>economy<s n="n"/></l><r>ekonomika<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>screen<s n="n"/></l><r>ekrāns<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>expedition<s n="n"/></l><r>ekspedīcija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>experiment<s n="n"/></l><r>eksperiments<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>expert<s n="n"/></l><r>eksperts<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>element<s n="n"/></l><r>elements<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>emotion<s n="n"/></l><r>emocija<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>energy<s n="n"/></l><r>enerģija<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>episode<s n="n"/></l><r>epizode<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>floor<s n="n"/></l><r>stāvs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>stage<s n="n"/></l><r>etaps<s n="n"/><s n="GD"/></r></p></e>
