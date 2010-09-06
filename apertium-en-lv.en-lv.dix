@@ -267,6 +267,9 @@
     <e><p><l>European<b/>Union<s n="np"/><s n="top"/></l><r>Eiropas<b/>Savienība<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Union<b/>of<b/>Soviet<b/>Socialist<b/>Republics<s n="np"/><s n="top"/></l><r>Padomju<b/>Sociālistisko<b/>Republiku<b/>Savienība<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <!-- nouns -->
+    <e><p><l>mayor<s n="n"/></l><r>mērs<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>offensive<s n="n"/></l><r>ofensīva<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>offensive<s n="adj"/></l><r>ofensīva<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>owner<s n="n"/></l><r>īpašnieks<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>war<s n="n"/></l><r>karš<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>knowledge<s n="n"/></l><r>zināšana<s n="n"/><s n="f"/></r></p></e>
@@ -278,6 +281,7 @@
     <e><p><l>source<s n="n"/></l><r>avots<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>conflict<s n="n"/></l><r>konflikts<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>concert<s n="n"/></l><r>koncerts<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>red<s n="adj"/></l><r>sarkans<s n="adj"/></r></p></e>
     <e><p><l>impression<s n="n"/></l><r>iespaids<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Afrikaans<s n="n"/></l><r>Afrikandu<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bison<s n="n"/></l><r>bizons<s n="n"/><s n="m"/></r></p></e>

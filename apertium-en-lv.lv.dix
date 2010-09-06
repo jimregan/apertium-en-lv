@@ -13894,6 +13894,7 @@
     <e lm="tirgus"><i>tirg</i><par n="tirg/us__n"/></e>
     <e lm="alus"><i>al</i><par n="tirg/us__n"/></e>
     <e lm="sieva"><i>siev</i><par n="siev/a__n"/></e>
+    <e lm="ofensīva"><i>ofensīv</i><par n="siev/a__n"/></e>
     <e lm="planēta"><i>planēt</i><par n="siev/a__n"/></e>
     <e lm="mala"><i>mal</i><par n="siev/a__n"/></e>
     <e lm="policija"><i>policij</i><par n="al/a__n"/></e>
@@ -13905,6 +13906,15 @@
     <e lm="cauna"><i>caun</i><par n="siev/a__n"/></e>
     <e lm="problēma"><i>problēm</i><par n="siev/a__n"/></e>
     <e lm="pārtika"><i>pārtik</i><par n="siev/a__n"/></e>
+    <e lm="intervija"><i>intervij</i><par n="al/a__n"/></e>
+    <e lm="kolekcija"><i>kolekcij</i><par n="al/a__n"/></e>
+    <e lm="milicija"><i>milicij</i><par n="al/a__n"/></e>
+    <e lm="porcija"><i>porcij</i><par n="al/a__n"/></e>
+    <e lm="profesija"><i>profesij</i><par n="al/a__n"/></e>
+    <e lm="realizācija"><i>realizācij</i><par n="al/a__n"/></e>
+    <e lm="fantāzija"><i>fantāzij</i><par n="al/a__n"/></e>
+    <e lm="fizionomija"><i>fizionomij</i><par n="al/a__n"/></e>
+    <e lm="emocija"><i>emocij</i><par n="al/a__n"/></e>
     <e lm="abatija"><i>abatij</i><par n="al/a__n"/></e>
     <e lm="abdukcija"><i>abdukcij</i><par n="al/a__n"/></e>
     <e lm="adaptācija"><i>adaptācij</i><par n="al/a__n"/></e>
@@ -14760,6 +14770,7 @@
     <e lm="kopums"><i>kopum</i><par n="tip/s__n_m"/></e>
     <e lm="kopvērtējums"><i>kopvērtējum</i><par n="tip/s__n_m"/></e>
     <e lm="korallis"><i>kora</i><par n="kora/llis__n_m"/></e>
+    <e lm="bullis"><i>bu</i><par n="kora/llis__n_m"/></e>
     <e lm="korāns"><i>korān</i><par n="tip/s__n_m"/></e>
     <e lm="koris"><i>kor</i><par n="pūķ/is__n_m"/></e>
     <e lm="korporācija"><i>korporācij</i><par n="al/a__n"/></e>
