@@ -14535,6 +14535,22 @@
     <e lm="gadījums"><i>gadījum</i><par n="tip/s__n_m"/></e>
     <e lm="gads"><i>gad</i><par n="tip/s__n_m"/></e>
     <e lm="gadsimts"><i>gadsimt</i><par n="tip/s__n_m"/></e>
+    <e lm="burts"><i>burt</i><par n="tip/s__n"/></e>
+    <e lm="žests"><i>žest</i><par n="tip/s__n"/></e>
+    <e lm="žurnālists"><i>žurnālist</i><par n="tip/s__n"/></e>
+    <e lm="kāposts"><i>kāpost</i><par n="tip/s__n"/></e>
+    <e lm="komunists"><i>komunist</i><par n="tip/s__n"/></e>
+    <e lm="jumts"><i>jumt</i><par n="tip/s__n"/></e>
+    <e lm="rieksts"><i>riekst</i><par n="tip/s__n"/></e>
+    <e lm="pirksts"><i>pirkst</i><par n="tip/s__n"/></e>
+    <e lm="paraksts"><i>parakst</i><par n="tip/s__n"/></e>
+    <e lm="skūpsts"><i>skūpst</i><par n="tip/s__n"/></e>
+    <e lm="protests"><i>protest</i><par n="tip/s__n"/></e>
+    <e lm="rokraksts"><i>rokrakst</i><par n="tip/s__n"/></e>
+    <e lm="simts"><i>simt</i><par n="tip/s__n"/></e>
+    <e lm="speciālists"><i>speciālist</i><par n="tip/s__n"/></e>
+    <e lm="spirts"><i>spirt</i><par n="tip/s__n"/></e>
+    <e lm="eksperts"><i>ekspert</i><par n="tip/s__n"/></e>
     <e lm="gaisma"><i>gaism</i><par n="al/a__n"/></e>
     <e lm="gaiss"><i>gais</i><par n="tip/s__n_m"/></e>
     <e lm="gaita"><i>gait</i><par n="al/a__n"/></e>
