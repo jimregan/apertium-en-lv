@@ -62,7 +62,6 @@
     <e><p><l>sin<s n="n"/></l><r>grēks<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>thunderstorm<s n="n"/></l><r>negaiss<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>thunder<s n="n"/></l><r>pērkons<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>governor<s n="n"/></l><r>gubernators<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>goose<s n="n"/></l><r>zoss<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>lady<s n="n"/></l><r>dāma<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>reality<s n="n"/></l><r>īstenība<s n="n"/><s n="GD"/></r></p></e>
@@ -160,7 +159,6 @@
     <e><p><l>curiosity<s n="n"/></l><r>ziņkārība<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>hatch<s n="n"/></l><r>lūka<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>shop<s n="n"/></l><r>veikals<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>major<s n="n"/></l><r>majors<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>poppy<s n="n"/></l><r>magone<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>marshal<s n="n"/></l><r>maršals<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>route<s n="n"/></l><r>maršruts<s n="n"/><s n="GD"/></r></p></e>
@@ -199,7 +197,6 @@
     <e><p><l>failure<s n="n"/></l><r>neveiksme<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>knife<s n="n"/></l><r>nazis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>nostril<s n="n"/></l><r>nāss<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>nomenclature<s n="n"/></l><r>nomenklatūra<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>prosecution<s n="n"/></l><r>apsūdzēšana<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>dinner<s n="n"/></l><r>pusdienas<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>look<s n="n"/></l><r>veidols<s n="n"/><s n="GD"/></r></p></e>
@@ -231,7 +228,6 @@
     <e><p><l>finger<s n="n"/></l><r>pirksts<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>stick<s n="n"/></l><r>nūja<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>deck<s n="n"/></l><r>klājs<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>panic<s n="n"/></l><r>panika<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>cigarette<s n="n"/></l><r>papiross<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>folder<s n="n"/></l><r>mape<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>park<s n="n"/></l><r>parks<s n="n"/><s n="GD"/></r></p></e>
@@ -284,7 +280,6 @@
     <e><p><l>fire<s n="n"/></l><r>ugunsgrēks<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>generation<s n="n"/></l><r>paaudze<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>politician<s n="n"/></l><r>politiķis<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>policy<s n="n"/></l><r>politika<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>colonel<s n="n"/></l><r>pulkvedis<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>help<s n="n"/></l><r>palīdzība<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>Monday<s n="n"/></l><r>pirmdiena<s n="n"/><s n="GD"/></r></p></e>
@@ -347,8 +342,6 @@
     <e><p><l>protest<s n="n"/></l><r>protests<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>opponent<s n="n"/></l><r>pretinieks<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>protocol<s n="n"/></l><r>protokols<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>professor<s n="n"/></l><r>profesors<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>procedure<s n="n"/></l><r>procedūra<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>percent<s n="n"/></l><r>procents<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>process<s n="n"/></l><r>process<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>forgiveness<s n="n"/></l><r>piedošana<s n="n"/><s n="GD"/></r></p></e>
@@ -377,11 +370,9 @@
     <e><p><l>reality<s n="n"/></l><r>realitāte<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>child<s n="n"/></l><r>bērns<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>region<s n="n"/></l><r>reģions<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>editor<s n="n"/></l><r>redaktors<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>result<s n="n"/></l><r>rezultāts<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>river<s n="n"/></l><r>upe<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>repair<s n="n"/></l><r>remonts<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>republic<s n="n"/></l><r>republika<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>restaurant<s n="n"/></l><r>restorāns<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>resource<s n="n"/></l><r>resurss<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>reform<s n="n"/></l><r>reforma<s n="n"/><s n="GD"/></r></p></e>
@@ -418,7 +409,6 @@
     <e><p><l>priest<s n="n"/></l><r>garīdznieks<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>north<s n="n"/></l><r>ziemeļi<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>season<s n="n"/></l><r>sezona<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>sector<s n="n"/></l><r>sektors<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>second<s n="n"/></l><r>sekunde<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>family<s n="n"/></l><r>dzimta<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>family<s n="n"/></l><r>ģimene<s n="n"/><s n="GD"/></r></p></e>
@@ -516,7 +506,6 @@
     <e><p><l>telegram<s n="n"/></l><r>telegramma<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>telephone<s n="n"/></l><r>telefons<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>body<s n="n"/></l><r>ķermenis<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>temperature<s n="n"/></l><r>temperatūra<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>term<s n="n"/></l><r>termins<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>patience<s n="n"/></l><r>pacietība<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>aunt<s n="n"/></l><r>tante<s n="n"/><s n="GD"/></r></p></e>
@@ -533,7 +522,6 @@
     <e><p><l>trade<s n="n"/></l><r>tirdzniecība<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>point<s n="n"/></l><r>punkts<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>trauma<s n="n"/></l><r>trauma<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>tractor<s n="n"/></l><r>traktors<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>transport<s n="n"/></l><r>transports<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>trench<s n="n"/></l><r>tranšeja<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>tribune<s n="n"/></l><r>tribīne<s n="n"/><s n="GD"/></r></p></e>
@@ -569,15 +557,11 @@
     <e><p><l>school<s n="n"/></l><r>skola<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>teacher<s n="n"/></l><r>skolotājs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>teacher<s n="n"/></l><r>skolotāja<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>factory<s n="n"/></l><r>fabrika<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>file<s n="n"/></l><r>fails<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>fact<s n="n"/></l><r>fakts<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>factor<s n="n"/></l><r>faktors<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>faculty<s n="n"/></l><r>fakultāte<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>last name<s n="n"/></l><r>uzvārds<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>February<s n="n"/></l><r>februāris<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>figure<s n="n"/></l><r>figūra<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>physics<s n="n"/></l><r>fizika<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>philosopher<s n="n"/></l><r>filozofs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>flag<s n="n"/></l><r>karogs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>focus<s n="n"/></l><r>fokuss<s n="n"/><s n="GD"/></r></p></e>
@@ -627,7 +611,6 @@
     <e><p><l>joke<s n="n"/></l><r>joks<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>cheek<s n="n"/></l><r>vaigs<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>puppy<s n="n"/></l><r>kucēns<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>economy<s n="n"/></l><r>ekonomika<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>screen<s n="n"/></l><r>ekrāns<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>experiment<s n="n"/></l><r>eksperiments<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>expert<s n="n"/></l><r>eksperts<s n="n"/><s n="GD"/></r></p></e>
