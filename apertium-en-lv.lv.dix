@@ -33,7 +33,7 @@
     <sdef n="vbser"/>
     <sdef n="vblex"/>
     <sdef n="vbmod"/>
-    <sdef n="pri"     c="Tagadne"/>
+    <sdef n="pres"     c="Tagadne"/>
     <sdef n="past"     c="Pagātne"/>
     <sdef n="fut"      c="Nākotne"/>
     <sdef n="p1"/>
@@ -67,6 +67,7 @@
     <sdef n="comp"/>
     <sdef n="subst"/>
     <sdef n="def"/>
+    <sdef n="ind" c="Indirect"/>
   </sdefs>
   
   <pardefs>
@@ -2692,31 +2693,31 @@
       <e>
         <p>
           <l>odu</l>
-          <r>ast<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+          <r>ast<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>odam</l>
-          <r>ast<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+          <r>ast<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>odi</l>
-          <r>ast<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+          <r>ast<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>odat</l>
-          <r>ast<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+          <r>ast<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>od</l>
-          <r>ast<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
+          <r>ast<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sp"/></r>
         </p>
       </e>
       <e i="yes" c="No idea what this is :/">
@@ -2735,6 +2736,18 @@
         <p>
           <l>azdamās</l>
           <r>ast<s n="vblex"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>odot</l>
+          <r>ast<s n="vblex"/><s n="pprs"/><s n="act"/><s n="adv"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>odam</l>
+          <r>ast<s n="vblex"/><s n="pprs"/><s n="ind"/></r>
         </p>
       </e>
 
@@ -12588,31 +12601,31 @@
       <e>
         <p>
           <l>esmu</l>
-          <r>būt<s n="vbser"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+          <r>būt<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>esi</l>
-          <r>būt<s n="vbser"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+          <r>būt<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ir</l>
-          <r>būt<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
+          <r>būt<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sp"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>esam</l>
-          <r>būt<s n="vbser"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+          <r>būt<s n="vbser"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>esat</l>
-          <r>būt<s n="vbser"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+          <r>būt<s n="vbser"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <!-- Past -->
@@ -12754,31 +12767,31 @@
       <e>
         <p>
           <l>u</l>
-          <r>ēt<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+          <r>ēt<s n="vbmod"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>am</l>
-          <r>ēt<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+          <r>ēt<s n="vbmod"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>i</l>
-          <r>ēt<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+          <r>ēt<s n="vbmod"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>at</l>
-          <r>ēt<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+          <r>ēt<s n="vbmod"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l></l>
-          <r>ēt<s n="vbmod"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
+          <r>ēt<s n="vbmod"/><s n="pres"/><s n="p3"/><s n="sp"/></r>
         </p>
       </e>
     </pardef>
@@ -12858,31 +12871,31 @@
       <e>
         <p>
           <l>u</l>
-          <r>ēt<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+          <r>ēt<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>am</l>
-          <r>ēt<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+          <r>ēt<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>i</l>
-          <r>ēt<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+          <r>ēt<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>at</l>
-          <r>ēt<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+          <r>ēt<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l></l>
-          <r>ēt<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
+          <r>ēt<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sp"/></r>
         </p>
       </e>
       <e>
@@ -12918,137 +12931,137 @@
         <par n="cēl/is__pp_act"/>
       </e>
     </pardef>
-    <pardef n="t/ik__vblex">
+    <pardef n="t/ikt__vblex">
       <e>
         <p>
           <l>ikšu</l>
-          <r>ik<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+          <r>ikt<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>iksim</l>
-          <r>ik<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+          <r>ikt<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>iksi</l>
-          <r>ik<s n="vblex"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+          <r>ikt<s n="vblex"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>iksiet</l>
-          <r>ik<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+          <r>ikt<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>iksit</l>
-          <r>ik<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+          <r>ikt<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>iks</l>
-          <r>ik<s n="vblex"/><s n="fut"/><s n="p3"/><s n="sp"/></r>
+          <r>ikt<s n="vblex"/><s n="fut"/><s n="p3"/><s n="sp"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ikt</l>
-          <r>ik<s n="vblex"/><s n="inf"/></r>
+          <r>ikt<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>iku</l>
-          <r>ik<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r>
+          <r>ikt<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ikām</l>
-          <r>ik<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r>
+          <r>ikt<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ikt</l>
-          <r>ik<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r>
+          <r>ikt<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ikāt</l>
-          <r>ik<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r>
+          <r>ikt<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ika</l>
-          <r>ik<s n="vblex"/><s n="past"/><s n="p3"/><s n="sp"/></r>
+          <r>ikt<s n="vblex"/><s n="past"/><s n="p3"/><s n="sp"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>īku</l>
-          <r>ik<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+          <r>ikt<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ieku</l>
-          <r>ik<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+          <r>ikt<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>īkam</l>
-          <r>ik<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+          <r>ikt<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>iekam</l>
-          <r>ik<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+          <r>ikt<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>iec</l>
-          <r>ik<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+          <r>ikt<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>īc</l>
-          <r>ik<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+          <r>ikt<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>īkat</l>
-          <r>ik<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+          <r>ikt<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>iekat</l>
-          <r>ik<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+          <r>ikt<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>īk</l>
-          <r>ik<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
+          <r>ikt<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sp"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>iek</l>
-          <r>ik<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
+          <r>ikt<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sp"/></r>
         </p>
       </e>
     </pardef>
@@ -16034,7 +16047,7 @@
     <e lm="Dobele"><i>Dobel</i><par n="Bagdād/e__np"/></e>
 
     <e lm="mīlēt"><par n="ne__pref"/><i>mīl</i><par n="mīl/ēt__vblex"/></e>
-    <e lm="tikt"><par n="ne__pref"/><i>t</i><par n="t/ik__vblex"/></e>
+    <e lm="tikt"><par n="ne__pref"/><i>t</i><par n="t/ikt__vblex"/></e>
     <e lm="varēt"><par n="ne__pref"/><i>var</i><par n="var/ēt__vbmod"/></e>
     
     <e lm="Boeing"><i>Boeing</i><par n="Boeing__np"/></e>
