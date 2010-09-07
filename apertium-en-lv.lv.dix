@@ -8465,102 +8465,120 @@
         </p>
       </e>
     </pardef>
-    <pardef n="mut/e__n_f">
+    <pardef n="BASE__mute">
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
       <e>
         <p>
           <l>es</l>
-          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ei</l>
-          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>i</l>
-          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ē</l>
-          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>i</l>
-          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+          <r><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>e</l>
-          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>es</l>
-          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
+          <r><s n="f"/><s n="sg"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>e</l>
-          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+          <l>es</l>
+          <r><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>u</l>
-          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ēm</l>
-          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+          <r><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>es</l>
-          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ēs</l>
-          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ēm</l>
-          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+          <r><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>es</l>
-          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ēm</l>
-          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
+          <r><s n="f"/><s n="pl"/><s n="abl"/></r>
         </p>
       </e>
+    </pardef>
+    <pardef n="mut/e__n">
       <e>
         <p>
-          <l>es</l>
-          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+          <l></l>
+          <r>e<s n="n"/></r>
         </p>
+        <par n="BASE__mute"/>
+      </e>
+    </pardef>
+    <pardef n="Ines/e__np">
+      <e>
+        <p>
+          <l></l>
+          <r>e<s n="np"/><s n="ant"/></r>
+        </p>
+        <par n="BASE__mute"/>
       </e>
     </pardef>
     <pardef n="lī/cis__n_m">
@@ -14392,7 +14410,8 @@
     <e lm="asinsrite"><i>asinsrit</i><par n="aizmugur/e__n_f"/></e>
     <e lm="asociācija"><i>asociācij</i><par n="al/a__n"/></e>
     <e lm="aspekts"><i>aspekt</i><par n="tip/s__n"/></e>
-    <e lm="aste"><i>ast</i><par n="mut/e__n_f"/></e>
+    <e lm="aste"><i>ast</i><par n="mut/e__n"/></e>
+    <e lm="Inese"><i>Ines</i><par n="Ines/e__np"/></e>
     <e lm="atbalsts"><i>atbalst</i><par n="tip/s__n"/></e>
     <e lm="atbilde"><i>atbil</i><par n="sē/de__n_f"/></e>
     <e lm="atbildība"><i>atbildīb</i><par n="al/a__n"/></e>
@@ -14416,7 +14435,7 @@
     <e lm="attiecība"><i>attiecīb</i><par n="al/a__n"/></e>
     <e lm="attieksme"><i>attieksm</i><par n="būv/e__n_f"/></e>
     <e lm="attīstība"><i>attīstīb</i><par n="al/a__n"/></e>
-    <e lm="atvere"><i>atver</i><par n="mut/e__n_f"/></e>
+    <e lm="atvere"><i>atver</i><par n="mut/e__n"/></e>
     <e lm="atzinība"><i>atzinīb</i><par n="mij/a__n_f"/></e>
     <e lm="audze"><i>aud</i><par n="fā/ze__n_f"/></e>
     <e lm="auglis"><i>aug</i><par n="po/lis__n_m"/></e>
@@ -14458,7 +14477,7 @@
     <e lm="basks"><i>bask</i><par n="bask/s__n_m"/></e>
     <e lm="bataljons"><i>bataljon</i><par n="tip/s__n"/></e>
     <e lm="baumas"><i>baum</i><par n="sek/as__n_f"/></e>
-    <e lm="bāze"><i>bāz</i><par n="mut/e__n_f"/></e>
+    <e lm="bāze"><i>bāz</i><par n="mut/e__n"/></e>
     <e lm="baznīca"><i>baznīc</i><par n="al/a__n"/></e>
     <e lm="beigas"><i>beig</i><par n="sek/as__n_f"/></e>
     <e lm="beigšana"><i>beigšan</i><par n="veikšan/a__n_f"/></e>
@@ -14661,7 +14680,7 @@
     <e lm="finanses"><i>finan</i><par n="finan/ses__n_f"/></e>
     <e lm="firsts"><i>first</i><par n="vīr/s__n"/></e>
     <e lm="fiziķis"><i>fiziķ</i><par n="pūķ/is__n_m"/></e>
-    <e lm="flote"><i>flot</i><par n="mut/e__n_f"/></e>
+    <e lm="flote"><i>flot</i><par n="mut/e__n"/></e>
     <e lm="folklora"><i>folklor</i><par n="mij/a__n_f"/></e>
     <e lm="fonds"><i>fond</i><par n="tip/s__n"/></e>
     <e lm="fonētika"><i>fonētik</i><par n="mij/a__n_f"/></e>
@@ -14704,7 +14723,7 @@
     <e lm="garoza"><i>garoz</i><par n="al/a__n"/></e>
     <e lm="gars"><i>gar</i><par n="tip/s__n"/></e>
     <e lm="garums"><i>garum</i><par n="tip/s__n"/></e>
-    <e lm="gāze"><i>gāz</i><par n="mut/e__n_f"/></e>
+    <e lm="gāze"><i>gāz</i><par n="mut/e__n"/></e>
     <e lm="ģenerālis"><i>ģenerā</i><par n="po/lis__n_m"/></e>
     <e lm="ģerbonis"><i>ģerbo</i><par n="dā/nis__n_m"/></e>
     <e lm="ģermānis"><i>ģermā</i><par n="dā/nis__n_m"/></e>
@@ -14716,7 +14735,7 @@
     <e lm="gotika"><i>gotik</i><par n="mij/a__n_f"/></e>
     <e lm="gots"><i>got</i><par n="vīr/s__n"/></e>
     <e lm="grāds"><i>grād</i><par n="tip/s__n"/></e>
-    <e lm="grāfiste"><i>grāfist</i><par n="mut/e__n_f"/></e>
+    <e lm="grāfiste"><i>grāfist</i><par n="mut/e__n"/></e>
     <e lm="grāfs"><i>grāf</i><par n="vīr/s__n"/></e>
     <e lm="grāmata"><i>grāmat</i><par n="al/a__n"/></e>
     <e lm="grants"><i>grant</i><par n="grant/s__n_f"/></e>
@@ -14730,7 +14749,7 @@
     <e lm="gundega"><i>gundeg</i><par n="al/a__n"/></e>
     <e lm="gūsts"><i>gūst</i><par n="tip/s__n"/></e>
     <e lm="hēlijs"><i>hēlij</i><par n="šah/s__n_m"/></e>
-    <e lm="hercogiste"><i>hercogist</i><par n="mut/e__n_f"/></e>
+    <e lm="hercogiste"><i>hercogist</i><par n="mut/e__n"/></e>
     <e lm="hercogs"><i>hercog</i><par n="vīr/s__n"/></e>
     <e lm="himna"><i>himn</i><par n="al/a__n"/></e>
     <e lm="hokejs"><i>hokej</i><par n="tip/s__n"/></e>
@@ -14861,7 +14880,7 @@
     <e lm="karadarbība"><i>karadarbīb</i><par n="al/a__n"/></e>
     <e lm="karaliene"><i>karalie</i><par n="sē/ne__n"/></e>
     <e lm="karalis"><i>kara</i><par n="po/lis__n_m"/></e>
-    <e lm="karaliste"><i>karalist</i><par n="mut/e__n_f"/></e>
+    <e lm="karaliste"><i>karalist</i><par n="mut/e__n"/></e>
     <e lm="karaspēks"><i>karaspēk</i><par n="tip/s__n"/></e>
     <e lm="karavīrs"><i>karavīr</i><par n="vīr/s__n"/></e>
     <e lm="kareivis"><i>kareiv</i><par n="kareiv/is__n_m"/></e>
@@ -15172,7 +15191,7 @@
     <e lm="ķeblis"><i>ķeb</i><par n="po/lis__n_m"/></e>
     <e lm="pūlis"><i>pū</i><par n="po/lis__n_m"/></e>
     <e lm="musulmanis"><i>musulma</i><par n="dā/nis__n_m"/></e>
-    <e lm="mute"><i>mut</i><par n="mut/e__n_f"/></e>
+    <e lm="mute"><i>mut</i><par n="mut/e__n"/></e>
     <e lm="muzejs"><i>muzej</i><par n="tip/s__n"/></e>
     <e lm="mūzika"><i>mūzik</i><par n="al/a__n"/></e>
     <e lm="mūžs"><i>mūž</i><par n="tip/s__n"/></e>
@@ -15213,7 +15232,7 @@
     <e lm="novads"><i>novad</i><par n="tip/s__n"/></e>
     <e lm="novembris"><i>novembr</i><par n="pūķ/is__n_m"/></e>
     <e lm="novērojums"><i>novērojum</i><par n="tip/s__n"/></e>
-    <e lm="nozare"><i>nozar</i><par n="mut/e__n_f"/></e>
+    <e lm="nozare"><i>nozar</i><par n="mut/e__n"/></e>
     <e lm="noziegums"><i>noziegum</i><par n="tip/s__n"/></e>
     <e lm="nozīme"><i>nozīm</i><par n="būv/e__n_f"/></e>
     <e lm="nulle"><i>nu</i><par n="e/lle__n"/></e>
@@ -15306,7 +15325,7 @@
     <e lm="pieeja"><i>pieej</i><par n="al/a__n"/></e>
     <e lm="piegāde"><i>piegā</i><par n="sē/de__n_f"/></e>
     <e lm="piejūra"><i>piejūr</i><par n="mij/a__n_f"/></e>
-    <e lm="piekraste"><i>piekrast</i><par n="mut/e__n_f"/></e>
+    <e lm="piekraste"><i>piekrast</i><par n="mut/e__n"/></e>
     <e lm="piekrišana"><i>piekrišan</i><par n="kušan/a__n_f"/></e>
     <e lm="pielietojums"><i>pielietojum</i><par n="tip/s__n"/></e>
     <e lm="piemērs"><i>piemēr</i><par n="tip/s__n"/></e>
@@ -15587,7 +15606,7 @@
     <e lm="students"><i>student</i><par n="vīr/s__n"/></e>
     <e lm="studijas"><i>studij</i><par n="sek/as__n_f"/></e>
     <e lm="stunda"><i>stund</i><par n="al/a__n"/></e>
-    <e lm="stūre"><i>stūr</i><par n="mut/e__n_f"/></e>
+    <e lm="stūre"><i>stūr</i><par n="mut/e__n"/></e>
     <e lm="stūris"><i>stūr</i><par n="pūķ/is__n_m"/></e>
     <e lm="sudrabs"><i>sudrab</i><par n="tip/s__n"/></e>
     <e lm="suga"><i>sug</i><par n="al/a__n"/></e>
@@ -15733,7 +15752,7 @@
     <e lm="vērtība"><i>vērtīb</i><par n="al/a__n"/></e>
     <e lm="veselība"><i>veselīb</i><par n="mij/a__n_f"/></e>
     <e lm="vēstule"><i>vēstu</i><par n="mē/le__n_f"/></e>
-    <e lm="vēsture"><i>vēstur</i><par n="mut/e__n_f"/></e>
+    <e lm="vēsture"><i>vēstur</i><par n="mut/e__n"/></e>
     <e lm="vēsturnieks"><i>vēsturniek</i><par n="vīr/s__n"/></e>
     <e lm="vētra"><i>vētr</i><par n="al/a__n"/></e>
     <e lm="vide"><i>vi</i><par n="sē/de__n_f"/></e>
