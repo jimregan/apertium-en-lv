@@ -5,6 +5,7 @@
 /apertium-en-lv.lv.tsx -text
 dev/find-equals-output -text
 dev/find-equals.pl -text
+dev/fixer.pl -text
 dev/nouns.chopped.dix -text
 dev/nouns.sorted.speling -text
 dev/np-top.speling -text
