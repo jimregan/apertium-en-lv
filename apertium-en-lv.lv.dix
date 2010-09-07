@@ -8759,102 +8759,126 @@
         </p>
       </e>
     </pardef>
-    <pardef n="lauv/a__n_f">
+    <pardef n="BASE__lauva">
       <e>
         <p>
           <l>a</l>
-          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>as</l>
-          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ai</l>
-          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>u</l>
-          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ā</l>
-          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>u</l>
-          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+          <r><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>a</l>
-          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>as</l>
-          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
+          <r><s n="f"/><s n="sg"/><s n="abl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>as</l>
-          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+          <r><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>u</l>
-          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ām</l>
-          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+          <r><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>as</l>
-          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ās</l>
-          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ām</l>
-          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+          <r><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>as</l>
-          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>u</l>
-          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
+          <r><s n="f"/><s n="pl"/><s n="abl"/></r>
         </p>
+      </e>
+    </pardef>
+    <pardef n="lauv/a__n">
+      <e>
+        <p>
+          <l></l>
+          <r>a<s n="n"/></r>
+        </p>
+        <par n="BASE__lauva"/>
+      </e>
+      <e r="LR">
+        <p>
+          <l>am</l>
+          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="Rit/a__np">
+      <e>
+        <p>
+          <l></l>
+          <r>a<s n="np"/><s n="ant"/></r>
+        </p>
+        <par n="BASE__lauva"/>
       </e>
     </pardef>
     <pardef n="aizmugur/e__n_f">
@@ -8910,6 +8934,12 @@
     <pardef n="koordināt/a__n_m">
       <e>
         <p>
+          <l>a</l>
+          <r>a<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>as</l>
           <r>a<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r>
         </p>
@@ -8952,8 +8982,8 @@
       </e>
       <e>
         <p>
-          <l>a</l>
-          <r>a<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+          <l>as</l>
+          <r>a<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
@@ -8996,12 +9026,6 @@
         <p>
           <l>ām</l>
           <r>a<s n="n"/><s n="m"/><s n="pl"/><s n="abl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>as</l>
-          <r>a<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
     </pardef>
@@ -15008,7 +15032,8 @@
     <e lm="laulība"><i>laulīb</i><par n="al/a__n"/></e>
     <e lm="laupījums"><i>laupījum</i><par n="tip/s__n"/></e>
     <e lm="laušana"><i>laušan</i><par n="kušan/a__n_f"/></e>
-    <e lm="lauva"><i>lauv</i><par n="lauv/a__n_f"/></e>
+    <e lm="lauva"><i>lauv</i><par n="lauv/a__n"/></e>
+    <e lm="Rita"><i>Rit</i><par n="Rit/a__np"/></e>
     <e lm="lēca"><i>lēc</i><par n="al/a__n"/></e>
     <e lm="ledājs"><i>ledāj</i><par n="vīr/s__n"/></e>
     <e lm="ledus"><i>led</i><par n="led/us__n_m"/></e>
