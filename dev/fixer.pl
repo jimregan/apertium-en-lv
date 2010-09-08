@@ -6,9 +6,11 @@ use strict;
 my $parname;
  
 while (<>) {
-	print;
-	next if (/"ref"/);
-	if (s!<s n="pres"/><s n="p3"/><s n="sp"/></r></p>!</r></p><par n="skrien/ošs__pprs_act"/>!) {
+	if (m!"skrien/ošs__pprs_act"!) {
+		s![aeiouāēīōū]</l>!</l>!;
+		s/\xc4</</;
+		print;
+	} else {
 		print;
 	}
 }
