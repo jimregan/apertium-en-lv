@@ -2329,6 +2329,15 @@
         <par n="BASE__lēkts"/>
       </e>
     </pardef>
+    <pardef n="zogam/s__pprs_psv">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="pprs"/><s n="psv"/></r>
+        </p>
+        <par n="BASE__lēkts"/>
+      </e>
+    </pardef>
     <pardef n="skrien/ošs__pprs_act">
       <e>
         <p>
@@ -2336,6 +2345,58 @@
           <r><s n="pprs"/><s n="act"/></r>
         </p>
         <par n="BASE__lēkts"/>
+      </e>
+    </pardef>
+    <pardef n="mez/dams__pprs_act">
+      <e c="This participle exists only in the nominative">
+        <p>
+          <l>dams</l>
+          <r><s n="pprs"/><s n="act"/><s n="rel"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dama</l>
+          <r><s n="pprs"/><s n="act"/><s n="rel"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dami</l>
+          <r><s n="pprs"/><s n="act"/><s n="rel"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>damas</l>
+          <r><s n="pprs"/><s n="act"/><s n="rel"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="smie/damies__pprs_act">
+      <e c="This participle exists only in the nominative (reflexive version)">
+        <p>
+          <l>damies</l>
+          <r><s n="pprs"/><s n="act"/><s n="rel"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>damās</l>
+          <r><s n="pprs"/><s n="act"/><s n="rel"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>damies</l>
+          <r><s n="pprs"/><s n="act"/><s n="rel"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>damās</l>
+          <r><s n="pprs"/><s n="act"/><s n="rel"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
       </e>
     </pardef>
     <pardef n="cēl/is__pp_act">
@@ -16046,6 +16107,7 @@
     <e lm="Šveice"><i>Šveic</i><par n="Bagdād/e__np"/></e>
     <e lm="Dobele"><i>Dobel</i><par n="Bagdād/e__np"/></e>
 
+    <e lm="atrast"><par n="ne__pref"/><i>atr</i><par n="atr/ast__vblex"/></e>
     <e lm="mīlēt"><par n="ne__pref"/><i>mīl</i><par n="mīl/ēt__vblex"/></e>
     <e lm="tikt"><par n="ne__pref"/><i>t</i><par n="t/ikt__vblex"/></e>
     <e lm="varēt"><par n="ne__pref"/><i>var</i><par n="var/ēt__vbmod"/></e>
