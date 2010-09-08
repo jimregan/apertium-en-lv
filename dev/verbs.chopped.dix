@@ -2487,12 +2487,12 @@
   <section id="main" type="standard">
 <e lm="arestēt">         <i>arestē</i><par n="vīlē/t__vblex"/></e>
 <e lm="uzstādīt">        <i>uzstād</i><par n="vad/īt__vblex"/></e>
-<e lm="segt">            <i>se</i><!-- se/gt__vblex' was replaced --><par n="izbei/gt__vblex"/></e>
+<e lm="segt">            <i>se</i><par n="izbei/gt__vblex"/></e>
 <e lm="demonstrēt">      <i>demonstrē</i><par n="vīlē/t__vblex"/></e>
-<e lm="pārliecināt">     <i>pārliecin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="pārliecināt">     <i>pārliecin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="uzstāt">          <i>uzstā</i><par n="klā/t__vblex"/></e>
 <e lm="noiet">           <i>no</i><par n="/iet__vblex"/></e>
-<e lm="kustināt">        <i>kustin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="kustināt">        <i>kustin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="izbraukt">        <i>izbrau</i><par n="vā/kt__vblex"/></e>
 <e lm="aprīt">           <i>apr</i><par n="apr/īt__vblex"/></e>
 <e lm="pietuvoties">     <i>pietuvo</i><par n="klā/ties__vblex"/></e>
@@ -2526,7 +2526,7 @@
 <e lm="baidīt">          <i>baid</i><par n="vad/īt__vblex"/></e>
 <e lm="pacelt">          <i>pac</i><par n="dz/elt__vblex"/></e>
 <e lm="sapulcēties">     <i>sapulcē</i><par n="klā/ties__vblex"/></e>
-<e lm="apraut">          <i>apr</i><!-- š/aut__vblex' was replaced --><par n="ļ/aut__vblex"/></e>
+<e lm="apraut">          <i>apr</i><par n="ļ/aut__vblex"/></e>
 <e lm="nodrebēt">        <i>nodreb</i><par n="tur/ēt__vblex"/></e>
 <e lm="iebāzt">          <i>iebā</i><par n="gā/zt__vblex"/></e>
 <e lm="mēģināt">         <i>mēģin</i><par n="mēģin/āt__vblex"/></e>
@@ -2534,11 +2534,11 @@
 <e lm="pasteigties">     <i>pastei</i><par n="lū/gties__vblex"/></e>
 <e lm="skūpstīt">        <i>skūpst</i><par n="vad/īt__vblex"/></e>
 <e lm="sapņot">          <i>sapņo</i><par n="vīlē/t__vblex"/></e>
-<e lm="sakaut">          <i>sak</i><!-- š/aut__vblex' was replaced --><par n="ļ/aut__vblex"/></e>
+<e lm="sakaut">          <i>sak</i><par n="ļ/aut__vblex"/></e>
 <e lm="gāzt">            <i>gā</i><par n="gā/zt__vblex"/></e>
 <e lm="ņirbēt">          <i>ņirb</i><par n="tur/ēt__vblex"/></e>
 <e lm="izlikties">       <i>izli</i><par n="li/kties__vblex"/></e>
-<e lm="kliegt">          <i>klie</i><!-- se/gt__vblex' was replaced --><par n="izbei/gt__vblex"/></e>
+<e lm="kliegt">          <i>klie</i><par n="izbei/gt__vblex"/></e>
 <e lm="būvēt">           <i>būvē</i><par n="vīlē/t__vblex"/></e>
 <e lm="atpūsties">       <i>atpū</i><par n="cen/sties__vblex"/></e>
 <e lm="izgriezt">        <i>izgrie</i><par n="gā/zt__vblex"/></e>
@@ -2566,7 +2566,7 @@
 <e lm="uzliet">          <i>uzl</i><par n="uzl/iet__vblex"/></e>
 <e lm="ievest">          <i>ieve</i><par n="ē/st__vblex"/></e>
 <e lm="sanest">          <i>sanes</i><par n="nes/t__vblex"/></e>
-<e lm="spļaut">          <i>spļ</i><!-- š/aut__vblex' was replaced --><par n="ļ/aut__vblex"/></e>
+<e lm="spļaut">          <i>spļ</i><par n="ļ/aut__vblex"/></e>
 <e lm="organizēt">       <i>organizē</i><par n="vīlē/t__vblex"/></e>
 <e lm="izdomāt">         <i>izdomā</i><par n="vīlē/t__vblex"/></e>
 <e lm="melot">           <i>melo</i><par n="vīlē/t__vblex"/></e>
@@ -2574,11 +2574,11 @@
 <e lm="maisīt">          <i>mais</i><par n="vad/īt__vblex"/></e>
 <e lm="piezvanīt">       <i>piezvan</i><par n="vad/īt__vblex"/></e>
 <e lm="bēgt">            <i>bē</i><par n="au/gt__vblex"/></e>
-<e lm="mierināt">        <i>mierin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="mierināt">        <i>mierin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="norauties">       <i>nor</i><par n="r/auties__vblex"/></e>
 <e lm="tapt">            <i>t</i><par n="t/ap__vblex"/></e>
 <e lm="vēlēt">           <i>vēl</i><par n="vēl/ēt__vblex"/></e>
-<e lm="pārsniegt">       <i>pārsnie</i><!-- se/gt__vblex' was replaced --><par n="izbei/gt__vblex"/></e>
+<e lm="pārsniegt">       <i>pārsnie</i><par n="izbei/gt__vblex"/></e>
 <e lm="ķert">            <i>ķ</i><par n="ķ/ert__vblex"/></e>
 <e lm="uzklāt">          <i>uzklā</i><par n="klā/t__vblex"/></e>
 <e lm="savienot">        <i>savieno</i><par n="vīlē/t__vblex"/></e>
@@ -2592,7 +2592,7 @@
 <e lm="izdarīties">      <i>izdar</i><par n="cīn/īties__vblex"/></e>
 <e lm="spēlēt">          <i>spēlē</i><par n="vīlē/t__vblex"/></e>
 <e lm="iebrukt">         <i>iebr</i><par n="iebr/ukt__vblex"/></e>
-<e lm="sasniegt">        <i>sasnie</i><!-- se/gt__vblex' was replaced --><par n="izbei/gt__vblex"/></e>
+<e lm="sasniegt">        <i>sasnie</i><par n="izbei/gt__vblex"/></e>
 <e lm="glābt">           <i>glāb</i><par n="glāb/t__vblex"/></e>
 <e lm="ienākt">          <i>ienā</i><par n="sanā/kt__vblex"/></e>
 <e lm="izskaidrot">      <i>izskaidro</i><par n="vīlē/t__vblex"/></e>
@@ -2600,7 +2600,7 @@
 <e lm="palūrēt">         <i>palūr</i><par n="tur/ēt__vblex"/></e>
 <e lm="apmesties">       <i>apme</i><par n="si/sties__vblex"/></e>
 <e lm="atgulties">       <i>atg</i><par n="atg/ulties__vblex"/></e>
-<e lm="nogalināt">       <i>nogalin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="nogalināt">       <i>nogalin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="uztraukties">     <i>uztrau</i><par n="vei/kties__vblex"/></e>
 <e lm="uzstāties">       <i>uzstā</i><par n="klā/ties__vblex"/></e>
 <e lm="satriekt">        <i>satrie</i><par n="vā/kt__vblex"/></e>
@@ -2612,9 +2612,9 @@
 <e lm="kratīties">       <i>krat</i><par n="cīn/īties__vblex"/></e>
 <e lm="satikt">          <i>sat</i><par n="not/ikt__vblex"/></e>
 <e lm="redzēt">          <i>redz</i><par n="tur/ēt__vblex"/></e>
-<e lm="atļauties">       <i>atļ</i><!-- atļ/auties__vblex' was replaced --><par n="r/auties__vblex"/></e>
+<e lm="atļauties">       <i>atļ</i><par n="r/auties__vblex"/></e>
 <e lm="notriekt">        <i>notrie</i><par n="vā/kt__vblex"/></e>
-<e lm="sasveicināties">  <i>sasveicin</i><!-- rēķin/āties__vblex' was replaced --><par n="turpin/āties__vblex"/></e>
+<e lm="sasveicināties">  <i>sasveicin</i><par n="turpin/āties__vblex"/></e>
 <e lm="nodegt">          <i>node</i><par n="de/gt__vblex"/></e>
 <e lm="rasties">         <i>r</i><par n="r/asties__vblex"/></e>
 <e lm="padomāt">         <i>padomā</i><par n="vīlē/t__vblex"/></e>
@@ -2631,7 +2631,7 @@
 <e lm="sašust">          <i></i><par n="/sašust__vblex"/></e>
 <e lm="šūpoties">        <i>šūpo</i><par n="klā/ties__vblex"/></e>
 <e lm="sabrukt">         <i>sabr</i><par n="iebr/ukt__vblex"/></e>
-<e lm="atgādināt">       <i>atgādin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="atgādināt">       <i>atgādin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="stādīties">       <i>stād</i><par n="cīn/īties__vblex"/></e>
 <e lm="ierunāties">      <i>ierunā</i><par n="klā/ties__vblex"/></e>
 <e lm="izvērsties">      <i>izvēr</i><par n="izvēr/sties__vblex"/></e>
@@ -2658,7 +2658,7 @@
 <e lm="gurt">            <i>gur</i><par n="gur/t__vblex"/></e>
 <e lm="izstrādāt">       <i>izstrādā</i><par n="vīlē/t__vblex"/></e>
 <e lm="ielikt">          <i>ieli</i><par n="li/kt__vblex"/></e>
-<e lm="modināt">         <i>modin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="modināt">         <i>modin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="izlaist">         <i>izlai</i><par n="lai/st__vblex"/></e>
 <e lm="izdarīt">         <i>izdar</i><par n="vad/īt__vblex"/></e>
 <e lm="atnākt">          <i>atnā</i><par n="sanā/kt__vblex"/></e>
@@ -2667,7 +2667,7 @@
 <e lm="ielaist">         <i>ielai</i><par n="lai/st__vblex"/></e>
 <e lm="apmākties">       <i>apmā</i><par n="vei/kties__vblex"/></e>
 <e lm="izteikt">         <i>iztei</i><par n="vā/kt__vblex"/></e>
-<e lm="blīkšķināt">      <i>blīkšķin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="blīkšķināt">      <i>blīkšķin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="sasaistīties">    <i>sasaist</i><par n="cīn/īties__vblex"/></e>
 <e lm="postīt">          <i>post</i><par n="vad/īt__vblex"/></e>
 <e lm="doties">          <i>d</i><par n="d/oties__vblex"/></e>
@@ -2677,13 +2677,13 @@
 <e lm="iestāties">       <i>iestā</i><par n="klā/ties__vblex"/></e>
 <e lm="uzcelties">       <i>uzc</i><par n="c/elties__vblex"/></e>
 <e lm="nākties">         <i></i><par n="/nākties__vblex"/></e>
-<e lm="pasniegt">        <i>pasnie</i><!-- se/gt__vblex' was replaced --><par n="izbei/gt__vblex"/></e>
+<e lm="pasniegt">        <i>pasnie</i><par n="izbei/gt__vblex"/></e>
 <e lm="ievilkties">      <i>iev</i><par n="iev/ilkties__vblex"/></e>
-<e lm="drebināties">     <i>drebin</i><!-- rēķin/āties__vblex' was replaced --><par n="turpin/āties__vblex"/></e>
+<e lm="drebināties">     <i>drebin</i><par n="turpin/āties__vblex"/></e>
 <e lm="grozīties">       <i>groz</i><par n="cīn/īties__vblex"/></e>
 <e lm="baidīties">       <i>baid</i><par n="cīn/īties__vblex"/></e>
 <e lm="izlēkt">          <i>izl</i><par n="l/ēkt__vblex"/></e>
-<e lm="apkaut">          <i>apk</i><!-- š/aut__vblex' was replaced --><par n="ļ/aut__vblex"/></e>
+<e lm="apkaut">          <i>apk</i><par n="ļ/aut__vblex"/></e>
 <e lm="nočukstēt">       <i>nočukst</i><par n="tur/ēt__vblex"/></e>
 <e lm="slēpties">        <i>slēp</i><par n="slēp/ties__vblex"/></e>
 <e lm="aizliet">         <i>aizl</i><par n="uzl/iet__vblex"/></e>
@@ -2699,13 +2699,13 @@
 <e lm="atgūties">        <i>atg</i><par n="atg/ūties__vblex"/></e>
 <e lm="atbalstīties">    <i>atbalst</i><par n="cīn/īties__vblex"/></e>
 <e lm="palidot">         <i>palido</i><par n="vīlē/t__vblex"/></e>
-<e lm="nīcināt">         <i>nīcin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="nīcināt">         <i>nīcin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="ražot">           <i>ražo</i><par n="vīlē/t__vblex"/></e>
 <e lm="aplūkot">         <i>aplūko</i><par n="vīlē/t__vblex"/></e>
 <e lm="novēlēt">         <i>novēl</i><par n="vēl/ēt__vblex"/></e>
 <e lm="pieprasīt">       <i>piepras</i><par n="vad/īt__vblex"/></e>
 <e lm="atkopt">          <i>atkop</i><par n="glāb/t__vblex"/></e>
-<e lm="sakaitināt">      <i>sakaitin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="sakaitināt">      <i>sakaitin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="cīnīties">        <i>cīn</i><par n="cīn/īties__vblex"/></e>
 <e lm="aizbēgt">         <i>aizbē</i><par n="au/gt__vblex"/></e>
 <e lm="iebrāzties">      <i>iebrā</i><par n="sagā/zties__vblex"/></e>
@@ -2735,18 +2735,18 @@
 <e lm="spriest">         <i>sprie</i><par n="sprie/st__vblex"/></e>
 <e lm="sagrābt">         <i>sagrāb</i><par n="glāb/t__vblex"/></e>
 <e lm="laist">           <i>lai</i><par n="lai/st__vblex"/></e>
-<e lm="atbildēt">        <i>atbild</i><!-- dien/ēt__vblex' was replaced --><par n="vēl/ēt__vblex"/></e>
+<e lm="atbildēt">        <i>atbild</i><par n="vēl/ēt__vblex"/></e>
 <e lm="nomirt">          <i>nomir</i><par n="gur/t__vblex"/></e>
-<e lm="nodrošināt">      <i>nodrošin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="nodrošināt">      <i>nodrošin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="iecerēt">         <i>iecer</i><par n="tur/ēt__vblex"/></e>
 <e lm="apstāties">       <i>apstā</i><par n="klā/ties__vblex"/></e>
 <e lm="lamāt">           <i>lamā</i><par n="vīlē/t__vblex"/></e>
 <e lm="satrāpīties">     <i>satrāp</i><par n="cīn/īties__vblex"/></e>
 <e lm="aizsargāt">       <i>aizsarg</i><par n="apsarg/āt__vblex"/></e>
 <e lm="noklaiņot">       <i>noklaiņo</i><par n="vīlē/t__vblex"/></e>
-<e lm="šaut">            <i>š</i><!-- š/aut__vblex' was replaced --><par n="ļ/aut__vblex"/></e>
+<e lm="šaut">            <i>š</i><par n="ļ/aut__vblex"/></e>
 <e lm="ievainot">        <i>ievaino</i><par n="vīlē/t__vblex"/></e>
-<e lm="varēt">           <i>var</i><!-- var/ēt__vblex' was replaced --><par n="tur/ēt__vblex"/></e>
+<e lm="varēt">           <i>var</i><par n="tur/ēt__vblex"/></e>
 <e lm="dalīt">           <i>dal</i><par n="vad/īt__vblex"/></e>
 <e lm="klausīties">      <i>klaus</i><par n="cīn/īties__vblex"/></e>
 <e lm="pakratīt">        <i>pakrat</i><par n="vad/īt__vblex"/></e>
@@ -2759,8 +2759,8 @@
 <e lm="jaust">           <i>jau</i><par n="jau/st__vblex"/></e>
 <e lm="izvēlēties">      <i>izvēl</i><par n="izvēl/ēties__vblex"/></e>
 <e lm="apslāpēt">        <i>apslāpē</i><par n="vīlē/t__vblex"/></e>
-<e lm="attiekties">      <i>attie</i><!-- attie/kties__vblex' was replaced --><par n="vei/kties__vblex"/></e>
-<e lm="ieslēgt">         <i>ieslē</i><!-- se/gt__vblex' was replaced --><par n="izbei/gt__vblex"/></e>
+<e lm="attiekties">      <i>attie</i><par n="vei/kties__vblex"/></e>
+<e lm="ieslēgt">         <i>ieslē</i><par n="izbei/gt__vblex"/></e>
 <e lm="turēties">        <i>tur</i><par n="tur/ēties__vblex"/></e>
 <e lm="glaudīt">         <i>glaud</i><par n="vad/īt__vblex"/></e>
 <e lm="saistīt">         <i>saist</i><par n="vad/īt__vblex"/></e>
@@ -2770,7 +2770,7 @@
 <e lm="uzlēkt">          <i>uzl</i><par n="l/ēkt__vblex"/></e>
 <e lm="iejaukties">      <i>iejau</i><par n="vei/kties__vblex"/></e>
 <e lm="uztraukt">        <i>uztrau</i><par n="vā/kt__vblex"/></e>
-<e lm="apsēdināt">       <i>apsēdin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="apsēdināt">       <i>apsēdin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="iesist">          <i>iesi</i><par n="si/st__vblex"/></e>
 <e lm="sadusmoties">     <i>sadusmo</i><par n="klā/ties__vblex"/></e>
 <e lm="izbāzties">       <i>izbā</i><par n="sagā/zties__vblex"/></e>
@@ -2790,7 +2790,7 @@
 <e lm="kratīt">          <i>krat</i><par n="vad/īt__vblex"/></e>
 <e lm="atbrīvot">        <i>atbrīvo</i><par n="vīlē/t__vblex"/></e>
 <e lm="censties">        <i>cen</i><par n="cen/sties__vblex"/></e>
-<e lm="rēķināties">      <i>rēķin</i><!-- rēķin/āties__vblex' was replaced --><par n="turpin/āties__vblex"/></e>
+<e lm="rēķināties">      <i>rēķin</i><par n="turpin/āties__vblex"/></e>
 <e lm="parādīties">      <i>parād</i><par n="cīn/īties__vblex"/></e>
 <e lm="pasaukt">         <i>pasau</i><par n="vā/kt__vblex"/></e>
 <e lm="ripot">           <i>ripo</i><par n="vīlē/t__vblex"/></e>
@@ -2820,7 +2820,7 @@
 <e lm="aizkavēties">     <i>aizkavē</i><par n="klā/ties__vblex"/></e>
 <e lm="sisties">         <i>si</i><par n="si/sties__vblex"/></e>
 <e lm="uzsākt">          <i>uzsā</i><par n="sā/kt__vblex"/></e>
-<e lm="pasvilināt">      <i>pasvilin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="pasvilināt">      <i>pasvilin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="nokavēt">         <i>nokavē</i><par n="vīlē/t__vblex"/></e>
 <e lm="padauzīt">        <i>padauz</i><par n="vad/īt__vblex"/></e>
 <e lm="iebikstīt">       <i>iebikst</i><par n="vad/īt__vblex"/></e>
@@ -2828,10 +2828,10 @@
 <e lm="painteresēties">  <i>painteresē</i><par n="klā/ties__vblex"/></e>
 <e lm="atskanēt">        <i>atskan</i><par n="tur/ēt__vblex"/></e>
 <e lm="aizvākt">         <i>aizvā</i><par n="vā/kt__vblex"/></e>
-<e lm="drīkstēt">        <i>drīkst</i><!-- var/ēt__vblex' was replaced --><par n="tur/ēt__vblex"/></e>
+<e lm="drīkstēt">        <i>drīkst</i><par n="tur/ēt__vblex"/></e>
 <e lm="dzīt">            <i>dz</i><par n="dz/īt__vblex"/></e>
 <e lm="kustēties">       <i>kust</i><par n="tur/ēties__vblex"/></e>
-<e lm="apprecināt">      <i>apprecin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="apprecināt">      <i>apprecin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="ilgt">            <i>ilg</i><par n="gur/t__vblex"/></e>
 <e lm="iepatikties">     <i>iepat</i><par n="iepat/ikties__vblex"/></e>
 <e lm="appušķot">        <i>appušķo</i><par n="vīlē/t__vblex"/></e>
@@ -2857,8 +2857,8 @@
 <e lm="atcerēties">      <i>atcer</i><par n="tur/ēties__vblex"/></e>
 <e lm="izrādīties">      <i>izrād</i><par n="cīn/īties__vblex"/></e>
 <e lm="piespiest">       <i>piespie</i><par n="lai/st__vblex"/></e>
-<e lm="apšaut">          <i>apš</i><!-- š/aut__vblex' was replaced --><par n="ļ/aut__vblex"/></e>
-<e lm="šķetināt">        <i>šķetin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="apšaut">          <i>apš</i><par n="ļ/aut__vblex"/></e>
+<e lm="šķetināt">        <i>šķetin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="iegaumēt">        <i>iegaumē</i><par n="vīlē/t__vblex"/></e>
 <e lm="apsargāt">        <i>apsarg</i><par n="apsarg/āt__vblex"/></e>
 <e lm="izveidoties">     <i>izveido</i><par n="klā/ties__vblex"/></e>
@@ -2870,7 +2870,7 @@
 <e lm="izbrīnīties">     <i>izbrīn</i><par n="cīn/īties__vblex"/></e>
 <e lm="gulēt">           <i>gu</i><par n="gu/lēt__vblex"/></e>
 <e lm="mazgāt">          <i>mazgā</i><par n="vīlē/t__vblex"/></e>
-<e lm="liecināt">        <i>liecin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="liecināt">        <i>liecin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="aizņemt">         <i>aizņ</i><par n="paņ/emt__vblex"/></e>
 <e lm="noderēt">         <i>noder</i><par n="tur/ēt__vblex"/></e>
 <e lm="atsacīt">         <i>atsa</i><par n="mo/cīt__vblex"/></e>
@@ -2885,10 +2885,10 @@
 <e lm="sūdzēties">       <i>sūdz</i><par n="tur/ēties__vblex"/></e>
 <e lm="augt">            <i>au</i><par n="au/gt__vblex"/></e>
 <e lm="skaust">          <i>skau</i><par n="lai/st__vblex"/></e>
-<e lm="pieaicināt">      <i>pieaicin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="pieaicināt">      <i>pieaicin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="atvadīties">      <i>atvad</i><par n="cīn/īties__vblex"/></e>
 <e lm="izklāstīt">       <i>izklāst</i><par n="vad/īt__vblex"/></e>
-<e lm="apčubināt">       <i>apčubin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="apčubināt">       <i>apčubin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="izskatīties">     <i>izskat</i><par n="cīn/īties__vblex"/></e>
 <e lm="paskatīties">     <i>paskat</i><par n="cīn/īties__vblex"/></e>
 <e lm="trāpīt">          <i>trāp</i><par n="vad/īt__vblex"/></e>
@@ -2902,15 +2902,15 @@
 <e lm="atskriet">        <i>atskr</i><par n="skr/iet__vblex"/></e>
 <e lm="atkāpties">       <i>atkāp</i><par n="slēp/ties__vblex"/></e>
 <e lm="darboties">       <i>darbo</i><par n="klā/ties__vblex"/></e>
-<e lm="slidināt">        <i>slidin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="slidināt">        <i>slidin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="paieties">        <i>pa</i><par n="ap/ieties__vblex"/></e>
 <e lm="nozīmēt">         <i>nozīmē</i><par n="vīlē/t__vblex"/></e>
 <e lm="nopublicēt">      <i>nopublicē</i><par n="vīlē/t__vblex"/></e>
-<e lm="uzdāvināt">       <i>uzdāvin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="uzdāvināt">       <i>uzdāvin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="atplīst">         <i>atplīs</i><par n="tums/t__vblex"/></e>
 <e lm="ierindot">        <i>ierindo</i><par n="vīlē/t__vblex"/></e>
 <e lm="dzirdēt">         <i>dzird</i><par n="tur/ēt__vblex"/></e>
-<e lm="iekļaut">         <i>iekļ</i><!-- š/aut__vblex' was replaced --><par n="ļ/aut__vblex"/></e>
+<e lm="iekļaut">         <i>iekļ</i><par n="ļ/aut__vblex"/></e>
 <e lm="skanēt">          <i>skan</i><par n="tur/ēt__vblex"/></e>
 <e lm="atlikt">          <i>atli</i><par n="li/kt__vblex"/></e>
 <e lm="izdzirdēt">       <i>izdzird</i><par n="tur/ēt__vblex"/></e>
@@ -2922,17 +2922,17 @@
 <e lm="šūpot">           <i>šūpo</i><par n="vīlē/t__vblex"/></e>
 <e lm="atjēgties">       <i>atjē</i><par n="lū/gties__vblex"/></e>
 <e lm="nopūsties">       <i>nopū</i><par n="cen/sties__vblex"/></e>
-<e lm="apstiprināt">     <i>apstiprin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="apstiprināt">     <i>apstiprin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="izskraidīt">      <i>izskraid</i><par n="vad/īt__vblex"/></e>
 <e lm="spīdēt">          <i>spīd</i><par n="tur/ēt__vblex"/></e>
 <e lm="iekļūt">          <i>iekļ</i><par n="kļ/ūt__vblex"/></e>
 <e lm="dzenāt">          <i>dzenā</i><par n="vīlē/t__vblex"/></e>
 <e lm="reibt">           <i>reib</i><par n="gur/t__vblex"/></e>
-<e lm="beigties">        <i>bei</i><!-- bei/gties__vblex' was replaced --><par n="lū/gties__vblex"/></e>
+<e lm="beigties">        <i>bei</i><par n="lū/gties__vblex"/></e>
 <e lm="pārtulkot">       <i>pārtulko</i><par n="vīlē/t__vblex"/></e>
 <e lm="runāt">           <i>runā</i><par n="vīlē/t__vblex"/></e>
 <e lm="uzrādīt">         <i>uzrād</i><par n="vad/īt__vblex"/></e>
-<e lm="nicināt">         <i>nicin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="nicināt">         <i>nicin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="nojaust">         <i>nojau</i><par n="jau/st__vblex"/></e>
 <e lm="uzmanīt">         <i>uzman</i><par n="vad/īt__vblex"/></e>
 <e lm="uzticēties">      <i>uztic</i><par n="tur/ēties__vblex"/></e>
@@ -2947,7 +2947,7 @@
 <e lm="stāties">         <i>stā</i><par n="klā/ties__vblex"/></e>
 <e lm="aizdomāties">     <i>aizdomā</i><par n="klā/ties__vblex"/></e>
 <e lm="nonākt">          <i>nonā</i><par n="sanā/kt__vblex"/></e>
-<e lm="uzraut">          <i>uzr</i><!-- š/aut__vblex' was replaced --><par n="ļ/aut__vblex"/></e>
+<e lm="uzraut">          <i>uzr</i><par n="ļ/aut__vblex"/></e>
 <e lm="norunāt">         <i>norunā</i><par n="vīlē/t__vblex"/></e>
 <e lm="pabūt">           <i>pab</i><par n="pab/ūt__vblex"/></e>
 <e lm="atcirst">         <i>atc</i><par n="atc/irst__vblex"/></e>
@@ -2956,14 +2956,14 @@
 <e lm="pastumdīt">       <i>pastumd</i><par n="vad/īt__vblex"/></e>
 <e lm="iekārtoties">     <i>iekārto</i><par n="klā/ties__vblex"/></e>
 <e lm="slieties">        <i>sl</i><par n="sl/ieties__vblex"/></e>
-<e lm="iekairināt">      <i>iekairin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="iekairināt">      <i>iekairin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="paslēpt">         <i>paslēp</i><par n="glāb/t__vblex"/></e>
 <e lm="tēloties">        <i>tēlo</i><par n="klā/ties__vblex"/></e>
 <e lm="izstiept">        <i>izstiep</i><par n="glāb/t__vblex"/></e>
 <e lm="noņemt">          <i>noņ</i><par n="paņ/emt__vblex"/></e>
 <e lm="komunicēt">       <i>komunicē</i><par n="vīlē/t__vblex"/></e>
 <e lm="skaitīties">      <i>skait</i><par n="cīn/īties__vblex"/></e>
-<e lm="iegūt">           <i>ieg</i><!-- ieg/ūt__vblex' was replaced --><par n="kļ/ūt__vblex"/></e>
+<e lm="iegūt">           <i>ieg</i><par n="kļ/ūt__vblex"/></e>
 <e lm="atšķirties">      <i>atšķ</i><par n="šķ/irties__vblex"/></e>
 <e lm="staipīties">      <i>staip</i><par n="cīn/īties__vblex"/></e>
 <e lm="pieklust">        <i>pieklus</i><par n="tums/t__vblex"/></e>
@@ -2973,12 +2973,12 @@
 <e lm="dzimt">           <i>dzim</i><par n="gur/t__vblex"/></e>
 <e lm="trokšņot">        <i>trokšņo</i><par n="vīlē/t__vblex"/></e>
 <e lm="izplatīties">     <i>izplat</i><par n="cīn/īties__vblex"/></e>
-<e lm="murmināt">        <i>murmin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
-<e lm="aizdedzināt">     <i>aizdedzin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="murmināt">        <i>murmin</i><par n="mēģin/āt__vblex"/></e>
+<e lm="aizdedzināt">     <i>aizdedzin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="taisīt">          <i>tais</i><par n="vad/īt__vblex"/></e>
 <e lm="ieiet">           <i>ie</i><par n="ie/t__vblex"/></e>
 <e lm="nodoties">        <i>nod</i><par n="d/oties__vblex"/></e>
-<e lm="pārliecināties">  <i>pārliecin</i><!-- rēķin/āties__vblex' was replaced --><par n="turpin/āties__vblex"/></e>
+<e lm="pārliecināties">  <i>pārliecin</i><par n="turpin/āties__vblex"/></e>
 <e lm="izturēt">         <i>iztur</i><par n="tur/ēt__vblex"/></e>
 <e lm="sekmēt">          <i>sekmē</i><par n="vīlē/t__vblex"/></e>
 <e lm="aiziet">          <i>aiz</i><par n="/iet__vblex"/></e>
@@ -2987,12 +2987,12 @@
 <e lm="dārdēt">          <i>dārd</i><par n="tur/ēt__vblex"/></e>
 <e lm="apēst">           <i>apē</i><par n="ē/st__vblex"/></e>
 <e lm="sadauzīt">        <i>sadauz</i><par n="vad/īt__vblex"/></e>
-<e lm="paspēt">          <i>paspē</i><!-- paspē/t__vblex' was replaced --><par n="klā/t__vblex"/></e>
+<e lm="paspēt">          <i>paspē</i><par n="klā/t__vblex"/></e>
 <e lm="ciest">           <i>cie</i><par n="jau/st__vblex"/></e>
 <e lm="uzrakstīt">       <i>uzrakst</i><par n="vad/īt__vblex"/></e>
 <e lm="pārkāpt">         <i>pārkāp</i><par n="glāb/t__vblex"/></e>
 <e lm="aizsalt">         <i>aizsal</i><par n="gur/t__vblex"/></e>
-<e lm="paļauties">       <i>paļ</i><!-- atļ/auties__vblex' was replaced --><par n="r/auties__vblex"/></e>
+<e lm="paļauties">       <i>paļ</i><par n="r/auties__vblex"/></e>
 <e lm="aizraidīt">       <i>aizraid</i><par n="vad/īt__vblex"/></e>
 <e lm="izkrist">         <i>izkr</i><par n="izkr/ist__vblex"/></e>
 <e lm="nomainīt">        <i>nomain</i><par n="vad/īt__vblex"/></e>
@@ -3017,7 +3017,7 @@
 <e lm="pārtikt">         <i>pārt</i><par n="not/ikt__vblex"/></e>
 <e lm="iecelt">          <i>iec</i><par n="dz/elt__vblex"/></e>
 <e lm="apsarkt">         <i>apsark</i><par n="gur/t__vblex"/></e>
-<e lm="piemirkšķināt">   <i>piemirkšķin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="piemirkšķināt">   <i>piemirkšķin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="snauduļot">       <i>snauduļo</i><par n="vīlē/t__vblex"/></e>
 <e lm="dēvēt">           <i>dēvē</i><par n="vīlē/t__vblex"/></e>
 <e lm="paēst">           <i>paē</i><par n="ē/st__vblex"/></e>
@@ -3057,31 +3057,31 @@
 <e lm="raudzīties">      <i>rau</i><par n="rau/dzīties__vblex"/></e>
 <e lm="pārcilāt">        <i>pārcilā</i><par n="vīlē/t__vblex"/></e>
 <e lm="iespiest">        <i>iespie</i><par n="lai/st__vblex"/></e>
-<e lm="palielināt">      <i>palielin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="palielināt">      <i>palielin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="saprast">         <i>sapr</i><par n="nopr/ast__vblex"/></e>
 <e lm="karāties">        <i>karā</i><par n="klā/ties__vblex"/></e>
 <e lm="pārsprāgt">       <i>pārsprāg</i><par n="gur/t__vblex"/></e>
 <e lm="saķert">          <i>saķ</i><par n="ķ/ert__vblex"/></e>
 <e lm="iesākties">       <i>iesā</i><par n="iesā/kties__vblex"/></e>
-<e lm="aizsniegt">       <i>aizsnie</i><!-- se/gt__vblex' was replaced --><par n="izbei/gt__vblex"/></e>
+<e lm="aizsniegt">       <i>aizsnie</i><par n="izbei/gt__vblex"/></e>
 <e lm="vest">            <i>ve</i><par n="ē/st__vblex"/></e>
 <e lm="staipīt">         <i>staip</i><par n="vad/īt__vblex"/></e>
 <e lm="iemaksāt">        <i>iemaksā</i><par n="vīlē/t__vblex"/></e>
 <e lm="dežūrēt">         <i>dežūrē</i><par n="vīlē/t__vblex"/></e>
 <e lm="apieties">        <i>ap</i><par n="ap/ieties__vblex"/></e>
 <e lm="sameklēt">        <i>sameklē</i><par n="vīlē/t__vblex"/></e>
-<e lm="nomurmināt">      <i>nomurmin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="nomurmināt">      <i>nomurmin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="aiztaisīt">       <i>aiztais</i><par n="vad/īt__vblex"/></e>
 <e lm="sagribēties">     <i></i><par n="/sagribēties__vblex"/></e>
 <e lm="piekāpties">      <i>piekāp</i><par n="slēp/ties__vblex"/></e>
-<e lm="dienēt">          <i>dien</i><!-- dien/ēt__vblex' was replaced --><par n="vēl/ēt__vblex"/></e>
+<e lm="dienēt">          <i>dien</i><par n="vēl/ēt__vblex"/></e>
 <e lm="atmest">          <i>atme</i><par n="si/st__vblex"/></e>
 <e lm="aizmest">         <i>aizme</i><par n="si/st__vblex"/></e>
 <e lm="atkārtot">        <i>atkārto</i><par n="vīlē/t__vblex"/></e>
 <e lm="kontrolēt">       <i>kontrolē</i><par n="vīlē/t__vblex"/></e>
-<e lm="noslēgt">         <i>noslē</i><!-- se/gt__vblex' was replaced --><par n="izbei/gt__vblex"/></e>
+<e lm="noslēgt">         <i>noslē</i><par n="izbei/gt__vblex"/></e>
 <e lm="piemānīt">        <i>piemān</i><par n="vad/īt__vblex"/></e>
-<e lm="pārvarēt">        <i>pārvar</i><!-- var/ēt__vblex' was replaced --><par n="tur/ēt__vblex"/></e>
+<e lm="pārvarēt">        <i>pārvar</i><par n="tur/ēt__vblex"/></e>
 <e lm="novērot">         <i>novēro</i><par n="vīlē/t__vblex"/></e>
 <e lm="elpot">           <i>elpo</i><par n="vīlē/t__vblex"/></e>
 <e lm="novietot">        <i>novieto</i><par n="vīlē/t__vblex"/></e>
@@ -3100,23 +3100,23 @@
 <e lm="ieguldīt">        <i>ieguld</i><par n="vad/īt__vblex"/></e>
 <e lm="pagaidīt">        <i>pagaid</i><par n="vad/īt__vblex"/></e>
 <e lm="izbēgt">          <i>izbē</i><par n="au/gt__vblex"/></e>
-<e lm="bļaut">           <i>bļ</i><!-- š/aut__vblex' was replaced --><par n="ļ/aut__vblex"/></e>
+<e lm="bļaut">           <i>bļ</i><par n="ļ/aut__vblex"/></e>
 <e lm="aizsvilties">     <i>aizsvil</i><par n="aizsvil/ties__vblex"/></e>
 <e lm="lēkt">            <i>l</i><par n="l/ēkt__vblex"/></e>
-<e lm="audzināt">        <i>audzin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="audzināt">        <i>audzin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="izdzīt">          <i>izdz</i><par n="dz/īt__vblex"/></e>
 <e lm="apvaldīt">        <i>apvald</i><par n="vad/īt__vblex"/></e>
 <e lm="klāt">            <i>klā</i><par n="klā/t__vblex"/></e>
 <e lm="uzņemties">       <i>uzņ</i><par n="ņ/emties__vblex"/></e>
 <e lm="uzdot">           <i>uzd</i><par n="d/ot__vblex"/></e>
-<e lm="iemācīties">      <i>iemāc</i><!-- iemāc/īties__vblex' was replaced --><par n="cīn/īties__vblex"/></e>
+<e lm="iemācīties">      <i>iemāc</i><par n="cīn/īties__vblex"/></e>
 <e lm="ieteikt">         <i>ietei</i><par n="vā/kt__vblex"/></e>
 <e lm="radīt">           <i>rad</i><par n="vad/īt__vblex"/></e>
 <e lm="atzīmēt">         <i>atzīmē</i><par n="vīlē/t__vblex"/></e>
 <e lm="rekomendēt">      <i>rekomendē</i><par n="vīlē/t__vblex"/></e>
 <e lm="iekliegties">     <i>ieklie</i><par n="lū/gties__vblex"/></e>
 <e lm="aiznest">         <i>aiznes</i><par n="nes/t__vblex"/></e>
-<e lm="nomierināties">   <i>nomierin</i><!-- rēķin/āties__vblex' was replaced --><par n="turpin/āties__vblex"/></e>
+<e lm="nomierināties">   <i>nomierin</i><par n="turpin/āties__vblex"/></e>
 <e lm="pārstāt">         <i>pārstā</i><par n="klā/t__vblex"/></e>
 <e lm="nodarboties">     <i>nodarbo</i><par n="klā/ties__vblex"/></e>
 <e lm="dzemdēt">         <i>dzemdē</i><par n="vīlē/t__vblex"/></e>
@@ -3155,7 +3155,7 @@
 <e lm="pirkt">           <i>p</i><par n="p/irkt__vblex"/></e>
 <e lm="celties">         <i>c</i><par n="c/elties__vblex"/></e>
 <e lm="nolikt">          <i>noli</i><par n="li/kt__vblex"/></e>
-<e lm="ripināt">         <i>ripin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="ripināt">         <i>ripin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="pārtraukt">       <i>pārtrau</i><par n="vā/kt__vblex"/></e>
 <e lm="peldēt">          <i>peld</i><par n="tur/ēt__vblex"/></e>
 <e lm="griezties">       <i>grie</i><par n="sagā/zties__vblex"/></e>
@@ -3169,8 +3169,8 @@
 <e lm="sagāzties">       <i>sagā</i><par n="sagā/zties__vblex"/></e>
 <e lm="pastaigāt">       <i>pastaigā</i><par n="vīlē/t__vblex"/></e>
 <e lm="uzgleznot">       <i>uzglezno</i><par n="vīlē/t__vblex"/></e>
-<e lm="gribēt">          <i>grib</i><!-- var/ēt__vblex' was replaced --><par n="tur/ēt__vblex"/></e>
-<e lm="nodibināt">       <i>nodibin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="gribēt">          <i>grib</i><par n="tur/ēt__vblex"/></e>
+<e lm="nodibināt">       <i>nodibin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="novērsties">      <i>novēr</i><par n="izvēr/sties__vblex"/></e>
 <e lm="iznākt">          <i>iznā</i><par n="sanā/kt__vblex"/></e>
 <e lm="ierast">          <i>ier</i><par n="atr/ast__vblex"/></e>
@@ -3195,11 +3195,11 @@
 <e lm="pļāpāt">          <i>pļāpā</i><par n="vīlē/t__vblex"/></e>
 <e lm="maksāt">          <i>maksā</i><par n="vīlē/t__vblex"/></e>
 <e lm="sviest">          <i>svie</i><par n="lai/st__vblex"/></e>
-<e lm="nobrīdināt">      <i>nobrīdin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="nobrīdināt">      <i>nobrīdin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="skaitīt">         <i>skait</i><par n="vad/īt__vblex"/></e>
-<e lm="aprēķināt">       <i>aprēķin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="aprēķināt">       <i>aprēķin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="saredzēt">        <i>saredz</i><par n="tur/ēt__vblex"/></e>
-<e lm="uzvarēt">         <i>uzvar</i><!-- var/ēt__vblex' was replaced --><par n="tur/ēt__vblex"/></e>
+<e lm="uzvarēt">         <i>uzvar</i><par n="tur/ēt__vblex"/></e>
 <e lm="palaimēties">     <i>palaimē</i><par n="klā/ties__vblex"/></e>
 <e lm="apsveikt">        <i>apsvei</i><par n="vā/kt__vblex"/></e>
 <e lm="izrauties">       <i>izr</i><par n="r/auties__vblex"/></e>
@@ -3211,7 +3211,7 @@
 <e lm="noprast">         <i>nopr</i><par n="nopr/ast__vblex"/></e>
 <e lm="saskatīties">     <i>saskat</i><par n="cīn/īties__vblex"/></e>
 <e lm="izķert">          <i>izķ</i><par n="ķ/ert__vblex"/></e>
-<e lm="apmierināt">      <i>apmierin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="apmierināt">      <i>apmierin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="sūtīt">           <i>sūt</i><par n="vad/īt__vblex"/></e>
 <e lm="apvaicāties">     <i>apvaicā</i><par n="klā/ties__vblex"/></e>
 <e lm="attīstīties">     <i>attīst</i><par n="cīn/īties__vblex"/></e>
@@ -3230,7 +3230,7 @@
 <e lm="izaugt">          <i>izau</i><par n="au/gt__vblex"/></e>
 <e lm="pārspriest">      <i>pārsprie</i><par n="sprie/st__vblex"/></e>
 <e lm="novērtēt">        <i>novērtē</i><par n="vīlē/t__vblex"/></e>
-<e lm="palīdzēt">        <i>palīdz</i><!-- var/ēt__vblex' was replaced --><par n="tur/ēt__vblex"/></e>
+<e lm="palīdzēt">        <i>palīdz</i><par n="tur/ēt__vblex"/></e>
 <e lm="izbārstīties">    <i>izbārst</i><par n="cīn/īties__vblex"/></e>
 <e lm="pelnīt">          <i>peln</i><par n="peln/īt__vblex"/></e>
 <e lm="nolaist">         <i>nolai</i><par n="lai/st__vblex"/></e>
@@ -3238,26 +3238,26 @@
 <e lm="izvīlēt">         <i>izvīlē</i><par n="vīlē/t__vblex"/></e>
 <e lm="ārstēt">          <i>ārstē</i><par n="vīlē/t__vblex"/></e>
 <e lm="aizvirzīties">    <i>aizvirz</i><par n="cīn/īties__vblex"/></e>
-<e lm="pamodināt">       <i>pamodin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
-<e lm="izslēgt">         <i>izslē</i><!-- se/gt__vblex' was replaced --><par n="izbei/gt__vblex"/></e>
+<e lm="pamodināt">       <i>pamodin</i><par n="mēģin/āt__vblex"/></e>
+<e lm="izslēgt">         <i>izslē</i><par n="izbei/gt__vblex"/></e>
 <e lm="iesūtīt">         <i>iesūt</i><par n="vad/īt__vblex"/></e>
 <e lm="saglabāties">     <i>saglabā</i><par n="klā/ties__vblex"/></e>
 <e lm="ziņot">           <i>ziņo</i><par n="vīlē/t__vblex"/></e>
 <e lm="cienīt">          <i>cien</i><par n="peln/īt__vblex"/></e>
-<e lm="aizliegt">        <i>aizlie</i><!-- se/gt__vblex' was replaced --><par n="izbei/gt__vblex"/></e>
+<e lm="aizliegt">        <i>aizlie</i><par n="izbei/gt__vblex"/></e>
 <e lm="atbraukt">        <i>atbrau</i><par n="vā/kt__vblex"/></e>
 <e lm="tumst">           <i>tums</i><par n="tums/t__vblex"/></e>
 <e lm="nopirkt">         <i>nop</i><par n="p/irkt__vblex"/></e>
 <e lm="pakļauties">      <i>pakļ</i><par n="r/auties__vblex"/></e>
 <e lm="apprecēt">        <i>apprec</i><par n="tur/ēt__vblex"/></e>
 <e lm="braukt">          <i>brau</i><par n="vā/kt__vblex"/></e>
-<e lm="šķetināties">     <i>šķetin</i><!-- rēķin/āties__vblex' was replaced --><par n="turpin/āties__vblex"/></e>
+<e lm="šķetināties">     <i>šķetin</i><par n="turpin/āties__vblex"/></e>
 <e lm="apgalvot">        <i>apgalvo</i><par n="vīlē/t__vblex"/></e>
 <e lm="ierakstīt">       <i>ierakst</i><par n="vad/īt__vblex"/></e>
 <e lm="paņemt">          <i>paņ</i><par n="paņ/emt__vblex"/></e>
 <e lm="pagriezties">     <i>pagrie</i><par n="sagā/zties__vblex"/></e>
 <e lm="paprasīt">        <i>papras</i><par n="vad/īt__vblex"/></e>
-<e lm="iemācīt">         <i>iemāc</i><!-- iemāc/īt__vblex' was replaced --><par n="vad/īt__vblex"/></e>
+<e lm="iemācīt">         <i>iemāc</i><par n="vad/īt__vblex"/></e>
 <e lm="aptvert">         <i>aptv</i><par n="ķ/ert__vblex"/></e>
 <e lm="atgādāt">         <i>atgādā</i><par n="vīlē/t__vblex"/></e>
 <e lm="mirdzēt">         <i>mirdz</i><par n="tur/ēt__vblex"/></e>
@@ -3281,7 +3281,7 @@
 <e lm="sagatavot">       <i>sagatavo</i><par n="vīlē/t__vblex"/></e>
 <e lm="nesties">         <i>nes</i><par n="nes/ties__vblex"/></e>
 <e lm="nodot">           <i>nod</i><par n="d/ot__vblex"/></e>
-<e lm="nodedzināt">      <i>nodedzin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="nodedzināt">      <i>nodedzin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="aizstiept">       <i>aizstiep</i><par n="glāb/t__vblex"/></e>
 <e lm="dancot">          <i>danco</i><par n="vīlē/t__vblex"/></e>
 <e lm="sasiet">          <i>sas</i><par n="skr/iet__vblex"/></e>
@@ -3289,7 +3289,7 @@
 <e lm="noteikt">         <i>notei</i><par n="vā/kt__vblex"/></e>
 <e lm="apsolīt">         <i>apsol</i><par n="vad/īt__vblex"/></e>
 <e lm="iesprūst">        <i>iesprū</i><par n="ienī/st__vblex"/></e>
-<e lm="apstādināt">      <i>apstādin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="apstādināt">      <i>apstādin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="aizlaist">        <i>aizlai</i><par n="lai/st__vblex"/></e>
 <e lm="studēt">          <i>studē</i><par n="vīlē/t__vblex"/></e>
 <e lm="aizbraukt">       <i>aizbrau</i><par n="vā/kt__vblex"/></e>
@@ -3306,7 +3306,7 @@
 <e lm="pavēlēt">         <i>pavēl</i><par n="vēl/ēt__vblex"/></e>
 <e lm="peldēties">       <i>peld</i><par n="tur/ēties__vblex"/></e>
 <e lm="ēst">             <i>ē</i><par n="ē/st__vblex"/></e>
-<e lm="nosvilināt">      <i>nosvilin</i><!-- nicin/āt__vblex' was replaced --><par n="mēģin/āt__vblex"/></e>
+<e lm="nosvilināt">      <i>nosvilin</i><par n="mēģin/āt__vblex"/></e>
 <e lm="zagt">            <i>z</i><par n="z/agt__vblex"/></e>
 <e lm="uzsvērt">         <i>uzsv</i><par n="uzsv/ērt__vblex"/></e>
 <e lm="pierādīt">        <i>pierād</i><par n="vad/īt__vblex"/></e>
