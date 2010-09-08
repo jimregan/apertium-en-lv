@@ -208,21 +208,9 @@
   <e>       <p><l>odas</l>      <r>oties<s n="vblex"/><s n="ref"/><s n="pri"/><s n="p3"/><s n="sp"/></r></p></e>
 </pardef>
 <pardef n="/sagribēties__vblex">
-  <e>       <p><l>-</l>         <r>sagribēties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>sagribēties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>-</l>         <r>sagribēties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>sagribēties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>sagribēsies</l><r>sagribēties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p3"/><s n="sp"/></r></p></e>
   <e>       <p><l>sagribēties</l><r>sagribēties<s n="vblex"/><s n="ref"/><s n="inf"/></r></p></e>
-  <e>       <p><l>-</l>         <r>sagribēties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>sagribēties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>-</l>         <r>sagribēties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>sagribēties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>sagribējās</l><r>sagribēties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p3"/><s n="sp"/></r></p></e>
-  <e>       <p><l>-</l>         <r>sagribēties<s n="vblex"/><s n="ref"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>sagribēties<s n="vblex"/><s n="ref"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>-</l>         <r>sagribēties<s n="vblex"/><s n="ref"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>sagribēties<s n="vblex"/><s n="ref"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>sagribas</l>  <r>sagribēties<s n="vblex"/><s n="ref"/><s n="pri"/><s n="p3"/><s n="sp"/></r></p></e>
 </pardef>
 <pardef n="k/ulties__vblex">
@@ -1844,12 +1832,6 @@
   <e>       <p><l>sašuti</l>    <r>sašust<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
   <e>       <p><l>sašutāt</l>   <r>sašust<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>sašuta</l>    <r>sašust<s n="vblex"/><s n="past"/><s n="p3"/><s n="sp"/></r></p></e>
-  <e>       <p><l>-</l>         <r>sašust<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>sašust<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>-</l>         <r>sašust<s n="vblex"/></r></p><par n="zogam/s__pprs_psv"/></e>
-  <e>       <p><l>-</l>         <r>sašust<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>sašust<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
-  <e>       <p><l>-</l>         <r>sašust<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r></p></e>
 </pardef>
 <pardef n="atsa/cīties__vblex">
   <e>       <p><l>cīšos</l>     <r>cīties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
@@ -1976,21 +1958,9 @@
   <e>       <p><l>ij</l>        <r>īt<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r></p></e>
 </pardef>
 <pardef n="/nākties__vblex">
-  <e>       <p><l>-</l>         <r>nākties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>nākties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>-</l>         <r>nākties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>nākties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>nāksies</l>   <r>nākties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p3"/><s n="sp"/></r></p></e>
   <e>       <p><l>nākties</l>   <r>nākties<s n="vblex"/><s n="ref"/><s n="inf"/></r></p></e>
-  <e>       <p><l>-</l>         <r>nākties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>nākties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>-</l>         <r>nākties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>nākties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>nācās</l>     <r>nākties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p3"/><s n="sp"/></r></p></e>
-  <e>       <p><l>-</l>         <r>nākties<s n="vblex"/><s n="ref"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>nākties<s n="vblex"/><s n="ref"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>-</l>         <r>nākties<s n="vblex"/><s n="ref"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>nākties<s n="vblex"/><s n="ref"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>nākas</l>     <r>nākties<s n="vblex"/><s n="ref"/><s n="pri"/><s n="p3"/><s n="sp"/></r></p></e>
 </pardef>
 <pardef n="ķ/ert__vblex">
@@ -2054,21 +2024,9 @@
   <e>       <p><l>ļ</l>         <r>lēt<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r></p></e>
 </pardef>
 <pardef n="/ievajadzēties__vblex">
-  <e>       <p><l>-</l>         <r>ievajadzēties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>ievajadzēties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>-</l>         <r>ievajadzēties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>ievajadzēties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>ievajadzēsies</l><r>ievajadzēties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p3"/><s n="sp"/></r></p></e>
   <e>       <p><l>ievajadzēties</l><r>ievajadzēties<s n="vblex"/><s n="ref"/><s n="inf"/></r></p></e>
-  <e>       <p><l>-</l>         <r>ievajadzēties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>ievajadzēties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>-</l>         <r>ievajadzēties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>ievajadzēties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>ievajadzējās</l><r>ievajadzēties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p3"/><s n="sp"/></r></p></e>
-  <e>       <p><l>-</l>         <r>ievajadzēties<s n="vblex"/><s n="ref"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>ievajadzēties<s n="vblex"/><s n="ref"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>-</l>         <r>ievajadzēties<s n="vblex"/><s n="ref"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>ievajadzēties<s n="vblex"/><s n="ref"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>ievajagas</l> <r>ievajadzēties<s n="vblex"/><s n="ref"/><s n="pri"/><s n="p3"/><s n="sp"/></r></p></e>
 </pardef>
 <pardef n="/iet__vblex">
@@ -2442,21 +2400,9 @@
   <e>       <p><l>auj</l>       <r>aut<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r></p></e>
 </pardef>
 <pardef n="/iegribēties__vblex">
-  <e>       <p><l>-</l>         <r>iegribēties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>iegribēties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>-</l>         <r>iegribēties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>iegribēties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>iegribēsies</l><r>iegribēties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p3"/><s n="sp"/></r></p></e>
   <e>       <p><l>iegribēties</l><r>iegribēties<s n="vblex"/><s n="ref"/><s n="inf"/></r></p></e>
-  <e>       <p><l>-</l>         <r>iegribēties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>iegribēties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>-</l>         <r>iegribēties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>iegribēties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>iegribējās</l><r>iegribēties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p3"/><s n="sp"/></r></p></e>
-  <e>       <p><l>-</l>         <r>iegribēties<s n="vblex"/><s n="ref"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>iegribēties<s n="vblex"/><s n="ref"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>-</l>         <r>iegribēties<s n="vblex"/><s n="ref"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e>       <p><l>-</l>         <r>iegribēties<s n="vblex"/><s n="ref"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>iegribas</l>  <r>iegribēties<s n="vblex"/><s n="ref"/><s n="pri"/><s n="p3"/><s n="sp"/></r></p></e>
 </pardef>
 <pardef n="sē/sties__vblex">

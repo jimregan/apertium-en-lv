@@ -6,8 +6,7 @@ use strict;
 my $parname;
  
 while (<>) {
-	if (/<l>([^<]*)<\/l>[^>]*<r>([^<]*)</ && ($1 eq $2)) {
-		print if (/"inf"/);
+	if (/<l>([^<]*)<\/l>[^>]*<r>([^<]*)</ && ($1 eq "-")) {
 	} else {
 		print;
 	}
