@@ -8,5 +8,8 @@ my $parname;
 while (<>) {
 	print;
 	next if (/"ref"/);
-	print if (s!<s n="inf"/></r></p>!</r></p><par n="lēkt/s__pp_psv"/>!);
+	if (s!<s n="past"/><s n="p3"/><s n="sp"/></r></p>!</r></p><par n="cēl/is__pp_act"/>!) {
+		s!a</l>!</l>!;
+		print;
+	}
 }
