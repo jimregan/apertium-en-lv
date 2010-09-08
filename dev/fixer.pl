@@ -6,8 +6,7 @@ use strict;
 my $parname;
  
 while (<>) {
-	if (/<l>([^<]*)<\/l>[^>]*<r>([^<]*)</ && ($1 eq "-")) {
-	} else {
-		print;
-	}
+	print;
+	next if (/"ref"/);
+	print if (s!<s n="inf"/></r></p>!</r></p><par n="lēkt/s__pp_psv"/>!);
 }
