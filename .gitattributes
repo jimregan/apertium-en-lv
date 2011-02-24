@@ -1,8 +1,29 @@
 * text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/alt.xsl -text
 /apertium-en-lv.en-lv.dix -text
+/apertium-en-lv.en-lv.t1x -text
+/apertium-en-lv.en-lv.t2x -text
+/apertium-en-lv.en-lv.t3x -text
+/apertium-en-lv.en.acx -text
+/apertium-en-lv.en.metadix -text
+/apertium-en-lv.en.tsx -text
 /apertium-en-lv.lv-en.t1x -text
+/apertium-en-lv.lv-en.t2x -text
+/apertium-en-lv.lv-en.t3x -text
+/apertium-en-lv.lv.acx -text
 /apertium-en-lv.lv.dix -text
 /apertium-en-lv.lv.tsx -text
+/apertium-en-lv.post-en.dix -text
+/apertium-en-lv.post-lv.dix -text
+/autogen.sh -text
+/buscaPar.xsl -text
+/configure.ac -text
 dev/find-equals-output -text
 dev/find-equals.pl -text
 dev/fixer.pl -text
@@ -15,3 +36,7 @@ dev/verb-table-to-speling.pl -text
 dev/verbs.chopped.dix -text
 dev/verbs.dix -text
 dev/wikilist -text
+/en-lv.prob -text svneol=unset#unset
+/lv-en.prob -text
+/modes.xml -text
+/principal.xsl -text
