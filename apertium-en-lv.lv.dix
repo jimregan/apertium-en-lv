@@ -4,9 +4,7 @@
   <sdefs>
     <sdef n="n"/>
     <sdef n="pr"/>
-    <sdef n="emph"/>
-    <sdef n="det"/>
-    <sdef n="itg"/>
+    <sdef n="rel"/>
     <sdef n="al"/>
     <sdef n="ant"/>
     <sdef n="m"/>
@@ -19,9 +17,7 @@
     <sdef n="loc"      c="Lokatīvs"/>
     <sdef n="voc"      c="Vokatīvs"/>
     <sdef n="adv"/>
-    <sdef n="preadv"/>
     <sdef n="adj"/>
-    <sdef n="sint"/>
     <sdef n="pos"/>
     <sdef n="comp"/>
     <sdef n="sup"/>
@@ -58,13 +54,11 @@
     <sdef n="sent"/>
     <sdef n="cm"/>
     <sdef n="neg"/>
-    <sdef n="adj"/>
     <sdef n="sint"/>
     <sdef n="pp"/>
     <sdef n="psv"/>
     <sdef n="act"/>
     <sdef n="pprs"/>
-    <sdef n="comp"/>
     <sdef n="subst"/>
     <sdef n="def"/>
     <sdef n="ind" c="Indirect"/>
