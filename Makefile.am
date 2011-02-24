@@ -47,9 +47,9 @@ $(PREFIX1).t1x.bin: $(BASENAME).$(PREFIX1).t1x
 	apertium-validate-transfer $(BASENAME).$(PREFIX1).t1x
 	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t1x $@
 
-$(PREFIX1).t1x.bin: $(BASENAME).$(PREFIX1).t1x
-	apertium-validate-transfer $(BASENAME).$(PREFIX1).t1x
-	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t1x $@
+$(PREFIX2).t1x.bin: $(BASENAME).$(PREFIX1).t1x
+	apertium-validate-transfer $(BASENAME).$(PREFIX2).t1x
+	apertium-preprocess-transfer $(BASENAME).$(PREFIX2).t1x $@
 
 $(PREFIX1).t2x.bin: $(BASENAME).$(PREFIX1).t2x
 	apertium-validate-interchunk $(BASENAME).$(PREFIX1).t2x
